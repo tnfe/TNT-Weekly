@@ -1,5 +1,5 @@
 # tnfe-weekly
-:notebook:每周为你提供高质量小程序、h5和其它前端相关的文章和项目:mountain_bicyclist:。
+:honeybee:每周为你提供高质量小程序、h5和其它前端相关的文章和项目:sparkles:。
 
 ## 第三周[最新]
 1. [干货 | 面向前端工程师的机器学习引导课](https://cloud.tencent.com/developer/article/1157062)
