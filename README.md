@@ -1,7 +1,7 @@
 # tnfe-weekly
-:honeybee:每周为你提供高质量小程序、h5和其它前端相关的文章和项目:sparkles:。
+:honeybee:每周为你提供高质量的关于小程序、h5等前端领域的文章和项目:sparkles:。
 
-## 第三周[最新]
+## 第三周:new:
 1. [干货 | 面向前端工程师的机器学习引导课](https://cloud.tencent.com/developer/article/1157062)
 2. [2019 - Web开发技术指南和趋势](https://segmentfault.com/a/1190000017483325)
 3. [Node.js环境性能监控](https://juejin.im/post/5c71324b6fb9a049d37fbb7c)
