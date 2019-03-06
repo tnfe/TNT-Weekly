@@ -1,6 +1,6 @@
 # TNFE-Weekly
 
-![https://raw.githubusercontent.com/Tnfe/TNFE-Weekly/master/assets/weekly-banner.png]()
+![weekly-banner](https://raw.githubusercontent.com/Tnfe/TNFE-Weekly/master/assets/weekly-banner.png "weekly-banner")
 
 前端行业发展飞速，新技术如雨后春笋般快速出现，尤其是各种小程序陆续推出，相关的信息、文章也铺天盖地的遍布在各处，我们有时候会困惑，不知道哪些信息对于自己是有价值的，那么TNFE团队启动了这个周刊项目，为所有的前端开发人员整理出小程序相关以及其它web前端技术领域的精品内容。
 
