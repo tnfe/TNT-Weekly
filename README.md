@@ -1,5 +1,38 @@
-# tnfe-weekly
-:honeybee:每周为你提供高质量的关于小程序、h5等前端领域的文章和项目:sparkles:。
+# TNFE-Weekly
+
+![](/Users/johnnyhan/work/TNFE/team/tnfe-weekly/assets/weekly-banner.png)
+
+前端行业发展飞速，新技术如雨后春笋般快速出现，尤其是各种小程序陆续推出，相关的信息、文章也铺天盖地的遍布在各处，我们有时候会困惑，不知道哪些信息对于自己是有价值的，那么TNFE团队启动了这个周刊项目，为所有的前端开发人员整理出小程序相关以及其它web前端技术领域的精品内容。
+
+:honeybee:我们坚持每周为你提供高质量的关于小程序、h5等前端领域的文章和项目:sparkles:。
+
+<br />
+
+## 欢迎参与
+
+如果你有兴趣参与，可以把发现的有价值的信息、文章等在[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)里提给我们，记得写上推荐的理由哈，我们会尽快处理。有建议和意见也欢迎到[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)提出。
+
+<br />
+
+## 业内知名Weekly
+
+[50weekly]("https://github.com/ihtml5/50weekly")
+
+<br />
+
+## 团队博客
+
+[腾讯新闻前端团队-TNFE](https://segmentfault.com/blog/tnfe)
+
+<br />
+
+## 团队Github
+
+[TNFE](https://github.com/Tnfe)
+
+<br />
+
+## Weekly：
 
 ## 第三周:new:
 1. [干货 | 面向前端工程师的机器学习引导课](https://cloud.tencent.com/developer/article/1157062)
