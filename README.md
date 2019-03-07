@@ -14,12 +14,6 @@
 
 <br />
 
-## 业内知名Weekly
-
-[50weekly](https://github.com/ihtml5/50weekly)
-
-<br />
-
 ## 团队博客
 
 [腾讯新闻前端团队-TNFE](https://segmentfault.com/blog/tnfe)
