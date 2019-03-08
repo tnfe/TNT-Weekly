@@ -28,7 +28,16 @@
 
 ## Weekly：
 
-## 第三周:new:
+## 第四周:new:
+
+1. [Omi 多端开发之 - omip 适配 h5 原理揭秘](https://developers.weixin.qq.com/community/develop/article/doc/0002c4a1ba83684b8d380800756c13?from=groupmessage&isappinstalled=0)
+2. [一次弄懂Event Loop](https://juejin.im/post/5c3d8956e51d4511dc72c200?utm_source=gold_browser_extension&from=timeline&isappinstalled=0)
+3. [让动画变得更简单之FLIP技术](https://mp.weixin.qq.com/s/pxgOJTtnIRKNn7Rx-2oBrg)
+4. [多重影分身：一套代码如何生成多个小程序？](https://mp.weixin.qq.com/s/CQLGBb18iKe1k-5XxNfaJA)
+5. [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
+6. [Avoid Nightmares — NSFW JS](https://shift.infinite.red/avoid-nightmares-nsfw-js-ab7b176978b1)
+
+## 第三周
 1. [干货 | 面向前端工程师的机器学习引导课](https://cloud.tencent.com/developer/article/1157062)
 2. [2019 - Web开发技术指南和趋势](https://segmentfault.com/a/1190000017483325)
 3. [Node.js环境性能监控](https://juejin.im/post/5c71324b6fb9a049d37fbb7c)
