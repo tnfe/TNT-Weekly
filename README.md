@@ -28,7 +28,18 @@
 
 ## Weekly：
 
-## 第四周:new:
+## 第五周:new:
+
+1. [Taro 多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React Native）](https://mp.weixin.qq.com/s/zZYQHNS3fBH_PpcNF8T1aQ)
+2. [支持多种小程序！阿里云ARMS推出小程序监控](https://mp.weixin.qq.com/s/HkSzum3JoK8K7HNivNw6_g)
+3. [GraphQL入门指南](https://mp.weixin.qq.com/s/Cx3xxPbqhb_Zx7mjyS3Tyg)
+4. [干货 | 浅谈React数据流管理](https://mp.weixin.qq.com/s/ii6H6mhe2OAUf7RquVxN8g)
+5. [Building rich command-line interfaces with Ink and React](https://vadimdemedes.com/posts/building-rich-command-line-interfaces-with-ink-and-react)
+6. [Advanced Frontend Webapp Architecture With Laravel and Vue JS](https://morioh.com/p/37e58768c22e/advanced-frontend-webapp-architecture-with-laravel-and-vue-js)
+7. [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/)
+8. [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/)
+
+## 第四周
 
 1. [Omi 多端开发之 - omip 适配 h5 原理揭秘](https://developers.weixin.qq.com/community/develop/article/doc/0002c4a1ba83684b8d380800756c13?from=groupmessage&isappinstalled=0)
 2. [一次弄懂Event Loop](https://juejin.im/post/5c3d8956e51d4511dc72c200?utm_source=gold_browser_extension&from=timeline&isappinstalled=0)
