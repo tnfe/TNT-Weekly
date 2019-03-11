@@ -8,25 +8,25 @@
 
 <br />
 
-## 欢迎参与
+##  :clap: 欢迎参与​
 
 如果你有兴趣参与，可以把发现的有价值的信息、文章等在[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)里提给我们，记得写上推荐的理由哈，我们会尽快处理。有建议和意见也欢迎到[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)提出。
 
 <br />
 
-## 团队博客
+## :steam_locomotive: ​团队博客
 
 [腾讯新闻前端团队-TNFE](https://segmentfault.com/blog/tnfe)
 
 <br />
 
-## 团队Github
+## :cat: 团队Github
 
 [TNFE](https://github.com/Tnfe)
 
 <br />
 
-## Weekly：
+## :books: ​Weekly：
 
 ## 第八周:new:
 
