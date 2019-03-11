@@ -28,7 +28,29 @@
 
 ## Weekly：
 
-## 第五周:new:
+## 第七周:new:
+
+1. [腾讯技术分享：微信小程序音视频技术背后的故事](https://www.jianshu.com/p/2cb90379ffd5)
+2. [前端同构渲染的思考与实践](https://juejin.im/post/5c821dc45188257e1f2915b1)
+3. [阿里巴巴技术专家三画：如何画好架构图](https://mp.weixin.qq.com/s/MZwTb3nINuRsOKy0mLNa_A)
+4. [从前端模块化编程切入想聊聊前端的未来](https://juejin.im/post/5c82323ce51d453a5f22b281)
+5. [Sniffing Codes in Hot Module Reloading Messages](https://blog.cal1.cn/post/Sniffing%20Codes%20in%20Hot%20Module%20Reloading%20Messages)
+6. [Keeping your code clean](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10)
+7. [ECMAScript 10 - JavaScript this year](https://blog.larapulse.com/es-2015/ecmascript-10)
+8. [Avoiding those dang cannot read property of undefined errors](https://css-tricks.com/%E2%80%8B%E2%80%8Bavoiding-those-dang-cannot-read-property-of-undefined-errors/)
+
+## 第六周
+
+1. [超全面的小程序开发资源集合，你一定需要](https://mp.weixin.qq.com/s/UgYiznqgZydZ7g6P86op6A)
+2. [精读《React Hooks》](https://juejin.im/post/5be8d3def265da611a476231)
+3. [微信小程序剖析 | 运行机制及框架原理](https://sdk.cn/news/5415)
+4. [为何我们要用 React 来写小程序 - Taro 诞生记](https://aotu.io/notes/2018/06/25/the-birth-of-taro/index.html)
+5. [Angular vs Vue vs React: Which Framework to Choose in 2019](https://www.codeinwp.com/blog/angular-vs-vue-vs-react/)
+6. [React Hooks Tutorial for Beginners: Getting Started With React Hooks (2019)](https://www.valentinog.com/blog/hooks/)
+7. [Plans for the Next Iteration of Vue.js](https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf)
+8. [Create a desktop app with Electron, React and C#](https://morioh.com/p/0222de07e2e2/create-a-desktop-app-with-electron-react-and-c)
+
+## 第五周
 
 1. [Taro 多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React Native）](https://mp.weixin.qq.com/s/zZYQHNS3fBH_PpcNF8T1aQ)
 2. [支持多种小程序！阿里云ARMS推出小程序监控](https://mp.weixin.qq.com/s/HkSzum3JoK8K7HNivNw6_g)
