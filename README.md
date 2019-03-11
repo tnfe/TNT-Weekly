@@ -28,7 +28,18 @@
 
 ## Weekly：
 
-## 第七周:new:
+## 第八周:new:
+
+1. [手把手教会你小程序登录鉴权](https://juejin.im/post/5ac9b72cf265da23906c486a)
+2. [支付宝小程序面向个人开放了！我将以一个 Demo 为例讲解整个流程。](https://segmentfault.com/a/1190000018391272)
+3. [Vmo前端数据模型设计](https://juejin.im/post/5c793a10e51d4506ce5b0918)
+4. [利用 Webpack 实现小程序多项目管理](https://segmentfault.com/a/1190000018269045)
+5. [What is the Execution Context & Stack in JavaScript?](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/#first-article)
+6. [Using Proxy to Track Javascript Class](https://medium.com/front-end-weekly/using-proxy-to-track-javascript-class-50a33a6ccb)
+7. [TypeScript With Babel: A Beautiful Marriage](https://iamturns.com/typescript-babel/)
+8. [Two less known facts about Vuex](https://vuedose.tips/tips/8/)
+
+## 第七周
 
 1. [腾讯技术分享：微信小程序音视频技术背后的故事](https://www.jianshu.com/p/2cb90379ffd5)
 2. [前端同构渲染的思考与实践](https://juejin.im/post/5c821dc45188257e1f2915b1)
