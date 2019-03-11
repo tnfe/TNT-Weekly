@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九周:new:
+## 第十周:new:
+
+1. [一款小而美的小程序脚手架，让你更流畅的开发小程序](https://juejin.im/post/5c7de1f9e51d457cb60884fc)
+2. [记一次Promise在api接口合并中的实践](https://juejin.im/post/5c80b548518825407b2b64a4)
+3. [京东Vue组件库NutUI 2.0发布：将支持跨平台！](https://mp.weixin.qq.com/s/wzvqyhQWtyMQm1QAS83aHg)
+4. [JS 中的 Reflect 和 Proxy](https://juejin.im/post/5c7e6857e51d4542194f8c6f)
+5. [event.stopPropagation() in a modular system](https://www.moxio.com/blog/19/event-stoppropagation-in-a-modular-system)
+6. [Applying Styles Based on the User Scroll Position with Smart CSS](https://pqina.nl/blog/applying-styles-based-on-the-user-scroll-position-with-smart-css/)
+7. [AST for JavaScript developers](https://itnext.io/ast-for-javascript-developers-3e79aeb08343)
+8. [The Difference Between a Framework and a Library](https://medium.freecodecamp.org/the-difference-between-a-framework-and-a-library-bd133054023f)
+
+## 第九周
 
 1. [扩展微信小程序框架功能](https://segmentfault.com/a/1190000008068632)
 2. [前端开发者必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
