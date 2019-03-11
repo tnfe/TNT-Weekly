@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第八周:new:
+## 第九周:new:
+
+1. [扩展微信小程序框架功能](https://segmentfault.com/a/1190000008068632)
+2. [前端开发者必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
+3. [那些很熟却又不是很熟的知识](https://segmentfault.com/a/1190000018463897)
+4. [精读《Serverless 给前端带来了什么》](https://segmentfault.com/a/1190000018455041)
+5. [CSS Grid VS Flexbox: A Practical Comparison](https://tutorialzine.com/2017/03/css-grid-vs-flexbox)
+6. [To Grid or to Flex?](https://css-irl.info/to-grid-or-to-flex/)
+7. [Alternatives to JSX](https://blog.bloomca.me/2019/02/23/alternatives-to-jsx.html)
+8. [Animating URLs with Javascript and Emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/)
+
+## 第八周
 
 1. [手把手教会你小程序登录鉴权](https://juejin.im/post/5ac9b72cf265da23906c486a)
 2. [支付宝小程序面向个人开放了！我将以一个 Demo 为例讲解整个流程。](https://segmentfault.com/a/1190000018391272)
