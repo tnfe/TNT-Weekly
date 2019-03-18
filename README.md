@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第十周:new:
+## 第十一周:new:
+
+1. [深入理解小程序中的数据——小程序探索](https://segmentfault.com/a/1190000018014219)
+2. [前端人工智能：通过机器学习推导函数方程式--铂金Ⅲ](https://segmentfault.com/a/1190000018536190)
+3. [你可能不太会用的10个Git命令](https://juejin.im/post/5c8f01daf265da6811614f71)
+4. [V8 新机制：JIT-less 模式](https://www.oschina.net/news/105176/v8-jitless)
+5. [From Higher-Order Functions to Libraries And Frameworks](<http://raganwald.com/2016/12/15/what-higher-order-functions-can-teach-us-about-libraries-and-frameworks.html>)
+6. [Sliding In And Out Of Vue.js](https://www.smashingmagazine.com/2019/02/vue-framework-third-party-javascript/)
+7. [What's the longest keyword sequence in Javascript?](https://gist.github.com/lhorie/c0d9fd9b2aa215f4984f3ce1c8fd01bf)
+8. [How Are Function Components Different from Classes?](https://overreacted.io/how-are-function-components-different-from-classes/)
+
+## 第十周
 
 1. [一款小而美的小程序脚手架，让你更流畅的开发小程序](https://juejin.im/post/5c7de1f9e51d457cb60884fc)
 2. [记一次Promise在api接口合并中的实践](https://juejin.im/post/5c80b548518825407b2b64a4)
