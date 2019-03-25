@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第十一周:new:
+## 第十二周:new:
+
+1. [小程序多端框架全面测评](<https://mp.weixin.qq.com/s?__biz=Mzg2NTA4NTIwNA==&mid=2247484043&idx=1&sn=6e527bf97ad24b9e9eabc11e07a00fec&chksm=ce5e30f0f929b9e67b916b9ea95687bff99e4bd852e87a5b0810373bdc7e97a14a2552f5beda&mpshare=1&scene=1&srcid=&rd2werd=1#wechat_redirect>)
+2. [微信，支付宝小程序实现原理概述](<https://juejin.im/post/5c970d16f265da612d634475>)
+3. [JavaScript多线程编程](https://segmentfault.com/a/1190000018398599)
+4. [JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
+5. [Death by a thousand cuts - a checklist for eliminating common React performance issues](https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/#4-avoid-passing-new-objects-as-props)
+6. [7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83)
+7. [Caching best practices & max-age gotchas](https://jakearchibald.com/2016/caching-best-practices/)
+8. [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+
+## 第十一周
 
 1. [深入理解小程序中的数据——小程序探索](https://segmentfault.com/a/1190000018014219)
 2. [前端人工智能：通过机器学习推导函数方程式--铂金Ⅲ](https://segmentfault.com/a/1190000018536190)
