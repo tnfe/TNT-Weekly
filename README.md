@@ -138,7 +138,7 @@
 1. [小程序通用转译框架娜娜奇1.0.4发布](https://zhuanlan.zhihu.com/p/53592174)
 2. [Diff Match Patch是一种用于处理纯文本的多种语言的高性能库](https://github.com/google/diff-match-patch)
 3. [AlloyTeam ESLint 规则](https://github.com/AlloyTeam/eslint-config-alloy)
-4. [JavaScript Standard Style，2万star的规范](https://juejin.im/post/5c248f0ff265da611c270815)
+4. [JavaScript Standard Style，2万star的规范](https://github.com/standard/standard)
 5. [2018年，JavaScript都经历了什么？](https://juejin.im/entry/5c217c85f265da617265809e)
 
 ## 第一周
