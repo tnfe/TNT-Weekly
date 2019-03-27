@@ -20,7 +20,7 @@
 
 <br />
 
-## :cat: 团队Github
+## :cat: 团队GitHub
 
 [TNFE](https://github.com/Tnfe)
 
