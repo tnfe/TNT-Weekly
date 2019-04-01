@@ -30,21 +30,14 @@
 
 ## 第十三周:new:
 
-[腾讯 Omi 团队发布 mp-jsx - 原生小程序支持 JSX](<https://juejin.im/post/5ca16df8e51d45301b5c9535>)
-
-[跨端开发框架深度横评](<https://juejin.im/post/5ca1736af265da30ae314248>)
-
-[git时光穿梭机--女神的侧颜](https://segmentfault.com/a/1190000018726100)
-
-[浏览器缓存看这一篇就够了](https://segmentfault.com/a/1190000018717463)
-
-[How to fetch data with React Hooks?](<https://www.robinwieruch.de/react-hooks-fetch-data/>)
-
-[Cache-Control for Civilians](<https://csswizardry.com/2019/03/cache-control-for-civilians/>)
-
-[Circle Hover Effects with CSS Transitions](<https://tympanus.net/codrops/2012/08/08/circle-hover-effects-with-css-transitions/>)
-
-[Garbage collection](<https://javascript.info/garbage-collection#reachability>)
+1. [腾讯 Omi 团队发布 mp-jsx - 原生小程序支持 JSX](<https://juejin.im/post/5ca16df8e51d45301b5c9535>)
+2. [跨端开发框架深度横评](<https://juejin.im/post/5ca1736af265da30ae314248>)
+3. [git时光穿梭机--女神的侧颜](https://segmentfault.com/a/1190000018726100)
+4. [浏览器缓存看这一篇就够了](https://segmentfault.com/a/1190000018717463)
+5. [How to fetch data with React Hooks?](<https://www.robinwieruch.de/react-hooks-fetch-data/>)
+6. [Cache-Control for Civilians](<https://csswizardry.com/2019/03/cache-control-for-civilians/>)
+7. [Circle Hover Effects with CSS Transitions](<https://tympanus.net/codrops/2012/08/08/circle-hover-effects-with-css-transitions/>)
+8. [Garbage collection](<https://javascript.info/garbage-collection#reachability>)
 
 ## 第十二周
 
