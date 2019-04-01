@@ -28,7 +28,25 @@
 
 ## :books: ​Weekly：
 
-## 第十二周:new:
+## 第十三周:new:
+
+[腾讯 Omi 团队发布 mp-jsx - 原生小程序支持 JSX](<https://juejin.im/post/5ca16df8e51d45301b5c9535>)
+
+[跨端开发框架深度横评](<https://juejin.im/post/5ca1736af265da30ae314248>)
+
+[git时光穿梭机--女神的侧颜](https://segmentfault.com/a/1190000018726100)
+
+[浏览器缓存看这一篇就够了](https://segmentfault.com/a/1190000018717463)
+
+[How to fetch data with React Hooks?](<https://www.robinwieruch.de/react-hooks-fetch-data/>)
+
+[Cache-Control for Civilians](<https://csswizardry.com/2019/03/cache-control-for-civilians/>)
+
+[Circle Hover Effects with CSS Transitions](<https://tympanus.net/codrops/2012/08/08/circle-hover-effects-with-css-transitions/>)
+
+[Garbage collection](<https://javascript.info/garbage-collection#reachability>)
+
+## 第十二周
 
 1. [小程序多端框架全面测评](<https://mp.weixin.qq.com/s?__biz=Mzg2NTA4NTIwNA==&mid=2247484043&idx=1&sn=6e527bf97ad24b9e9eabc11e07a00fec&chksm=ce5e30f0f929b9e67b916b9ea95687bff99e4bd852e87a5b0810373bdc7e97a14a2552f5beda&mpshare=1&scene=1&srcid=&rd2werd=1#wechat_redirect>)
 2. [微信，支付宝小程序实现原理概述](<https://juejin.im/post/5c970d16f265da612d634475>)
