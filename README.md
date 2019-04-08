@@ -34,7 +34,7 @@
 2. [前端开发者必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
 3. [深入理解前端性能监控](https://segmentfault.com/a/1190000018785911)
 4. [JavaScript 代码简洁之道](https://juejin.im/post/5caae923f265da24d70c395a)
-5. [https://vuedose.tips/tips/run-watchers-when-a-vue-js-component-is-created/](Run watchers when a Vue.js component is created)
+5. [Run watchers when a Vue.js component is created](https://vuedose.tips/tips/run-watchers-when-a-vue-js-component-is-created/)
 6. [30 Seconds of Interviews](https://github.com/30-seconds/30-seconds-of-interviews/blob/master/README.md)
 7. [Get familiar with full stack TypeScript](https://www.tsmean.com/articles/)
 8. [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
