@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第十三周:new:
+## 第十四周:new:
+
+1. [2019，帮助你更好的开发小程序](https://segmentfault.com/a/1190000018608597)
+2. [前端开发者必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
+3. [深入理解前端性能监控](https://segmentfault.com/a/1190000018785911)
+4. [JavaScript 代码简洁之道](https://juejin.im/post/5caae923f265da24d70c395a)
+5. [https://vuedose.tips/tips/run-watchers-when-a-vue-js-component-is-created/](Run watchers when a Vue.js component is created)
+6. [30 Seconds of Interviews](https://github.com/30-seconds/30-seconds-of-interviews/blob/master/README.md)
+7. [Get familiar with full stack TypeScript](https://www.tsmean.com/articles/)
+8. [Scheduling in React](https://philippspiess.com/scheduling-in-react/)
+
+## 第十三周
 
 1. [腾讯 Omi 团队发布 mp-jsx - 原生小程序支持 JSX](<https://juejin.im/post/5ca16df8e51d45301b5c9535>)
 2. [跨端开发框架深度横评](<https://juejin.im/post/5ca1736af265da30ae314248>)
