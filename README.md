@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第十四周:new:
+## 第十五周:new:
+
+1. [彻底搞懂小程序登录流程-附小程序和服务端代码](https://juejin.im/post/5bda7bfb6fb9a02228233f45)
+2. [三年大厂面试官-前端面试题披露（偏难）](https://juejin.im/post/5cb0315f518825215e61ec14)
+3. [移动端开发新趋势Flutter](https://segmentfault.com/a/1190000018770923)
+4. [【React深入】从Mixin到HOC再到Hook](https://segmentfault.com/a/1190000018811476)
+5. [Deploy Your Own REST API in 30 Mins Using mLab and Heroku](https://www.sitepoint.com/deploy-rest-api-in-30-mins-mlab-heroku/)
+6. [A Complete React Redux Tutorial for Beginners (2019)](https://daveceddia.com/redux-tutorial/)
+7. [An Illustrated (and Musical) Guide to Map, Reduce, and Filter Array Methods](https://css-tricks.com/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods/)
+8. [Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch/)
+
+## 第十四周
 
 1. [2019，帮助你更好的开发小程序](https://segmentfault.com/a/1190000018608597)
 2. [前端开发者必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
