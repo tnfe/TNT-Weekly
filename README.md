@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第十五周:new:
+## 第十六周:new:
+
+1. [Gitter - 高颜值GitHub小程序客户端诞生记](<https://juejin.im/post/5c4c738ce51d4525211c129b>)
+2. [RxJS不完全指北（入门篇）](https://segmentfault.com/a/1190000018353960)
+3. [【前端词典】分享 8 个有趣且实用的 API](<https://juejin.im/post/5c92446b6fb9a070c022f0e2>)
+4. [理解webpack原理，手写一个100行的webpack](<https://zhuanlan.zhihu.com/p/58151131?utm_source=com.daimajia.gold&utm_medium=social&utm_oi=631273285770547200>)
+5. [Blazingly fast parsing, part 2: lazy parsing](<https://v8.dev/blog/preparser>)
+6. [How To Use Object Methods in JavaScript](<https://www.digitalocean.com/community/tutorials/how-to-use-object-methods-in-javascript>)
+7. [Redirect 404 Not Found in Nuxt.js](<https://vuedose.tips/tips/redirect-404-not-found-in-nuxt-js/>)
+8. [How we built the fastest conference website in the world](<https://2019.jsconf.eu/news/how-we-built-the-fastest-conference-website-in-the-world/>)
+
+## 第十五周
 
 1. [彻底搞懂小程序登录流程-附小程序和服务端代码](https://juejin.im/post/5bda7bfb6fb9a02228233f45)
 2. [三年大厂面试官-前端面试题披露（偏难）](https://juejin.im/post/5cb0315f518825215e61ec14)
