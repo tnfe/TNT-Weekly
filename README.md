@@ -28,7 +28,20 @@
 
 ## :books: ​Weekly：
 
-## 第十六周:new:
+
+
+## 第十七周:new:
+
+1. [从入门到撞门：手把手教你开发一款记录类小程序](https://segmentfault.com/a/1190000018995588)
+2. [从 VantComponent 谈 小程序维护](https://segmentfault.com/a/1190000019003796)
+3. [CSS通用数据类型](https://segmentfault.com/a/1190000019025838)
+4. [一名【合格】前端工程师的自检清单](<https://juejin.im/post/5cc1da82f265da036023b628>)
+5. [Regex Cheat Sheet](<https://dev.to/emmawedekind/regex-cheat-sheet-2j2a>)
+6. [Getting creative with the Console API!](<https://areknawo.com/getting-creative-with-the-console-api/>)
+7. [Native image lazy-loading for the web!](<https://addyosmani.com/blog/lazy-loading/>)
+8. [How to Keep Your CSS Grid Layouts Accessible](<https://webdesign.tutsplus.com/articles/a-guide-to-css-grid-and-accessibility--cms-32857>)
+
+## 第十六周
 
 1. [Gitter - 高颜值GitHub小程序客户端诞生记](<https://juejin.im/post/5c4c738ce51d4525211c129b>)
 2. [RxJS不完全指北（入门篇）](https://segmentfault.com/a/1190000018353960)
