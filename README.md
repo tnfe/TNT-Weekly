@@ -30,21 +30,14 @@
 
 ## 第十八周:new:
 
-[Chameleon跨端框架——一个理想主义团队的开源作品](https://juejin.im/post/5ccfa5aae51d45368c317c83)
-
-[Licia 支持小程序的 JS 工具库](https://segmentfault.com/a/1190000019077594)
-
-[从今天开始，拿起 TypeScript 做一个轮子的制造者](https://juejin.im/post/5cce87b851882541b07a9bfe)
-
-[小程序如何生成海报分享朋友圈](https://segmentfault.com/a/1190000019083548)
-
-[Elixir, Phoenix, Absinthe, GraphQL, React, and Apollo: an absurdly deep dive](https://schneider.dev/blog/elixir-phoenix-absinthe-graphql-react-apollo-absurdly-deep-dive/)
-
-[7 Useful JavaScript Tricks](https://davidwalsh.name/javascript-tricks#comments)
-
-[commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
-
-[why https ?](https://github.com/CodeLittlePrince/blog/issues/22)
+1. [Chameleon跨端框架——一个理想主义团队的开源作品](https://juejin.im/post/5ccfa5aae51d45368c317c83)
+2. [Licia 支持小程序的 JS 工具库](https://segmentfault.com/a/1190000019077594)
+3. [从今天开始，拿起 TypeScript 做一个轮子的制造者](https://juejin.im/post/5cce87b851882541b07a9bfe)
+4. [小程序如何生成海报分享朋友圈](https://segmentfault.com/a/1190000019083548)
+5. [Elixir, Phoenix, Absinthe, GraphQL, React, and Apollo: an absurdly deep dive](https://schneider.dev/blog/elixir-phoenix-absinthe-graphql-react-apollo-absurdly-deep-dive/)
+6. [7 Useful JavaScript Tricks](https://davidwalsh.name/javascript-tricks#comments)
+7. [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README.md)
+8. [why https ?](https://github.com/CodeLittlePrince/blog/issues/22)
 
 ## 第十七周
 
