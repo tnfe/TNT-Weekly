@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第十八周:new:
+## 第十九周:new:
+
+1. [Flutter 面试知识点集锦](https://juejin.im/post/5cd9875ae51d453d022cb662)
+2. [Angular学习资料](https://segmentfault.com/a/1190000019098632)
+3. [10秒钟构建你自己的”造轮子”工厂！ 2019年github/npm工程化协作开发栈最佳实践](https://segmentfault.com/a/1190000019168638)
+4. [基于 HTML5 WebGL 的挖掘机 3D 可视化应用](https://juejin.im/post/5cda0205e51d453acd5050e8)
+5. [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
+6. [Build a Drag and Drop (DnD) layout builder with React and ImmutableJS](https://medium.com/javascript-in-plain-english/build-a-drag-and-drop-dnd-layout-builder-with-react-and-immutablejs-78a0797259a6)
+7. [The perfect unit test](https://javascriptplayground.com/the-perfect-javascript-unit-test/)
+8. [Refactoring a component to use React hooks](https://javascriptplayground.com/refactoring-to-react-hooks/)
+
+## 第十八周
 
 1. [Chameleon跨端框架——一个理想主义团队的开源作品](https://juejin.im/post/5ccfa5aae51d45368c317c83)
 2. [Licia 支持小程序的 JS 工具库](https://segmentfault.com/a/1190000019077594)
