@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第十九周:new:
+## 第二十周:new:
+
+1. [小程序开发经验：多页面数据同步](https://juejin.im/post/5cde98046fb9a07ef90c6833)
+2. [React-canvas助力HTML5](https://segmentfault.com/a/1190000019211481)
+3. [如何在零JS代码情况下实现一个实时聊天功能](https://juejin.im/post/5ce2926d6fb9a07f087068bb)
+4. [❤520，就用CSS给你的她（他）送颗心❤](https://segmentfault.com/a/1190000019232203)
+5. [Building A Node.js Express API To Convert Markdown To HTML](https://www.smashingmagazine.com/2019/04/nodejs-express-api-markdown-html/)
+6. [Javascript Array.push is 945x faster than Array.concat](https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki)
+7. [JavaScript and Accessibility: Accordions](https://dev.to/lkopacz/javascript-and-accessibility-accordions-5ecd)
+8. [Reading and updating query params with URLSearchParams](https://javascriptplayground.com/url-search-params/)
+
+## 第十九周
 
 1. [Flutter 面试知识点集锦](https://juejin.im/post/5cd9875ae51d453d022cb662)
 2. [Angular学习资料](https://segmentfault.com/a/1190000019098632)
