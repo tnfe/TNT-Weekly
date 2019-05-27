@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第二十周:new:
+## 第二十一周:new:
+
+1. [微信小程序统计Trello、掘金积分程序，Promise做异步处理](https://juejin.im/post/5ceb548351882521d51ec8cc)
+2. [让前端开发者失业的技术，Flutter Web初体验](https://juejin.im/post/5ce515fb518825642c3f42dd)
+3. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
+4. [前端路由原理解析和实现](https://mp.weixin.qq.com/s/A1nnoqjOz1fE99cBo0nKwg)
+5. [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
+6. [Fullstack React's Guide to using Refs in React Components](https://www.fullstackreact.com/articles/using-refs-in-react/)
+7. [How to Redux with React Hooks?](https://www.robinwieruch.de/redux-with-react-hooks/)
+8. [What is a reducer (React/Redux) in JavaScript?](https://www.robinwieruch.de/javascript-reducer/)
+
+## 第二十周
 
 1. [小程序开发经验：多页面数据同步](https://juejin.im/post/5cde98046fb9a07ef90c6833)
 2. [React-canvas助力HTML5](https://segmentfault.com/a/1190000019211481)
