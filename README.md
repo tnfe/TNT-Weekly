@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第二十一周:new:
+## 第二十二周:new:
+
+1. [重磅开源！业内首个React Native转微信小程序引擎](https://mp.weixin.qq.com/s/H1B9jdXr4a0bDfhstZpFgA)
+2. [微信小程序踩坑指南](https://juejin.im/post/5cf0d56ef265da1bd3054036)
+3. [Angular 8正式发布！](https://mp.weixin.qq.com/s/R5wRh5Nai9TYzqfEAFR7Bw)
+4. [使用React、Electron、Dva、Webpack、Node.js、Websocket快速构建跨平台应用](https://segmentfault.com/a/1190000019367175)
+5. [How I built an async form validation library in ~100 lines of code with React Hooks](https://www.freecodecamp.org/news/how-i-built-an-async-form-validation-library-in-100-lines-of-code-with-react-hooks-81dbff6c4a04/)
+6. [Why you should choose useState instead of useReducer](https://www.freecodecamp.org/news/why-you-should-choose-usestate-instead-of-usereducer-ffc80057f815/)
+7. [How to useState in React?](https://www.robinwieruch.de/react-usestate-hook/)
+8. [Understanding WebViews](https://www.kirupa.com/apps/webview.htm)
+
+## 第二十一周
 
 1. [微信小程序统计Trello、掘金积分程序，Promise做异步处理](https://juejin.im/post/5ceb548351882521d51ec8cc)
 2. [让前端开发者失业的技术，Flutter Web初体验](https://juejin.im/post/5ce515fb518825642c3f42dd)
