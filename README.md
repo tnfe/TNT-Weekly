@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第二十二周:new:
+## 第二十三周:new:
+
+1. [小程序开发：用原生还是选框架(wepy/mpvue/uni-app/taro)？](https://juejin.im/post/5cfdcf056fb9a07ecd3d5068)
+2. [从零开发一个node命令行工具](https://juejin.im/post/5cf769d3518825710c6382d5)
+3. [BeautyWe.js 一套专注于微信小程序的开发范式](https://segmentfault.com/a/1190000019432720)
+4. [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
+5. [A Deep Dive into Native Lazy-Loading for Images and Frames](https://css-tricks.com/a-deep-dive-into-native-lazy-loading-for-images-and-frames/)
+6. [await vs return vs return await](https://jakearchibald.com/2017/await-vs-return-vs-return-await/)
+7. [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+8. [HTTP mocking for your Tests in React](https://dev.to/softchris/http-mocking-for-your-tests-in-react-26f6)
+
+## 第二十二周
 
 1. [重磅开源！业内首个React Native转微信小程序引擎](https://mp.weixin.qq.com/s/H1B9jdXr4a0bDfhstZpFgA)
 2. [微信小程序踩坑指南](https://juejin.im/post/5cf0d56ef265da1bd3054036)
