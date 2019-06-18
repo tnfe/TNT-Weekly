@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第二十三周:new:
+## 第二十四周:new:
+
+1. [Taro 1.3 震撼升级：全面支持 JSX 语法和 HOOKS](https://mp.weixin.qq.com/s/StC_7F-7glPdPAJq1ZB22g)
+2. [Flutter安装、配置、初体验 windows 版](https://juejin.im/post/5d083dcd518825032f7a4021)
+3. [9102，作为前端必须知道 hook 怎么玩了](https://juejin.im/post/5d00a67cf265da1b8a4f156f)
+4. [详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s/cFiXzkelFaed50l_A0ummA)
+5. [JavaScript Clean Code - Best Practices](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices)
+6. [Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+7. [Creating a Node.js REST API with Nest and Typescript](https://dev.to/softchris/nest-creating-a-rest-api-has-never-felt-so-good-4i1)
+8. [Using promises in IndexedDB](https://dev.to/andyhaskell/using-promises-in-indexeddb-4nc0)
+
+## 第二十三周
 
 1. [小程序开发：用原生还是选框架(wepy/mpvue/uni-app/taro)？](https://juejin.im/post/5cfdcf056fb9a07ecd3d5068)
 2. [从零开发一个node命令行工具](https://juejin.im/post/5cf769d3518825710c6382d5)
