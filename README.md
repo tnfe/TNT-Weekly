@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第二十四周:new:
+## 第二十五周:new:
+
+1. [小程序框架原理综合分析和 fard 的新思路](https://juejin.im/post/5d0d9898e51d45773d46862d)
+2. [新生代React状态管理器-concent](https://github.com/Tnfe/concent)
+3. [小蝌蚪传记：通过隧道技术击穿内网](https://segmentfault.com/a/1190000019560497)
+4. [TySheMo 前端数据管理模型](https://segmentfault.com/a/1190000019557766)
+5. [Vue's Darkest Day](https://dev.to/danielelkington/vue-s-darkest-day-3fgh)
+6. [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
+7. [Stepping away from Sass](https://cathydutton.co.uk/posts/why-i-stopped-using-sass/)
+8. [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+## 第二十四周
 
 1. [Taro 1.3 震撼升级：全面支持 JSX 语法和 HOOKS](https://mp.weixin.qq.com/s/StC_7F-7glPdPAJq1ZB22g)
 2. [Flutter安装、配置、初体验 windows 版](https://juejin.im/post/5d083dcd518825032f7a4021)
