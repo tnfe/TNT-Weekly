@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第二十五周:new:
+## 第二十六周:new:
+
+1. [如何用小程序实现类原生APP下一条无限刷体验](https://juejin.im/post/5d1436eae51d4556dc293670)
+2. [腾讯在线教育小程序开发实践之路](https://juejin.im/post/5d15fc3be51d4510b71da637)
+3. [0.3s完成渲染！UC信息流正文“闪开”优化实践](https://mp.weixin.qq.com/s/5h7QqKBmugdRObQHNdhrYw)
+4. [花椒前端基于 GitLab CI/CD 的自动化构建、发布实践](https://mp.weixin.qq.com/s/Yjx3wMz2-m-WDPV9ihMxxA)
+5. [The economics of package management](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md)
+6. [Enabling Modern JavaScript on npm](https://jasonformat.com/enabling-modern-js-on-npm/)
+7. [A Brief History of Modularity](https://ponyfoo.com/articles/brief-history-of-modularity)
+8. [GraphQL in Depth: What, Why, and How](https://ponyfoo.com/articles/graphql-in-depth-what-why-and-how)
+
+## 第二十五周
 
 1. [小程序框架原理综合分析和 fard 的新思路](https://juejin.im/post/5d0d9898e51d45773d46862d)
 2. [新生代React状态管理器-concent](https://github.com/Tnfe/concent)
