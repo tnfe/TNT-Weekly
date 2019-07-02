@@ -85,7 +85,6 @@
 ## 第二十一周
 
 1. [微信小程序统计Trello、掘金积分程序，Promise做异步处理](https://juejin.im/post/5ceb548351882521d51ec8cc)
-2. [让前端开发者失业的技术，Flutter Web初体验](https://juejin.im/post/5ce515fb518825642c3f42dd)
 3. [大型项目前端架构浅谈](https://juejin.im/post/5cea1f705188250640005472)
 4. [前端路由原理解析和实现](https://mp.weixin.qq.com/s/A1nnoqjOz1fE99cBo0nKwg)
 5. [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)
@@ -96,7 +95,6 @@
 ## 第二十周
 
 1. [小程序开发经验：多页面数据同步](https://juejin.im/post/5cde98046fb9a07ef90c6833)
-2. [React-canvas助力HTML5](https://segmentfault.com/a/1190000019211481)
 3. [如何在零JS代码情况下实现一个实时聊天功能](https://juejin.im/post/5ce2926d6fb9a07f087068bb)
 4. [❤520，就用CSS给你的她（他）送颗心❤](https://segmentfault.com/a/1190000019232203)
 5. [Building A Node.js Express API To Convert Markdown To HTML](https://www.smashingmagazine.com/2019/04/nodejs-express-api-markdown-html/)
@@ -128,7 +126,6 @@
 
 ## 第十七周
 
-1. [从入门到撞门：手把手教你开发一款记录类小程序](https://segmentfault.com/a/1190000018995588)
 2. [从 VantComponent 谈 小程序维护](https://segmentfault.com/a/1190000019003796)
 3. [CSS通用数据类型](https://segmentfault.com/a/1190000019025838)
 4. [一名【合格】前端工程师的自检清单](<https://juejin.im/post/5cc1da82f265da036023b628>)
@@ -140,7 +137,6 @@
 ## 第十六周
 
 1. [Gitter - 高颜值GitHub小程序客户端诞生记](<https://juejin.im/post/5c4c738ce51d4525211c129b>)
-2. [RxJS不完全指北（入门篇）](https://segmentfault.com/a/1190000018353960)
 3. [【前端词典】分享 8 个有趣且实用的 API](<https://juejin.im/post/5c92446b6fb9a070c022f0e2>)
 4. [理解webpack原理，手写一个100行的webpack](<https://zhuanlan.zhihu.com/p/58151131?utm_source=com.daimajia.gold&utm_medium=social&utm_oi=631273285770547200>)
 5. [Blazingly fast parsing, part 2: lazy parsing](<https://v8.dev/blog/preparser>)
@@ -163,7 +159,6 @@
 
 1. [2019，帮助你更好的开发小程序](https://segmentfault.com/a/1190000018608597)
 2. [前端开发者必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
-3. [深入理解前端性能监控](https://segmentfault.com/a/1190000018785911)
 4. [JavaScript 代码简洁之道](https://juejin.im/post/5caae923f265da24d70c395a)
 5. [Run watchers when a Vue.js component is created](https://vuedose.tips/tips/run-watchers-when-a-vue-js-component-is-created/)
 6. [30 Seconds of Interviews](https://github.com/30-seconds/30-seconds-of-interviews/blob/master/README.md)
@@ -185,7 +180,6 @@
 
 1. [小程序多端框架全面测评](<https://mp.weixin.qq.com/s?__biz=Mzg2NTA4NTIwNA==&mid=2247484043&idx=1&sn=6e527bf97ad24b9e9eabc11e07a00fec&chksm=ce5e30f0f929b9e67b916b9ea95687bff99e4bd852e87a5b0810373bdc7e97a14a2552f5beda&mpshare=1&scene=1&srcid=&rd2werd=1#wechat_redirect>)
 2. [微信，支付宝小程序实现原理概述](<https://juejin.im/post/5c970d16f265da612d634475>)
-3. [JavaScript多线程编程](https://segmentfault.com/a/1190000018398599)
 4. [JS 数据结构解析和算法实现-集合和映射](https://juejin.im/post/5c9242926fb9a070b33c4f57)
 5. [Death by a thousand cuts - a checklist for eliminating common React performance issues](https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/#4-avoid-passing-new-objects-as-props)
 6. [7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83)
@@ -195,7 +189,6 @@
 ## 第十一周
 
 1. [深入理解小程序中的数据——小程序探索](https://segmentfault.com/a/1190000018014219)
-2. [前端人工智能：通过机器学习推导函数方程式--铂金Ⅲ](https://segmentfault.com/a/1190000018536190)
 3. [你可能不太会用的10个Git命令](https://juejin.im/post/5c8f01daf265da6811614f71)
 4. [V8 新机制：JIT-less 模式](https://www.oschina.net/news/105176/v8-jitless)
 5. [From Higher-Order Functions to Libraries And Frameworks](<http://raganwald.com/2016/12/15/what-higher-order-functions-can-teach-us-about-libraries-and-frameworks.html>)
