@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第二十六周:new:
+## 第二十七周:new:
+
+1. [gulp小程序高效开发](https://segmentfault.com/a/1190000019653424)
+2. [重磅！国内首本《Flutter 实战》中文电子书正式开源了](https://mp.weixin.qq.com/s/jQmePhifevRAlN6ShyoUXw)
+3. [用Flutter构建漂亮的UI界面 - 基础组件篇](https://segmentfault.com/a/1190000019687024)
+4. [从头开始，彻底理解服务端渲染原理(8千字汇总长文)](https://juejin.im/post/5d1fe6be51882579db031a6d)
+5. [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/)
+6. [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
+7. [Drawing Realistic Clouds with SVG and CSS](https://css-tricks.com/drawing-realistic-clouds-with-svg-and-css/)
+8. [The deepest reason why modern JavaScript frameworks exist](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
+
+## 第二十六周
 
 1. [如何用小程序实现类原生APP下一条无限刷体验](https://juejin.im/post/5d1436eae51d4556dc293670)
 2. [腾讯在线教育小程序开发实践之路](https://juejin.im/post/5d15fc3be51d4510b71da637)
