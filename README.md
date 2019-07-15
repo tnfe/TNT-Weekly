@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第二十七周:new:
+## 第二十八周:new:
+
+1. [使用 React Hooks 重构你的小程序](https://mp.weixin.qq.com/s/d8RuMk8KIZ61bl3vNLL-mw)
+2. [使用React、Webpack、Node.js、Websocket、Electron、Dva快速构建跨平台应用](https://mp.weixin.qq.com/s/Ws80lLA2fgbX7VlEGswTFQ)
+3. [深入浅出 Vue 响应式原理](https://mp.weixin.qq.com/s/6D3jTFEJ0FuHptjmeTjeNw)
+4. [SwiftWebUI：带你深入理解SwiftUI原理](https://mp.weixin.qq.com/s/Ao3HQaxcutd68Qv0A1QFdA)
+5. [微前端：未来前端开发的新趋势 — 第一部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-1.md)
+6. [微前端：未来前端开发的新趋势 — 第二部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-2.md)
+7. [微前端：未来前端开发的新趋势 — 第三部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-3.md)
+8. [微前端：未来前端开发的新趋势 — 第四部分](https://github.com/xitu/gold-miner/blob/master/TODO1/micro-frontends-4.md)
+
+## 第二十七周
 
 1. [gulp小程序高效开发](https://segmentfault.com/a/1190000019653424)
 2. [重磅！国内首本《Flutter 实战》中文电子书正式开源了](https://mp.weixin.qq.com/s/jQmePhifevRAlN6ShyoUXw)
