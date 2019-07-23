@@ -34,7 +34,7 @@
 2. [1小时带你撸一个小程序cli脚手架](https://juejin.im/post/5d2ffb22e51d45777b1a3e6c)
 3. [如何优化你的超大型React应用](https://segmentfault.com/a/1190000019840415)
 4. [WebAssembly 不完全指北](https://juejin.im/post/5d367656f265da1b904c2126)
-5. [Designing API Methods in JavaScript](Designing API Methods in JavaScript)
+5. [Designing API Methods in JavaScript](https://dev.to/jsmanifest/designing-api-methods-in-javascript-1n30)
 6. [JavaScript Quickies: Controlling 3D Objects with Hands](https://dev.to/teamxenox/javascript-quickies-controlling-3d-objects-with-hands-498n)
 7. [ A Guide to using Web Workers in React](https://www.fullstackreact.com/articles/introduction-to-web-workers-with-react/)
 8. [How Google Pagespeed works: Improve Your Score and Search Engine Ranking](https://calibreapp.com/blog/how-pagespeed-works/)
