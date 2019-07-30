@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-##  第二十九周 :new:
+## 第三十周​ :new:
+
+1. [基于 Vue 的小程序开发框架性能优化实践---去除 VNode](https://juejin.im/post/5d3eafff6fb9a06aeb1095e9)
+2. [react-control-center 对话 redux(家族)，后生何以挑战前辈？](https://juejin.im/post/5c8479316fb9a049ba42635c)
+3. [小蝌蚪传记：端口转发](https://juejin.im/post/5d0f6fcdf265da1bcb4f3662)
+4. [从零开始，揭秘React服务端渲染核心技术](https://segmentfault.com/a/1190000019916830)
+5. [Improve Your JavaScript Knowledge By Reading Source Code](https://www.smashingmagazine.com/2019/07/javascript-knowledge-reading-source-code/)
+6. [16 DevTools tips and tricks every CSS developer needs to know](https://www.heartinternet.uk/blog/16-devtools-tips-and-tricks-every-css-developer-need-to-know/)
+7. [Styled components, the styling library for your React apps you don’t want to be without](https://dev.to/itnext/styled-components-the-styling-library-for-your-react-apps-you-don-t-want-to-be-without-5dlh)
+8. [Code Roaster: WebRTC](https://dev.to/hoffmann/code-roaster-webrtc-6a9)
+
+##  第二十九周
 
 1. [RN转微信小程序工具-alita](https://github.com/areslabs/alita)
 2. [1小时带你撸一个小程序cli脚手架](https://juejin.im/post/5d2ffb22e51d45777b1a3e6c)
