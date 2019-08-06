@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第三十周​ :new:
+## 第三十一周​ :new:
+
+1. [Antmove 缘起 - 好用的小程序多端解决方案](https://segmentfault.com/a/1190000019961304)
+2. [Vue，React，微信小程序，快应用，TS 和 Koa 一把梭](https://segmentfault.com/a/1190000019938310)
+3. [深度剖析：前端路由原理](https://juejin.im/post/5d469f1e5188254e1c49ae78)
+4. [浅析 NextTick](https://juejin.im/post/5d48d0abf265da03925a2cbc)
+5. [JavaScript Proxy and its Benefits](https://devinduct.com/blogpost/36/javascript-proxy-and-its-benefits-let-s-create-an-api-wrapper)
+6. [The Best JavaScript Meme I've Ever Seen, Explained in detail](https://www.freecodecamp.org/news/explaining-the-best-javascript-meme-i-have-ever-seen/)
+7. [How to upgrade to React Router 4](https://www.freecodecamp.org/news/a-guide-to-upgrading-to-react-router-4/)
+8. [22 Miraculous Tools for React Developers in 2019](https://dev.to/jsmanifest/22-miraculous-tools-for-react-developers-in-2019-4i46)
+
+## 第三十周​
 
 1. [基于 Vue 的小程序开发框架性能优化实践---去除 VNode](https://juejin.im/post/5d3eafff6fb9a06aeb1095e9)
 2. [react-control-center 对话 redux(家族)，后生何以挑战前辈？](https://juejin.im/post/5c8479316fb9a049ba42635c)
