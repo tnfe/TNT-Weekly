@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第三十一周​ :new:
+## 第三十二周 :new:
+
+1. [react-kbone，使用preact多端开发](https://github.com/Tencent/omi/tree/master/packages/react-kbone)
+2. [小程序页面通信、数据刷新、事件总线 、event bus 终极解决方案之 iny-bus](https://juejin.im/post/5d46deeb6fb9a06b19731e2c)
+3. [用于3D设计和动画制作的JavaScript库：Zdog](https://mp.weixin.qq.com/s/XobCJLTVUXrckGuRBIZjWA)
+4. [从零自己编写一个React框架 【中高级前端杀手锏级别技能】](https://segmentfault.com/a/1190000020034137)
+5. [A Future Without Webpack](https://www.pika.dev/blog/pika-web-a-future-without-webpack/)
+6. [Here's a React v16+ Cheatsheet (PDF/JPEG/Custom themes)](https://dev.to/jsmanifest/a-react-v16-cheatsheet-24f9)
+7. [Is postMessage slow?](https://dassur.ma/things/is-postmessage-slow/)
+8. [When should you be using Web Workers?](https://dassur.ma/things/when-workers/)
+
+## 第三十一周​
 
 1. [Antmove 缘起 - 好用的小程序多端解决方案](https://segmentfault.com/a/1190000019961304)
 2. [Vue，React，微信小程序，快应用，TS 和 Koa 一把梭](https://segmentfault.com/a/1190000019938310)
