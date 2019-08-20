@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第三十二周 :new:
+## 第三十三周:new:
+
+1. [你必须要掌握的微信小程序云开发](https://www.imooc.com/article/291007)
+2. [可能是你见过最完善的微前端解决方案](https://zhuanlan.zhihu.com/p/78362028)
+3. [一步一步搭建前端监控系统](https://blog.fundebug.com/2019/07/06/how-to-monitor-javascript-error/)
+4. [【译】使用 MongoDB，React，Node 和 Express（MERN）构建一个全栈应用](https://segmentfault.com/a/1190000020086440)
+5. [Buiding Chat App with React Native and Socket.io](https://dev.to/kris/buiding-chat-app-with-react-native-and-socket-io-4p8l)
+6. [The CSS Mindset](https://mxb.dev/blog/the-css-mindset/)
+7. [SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/)
+8. [ES proposal: Nullish coalescing for JavaScript](https://2ality.com/2019/08/nullish-coalescing.html)
+
+## 第三十二周
 
 1. [react-kbone，使用preact多端开发](https://github.com/Tencent/omi/tree/master/packages/react-kbone)
 2. [小程序页面通信、数据刷新、事件总线 、event bus 终极解决方案之 iny-bus](https://juejin.im/post/5d46deeb6fb9a06b19731e2c)
