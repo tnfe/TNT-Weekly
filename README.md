@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第三十三周:new:
+## 第三十四周:new:
+
+1. [Remax-使用真正的 React 构建小程序](https://remaxjs.org/)
+2. [Zerker-a flexible and lightweight flutter canvas graphic animation library](https://github.com/flutterkit/zerker)
+3. [前端异常监控解决方案研究](https://cdc.tencent.com/2018/09/13/frontend-exception-monitor-research/)
+4. [Web 多媒体开发指南](https://www.jackpu.com/web-media-developer-guide/)
+5. [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
+6. [Learn Enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
+7. [How Does the Development Mode Work?](https://overreacted.io/how-does-the-development-mode-work/)
+8. [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
+
+## 第三十三周
 
 1. [你必须要掌握的微信小程序云开发](https://www.imooc.com/article/291007)
 2. [可能是你见过最完善的微前端解决方案](https://zhuanlan.zhihu.com/p/78362028)
