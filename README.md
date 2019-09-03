@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第三十四周:new:
+## 第三十五周:new:
+
+1. [重磅！滴滴跨端框架Chameleon 1.0正式发布](https://mp.weixin.qq.com/s/kl9JwiS5_IHIZUAW-hPJBQ)
+2. [Flutter GO](https://flutter-go.pub/website/)
+3. [如何写出一个惊艳面试官的深拷贝?](https://juejin.im/post/5d6aa4f96fb9a06b112ad5b1)
+4. [探秘 Vue3.0 - Composition API 在真实业务中的尝鲜姿势](https://juejin.im/post/5d6e4986518825267a756a8d)
+5. [Optional chaining](https://v8.dev/features/optional-chaining)
+6. [What is the future of Node JS?](https://thriveglobal.com/stories/what-is-the-future-of-node-js/)
+7. [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
+8. [A Practical Guide to Symbols in JavaScript](http://thecodebarbarian.com/a-practical-guide-to-symbols-in-javascript.html)
+
+## 第三十四周
 
 1. [Remax-使用真正的 React 构建小程序](https://remaxjs.org/)
 2. [Zerker-a flexible and lightweight flutter canvas graphic animation library](https://github.com/flutterkit/zerker)
