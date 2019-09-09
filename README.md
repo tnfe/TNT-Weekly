@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第三十五周:new:
+## 第三十六周:new:
+
+1. [Zerker--一个flutter的canvas图表动画库](https://flutterkit.github.io/zerkerdocs/)
+2. [React Suite 4.0](https://juejin.im/post/5d75e97ee51d4561fb04bfd3)
+3. [微信转百度小程序工具](https://juejin.im/post/5d70b6e0518825103e545a21)
+4. [web页面录屏实现](https://juejin.im/post/5c601e2f51882562d029d583)
+5. [Logging: Best Practices for Node.JS Applications](https://blog.bitsrc.io/logging-best-practices-for-node-js-applications-8a0a5969b94c)
+6. [https://nullsweep.com/a-nosql-injection-primer-with-mongo/](A NoSQL Injection Primer (with Mongo))
+7. [Making a REST service using Node and Express to use with Unity - Part 1](https://dev.to/cemuka/making-a-rest-service-using-node-and-express-to-use-with-unity-part-1-321n)
+8. [Making a REST service using Node and Express to use with Unity - Part 2](https://dev.to/cemuka/making-a-rest-service-using-node-and-express-to-use-with-unity-part-2-13ch)
+
+## 第三十五周
 
 1. [重磅！滴滴跨端框架Chameleon 1.0正式发布](https://mp.weixin.qq.com/s/kl9JwiS5_IHIZUAW-hPJBQ)
 2. [Flutter GO](https://flutter-go.pub/website/)
