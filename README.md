@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第三十七周:new:
+## 第三十八周:new:
+
+1. [京东：将Flutter扩展到微信小程序端的探索](https://mp.weixin.qq.com/s/Unox7RPZQsyxSiH04DiGtw)
+2. [滴滴小程序框架Mpx2.0](https://mp.weixin.qq.com/s/GUu42oMbJVfGEYiW6S2puA)
+3. [开源React Native组件库beeshell 2.0发布](https://mp.weixin.qq.com/s/5XgNTQdBm4QxiStj8dFtHg)
+4. [使用concent，体验一把渐进式地重构React应用之旅](https://mp.weixin.qq.com/s/XB5CqBM7r9ZWAclTn_R6Aw)
+5. [How We Write Full Stack JavaScript Apps](https://medium.com/@eliezer/how-writing-simple-javascript-got-us-6200-github-stars-in-a-single-day-420b17b4cff4)
+6. [The most outstanding new feature in Javascript you need to know about: Optional Chaining](https://dev.to/lampewebdev/the-most-outstanding-new-feature-in-javascript-you-need-to-know-about-optional-chaining-2pg2)
+7. [A curated collection of useful CSS snippets you can understand in 30 seconds or less](https://github.com/30-seconds/30-seconds-of-css)
+8. [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019?ref=heydesigner)
+
+## 第三十七周
 
 1. [Zdog-Round, flat, designer-friendly pseudo-3D engine](https://github.com/metafizzy/zdog)
 2. [Vant Weapp-轻量、可靠的小程序 UI 组件库](https://github.com/youzan/vant-weapp)
