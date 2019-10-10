@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第三十八周:new:
+## 第三十九周:new:
+
+1. [View UI 组件库发布](https://juejin.im/post/5d9d5af0e51d45782e6039cf)
+2. [被称为“三大框架”替代方案，Svelte如何简化Web开发工作](https://mp.weixin.qq.com/s/5Y822yLWy0Kp-OqgyQx7NQ)
+3. [浅谈 Flutter 构建](https://mp.weixin.qq.com/s/2zk5-KA8Z-fwikXRBMSlKQ)
+4. [1.5万字概括ES6全部特性](https://juejin.im/post/5d9bf530518825427b27639d)
+5. [BEM by Example](https://seesparkbox.com/foundry/bem_by_example)
+6. [10 Minutes Tutorial For Server-Sent Events](https://www.tutorialdocs.com/article/server-sent-events-tutorial.html)
+7. [How to Implement an HTTP Request Library with Axios](https://www.tutorialdocs.com/article/axios-learn.html)
+8. [9 Projects you can do to become a Frontend Master in 2020](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
+
+## 第三十八周
 
 1. [京东：将Flutter扩展到微信小程序端的探索](https://mp.weixin.qq.com/s/Unox7RPZQsyxSiH04DiGtw)
 2. [滴滴小程序框架Mpx2.0](https://mp.weixin.qq.com/s/GUu42oMbJVfGEYiW6S2puA)
