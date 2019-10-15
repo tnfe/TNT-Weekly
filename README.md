@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第三十九周:new:
+## 第四十周​ :new:
+
+1. [Owl UI Design-基于 Vue.js 实现的移动端组件库](https://owl-ui.dengwb.com/)
+2. [UI组件库从0到1开发心得](https://juejin.im/post/5c6504d06fb9a049c6445a25)
+3. [UI组件库从1到N开发心得-组件篇](https://juejin.im/post/5ce21c8ee51d45109725fdbe)
+4. [UI组件库从1到N开发心得-单元测试篇](https://juejin.im/post/5da5656651882557494cc3e3)
+5. [Quick Intro to Vuex ORM](https://vuejsdevelopers.com/2019/04/29/vuex-orm-quick-intro)
+6. [How JavaScript works: Optimizing the V8 compiler for efficiency](https://blog.logrocket.com/how-javascript-works-optimizing-the-v8-compiler-for-efficiency/)
+7. [Axios or fetch(): Which should you use?](https://blog.logrocket.com/axios-or-fetch-api/)
+8. [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/)
+
+## 第三十九周
 
 1. [View UI 组件库发布](https://juejin.im/post/5d9d5af0e51d45782e6039cf)
 2. [被称为“三大框架”替代方案，Svelte如何简化Web开发工作](https://mp.weixin.qq.com/s/5Y822yLWy0Kp-OqgyQx7NQ)
