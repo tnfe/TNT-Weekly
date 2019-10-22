@@ -32,7 +32,7 @@
 
 1. [如何一人五天开发完复杂小程序](https://mp.weixin.qq.com/s/_m8_UeqY0NTTaTWgcdjShA)
 2. [聊一聊状态管理&Concent设计理念](https://juejin.im/post/5da7cb9cf265da5bbb1e4f8c)
-3. [50个好用的前端框架，建议收藏!](https://mp.weixin.qq.com/s/JVeA72nAuqBEqCBcYdHjmA)
+3. [clock-shop-近百款漂亮的js、css时钟](https://github.com/a-jie/clock-shop)
 4. [闲鱼公开多年 Flutter 实践经验](https://mp.weixin.qq.com/s/RzvJeT_w69oZJmS9JHGBCg)
 5. [React VS Vue: Which is better for 2020?](https://towardsdatascience.com/react-vs-vue-which-is-better-for-2020-c484f22c67a8)
 6. [Redux Crash Course with Hooks](https://dev.to/chrisachard/redux-crash-course-with-hooks-a54)
