@@ -33,7 +33,7 @@
 1. [原生小程序框架 OMIX 2.0 发布](https://github.com/Tencent/omi/tree/master/packages/omix)
 2. [Doraemon mini program debugger-一个支持小程序端的调试工具](https://github.com/didi/DoraemonKit/tree/master/miniapp)
 3. [小蝌蚪传记：200行代码实现前端无痕埋点](https://juejin.im/post/5db5cf2e6fb9a02074738b25)
-4. [ppo-一个小巧切强大的工具库](https://github.com/a-jie/ppo)
+4. [ppo-一个小巧且实用的工具库](https://github.com/a-jie/ppo)
 5. [When to Use Map instead of Plain JavaScript Object](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
 6. [The elements of responsive typography](https://blog.logrocket.com/the-elements-of-responsive-typography/)
 7. [Building reusable web components with Stencil.js](https://blog.logrocket.com/building-reusable-web-components-with-stencil-js/)
