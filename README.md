@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第四十一周 :new:
+## 第四十二周​ :new: 
+
+1. [原生小程序框架 OMIX 2.0 发布](https://github.com/Tencent/omi/tree/master/packages/omix)
+2. [Doraemon mini program debugger-一个支持小程序端的调试工具](https://github.com/didi/DoraemonKit/tree/master/miniapp)
+3. [小蝌蚪传记：200行代码实现前端无痕埋点](https://juejin.im/post/5db5cf2e6fb9a02074738b25)
+4. [ppo-一个小巧切强大的工具库](https://github.com/a-jie/ppo)
+5. [When to Use Map instead of Plain JavaScript Object](https://dmitripavlutin.com/maps-vs-plain-objects-javascript/)
+6. [The elements of responsive typography](https://blog.logrocket.com/the-elements-of-responsive-typography/)
+7. [Building reusable web components with Stencil.js](https://blog.logrocket.com/building-reusable-web-components-with-stencil-js/)
+8. [Regular expressions in JavaScript: lookaround assertions by example](https://2ality.com/2019/10/regexp-lookaround-assertions.html)
+
+## 第四十一周
 
 1. [如何一人五天开发完复杂小程序](https://mp.weixin.qq.com/s/_m8_UeqY0NTTaTWgcdjShA)
 2. [聊一聊状态管理&Concent设计理念](https://juejin.im/post/5da7cb9cf265da5bbb1e4f8c)
