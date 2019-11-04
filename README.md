@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第四十二周​ :new: 
+## 第四十三周 :new:
+
+1. [微信小程序工程化之持续集成方案](https://juejin.im/post/5dbaa67ce51d452a1a580fed)
+2. [svrx-一个高效的前端构建平台](https://svrx.io/)
+3. [concent 骚操作之组件创建&状态更新](https://juejin.im/post/5dbe3f18f265da4d3429a439)
+4. [将 React 渲染到嵌入式液晶屏](https://juejin.im/post/5dbb729e51882524c101ffe1)
+5. [New Node.js 12 features will see it disrupt AI, IoT and more surprising areas](https://tsh.io/blog/new-node-js-features/)
+6. [JavaScript: What’s new in ES2019](https://blog.tildeloop.com/posts/javascript-what's-new-in-es2019)
+7. [Using TypeScript with React](https://simonknott.de/articles/Using-TypeScript-with-React.html)
+8. [React UI component libraries](https://blog.tildeloop.com/posts/react-ui-component-libraries)
+
+## 第四十二周​
 
 1. [原生小程序框架 OMIX 2.0 发布](https://github.com/Tencent/omi/tree/master/packages/omix)
 2. [Doraemon mini program debugger-一个支持小程序端的调试工具](https://github.com/didi/DoraemonKit/tree/master/miniapp)
