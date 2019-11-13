@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第四十三周 :new:
+## 第四十四周 :new:
+
+1. [kbone -一个致力于微信小程序和 Web 端同构的解决方案](https://github.com/wechat-miniprogram/kbone)
+2. [小程序多平台同构方案分析-kbone 与 remax](https://zhuanlan.zhihu.com/p/91408586)](https://github.com/wechat-miniprogram/kbone)
+3. [Taro 最受欢迎物料大赏](https://juejin.im/post/5dca22666fb9a04a7e1a46cf)
+4. [CSS的未来已来](https://juejin.im/post/5dcb9c126fb9a04aba52bdf4)
+5. [快速实现本地 https 预览](https://www.jackpu.com/local-https-preview/)
+6. [A React hook for asynchronous state](https://medium.com/@Charles_Stover/a-react-hook-for-asynchronous-state-4dc24379be61)
+7. [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
+8. [JavaScript frameworks security report 2019](https://snyk.io/blog/javascript-frameworks-security-report-2019/)
+
+## 第四十三周
 
 1. [微信小程序工程化之持续集成方案](https://juejin.im/post/5dbaa67ce51d452a1a580fed)
 2. [svrx-一个高效的前端构建平台](https://svrx.io/)
