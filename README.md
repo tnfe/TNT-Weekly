@@ -31,7 +31,7 @@
 ## 第四十四周 :new:
 
 1. [kbone -一个致力于微信小程序和 Web 端同构的解决方案](https://github.com/wechat-miniprogram/kbone)
-2. [小程序多平台同构方案分析-kbone 与 remax](https://zhuanlan.zhihu.com/p/91408586)](https://github.com/wechat-miniprogram/kbone)
+2. [小程序多平台同构方案分析-kbone 与 remax](https://zhuanlan.zhihu.com/p/91408586)
 3. [Taro 最受欢迎物料大赏](https://juejin.im/post/5dca22666fb9a04a7e1a46cf)
 4. [CSS的未来已来](https://juejin.im/post/5dcb9c126fb9a04aba52bdf4)
 5. [快速实现本地 https 预览](https://www.jackpu.com/local-https-preview/)
