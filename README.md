@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第四十四周 :new:
+## 第四十五周​ :new:
+
+1. [滴滴DoKit2.0 - 泛前端开发者的百宝箱](https://mp.weixin.qq.com/s/hyIFSG0zRJtPWxfnfDe9kg)
+2. [API request builder - A free, fast, and beautiful alternative to Postman](https://github.com/liyasthomas/postwoman)
+3. [应战Vue3 setup，Concent携手React出招了！](https://juejin.im/post/5dd123ec5188253dbe5eeebd)
+4. [【扒一扒】这一次，彻底理解 ES6 Iterator]()
+5. [Mastering Angular 8: five things that are good to know to save your time](https://dev.to/oleksandr/mastering-angular-8-five-things-that-are-good-to-know-to-save-your-time-14hk)
+6. [Understanding Microservices](https://blog.tildeloop.com/posts/understanding-microservices)
+7. [Know your JavaScript data structures](https://blog.logrocket.com/know-your-javascript-data-structures/)
+8. [Lifecycle methods, hooks, suspense: which's best for fetching in React?](https://dmitripavlutin.com/react-fetch-lifecycle-methods-hooks-suspense/)
+
+## 第四十四周
 
 1. [kbone -一个致力于微信小程序和 Web 端同构的解决方案](https://github.com/wechat-miniprogram/kbone)
 2. [小程序多平台同构方案分析-kbone 与 remax](https://zhuanlan.zhihu.com/p/91408586)
