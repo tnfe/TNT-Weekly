@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第四十五周​ :new:
+## 第四十六周 :new:
+
+1. [Proton 4.0一个轻量又强大的js粒子动画库](https://a-jie.github.io/Proton/)
+2. [dbKoda-A modern open source database development and admin tool](https://www.dbkoda.com/)
+3. [G2Plot-A charting library based on the Grammar of Graphics](https://github.com/antvis/g2plot)
+4. [前端领域的 Docker 与 Kubernetes](https://juejin.im/post/5dddd15b6fb9a071576dbd7a)
+5. [Comparing React Hooks with Vue Composition API](https://dev.to/voluntadpear/comparing-react-hooks-with-vue-composition-api-4b32)
+6. [The introductory guide to AssemblyScript](https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/)
+7. [Nestjs Typeorm Graphql Dataloader tutorial with Typescript](https://codersera.com/blog/nestjs-typeorm-graphql-dataloader-tutorial-with-typescript/)
+8. [Build a REST API with AdonisJs and TDD](https://equimper.com/blog/build-a-rest-api-with-adonisjs-and-tdd-part-1)
+
+## 第四十五周​
 
 1. [滴滴DoKit2.0 - 泛前端开发者的百宝箱](https://mp.weixin.qq.com/s/hyIFSG0zRJtPWxfnfDe9kg)
 2. [API request builder - A free, fast, and beautiful alternative to Postman](https://github.com/liyasthomas/postwoman)
