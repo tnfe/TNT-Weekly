@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第四十六周 :new:
+## 第四十七周 :new:
+
+1. [litegraph.js-A graph node engine and editor](https://github.com/jagenjo/litegraph.js)
+2. [consumer-Flutter的一个更精简的状态管理工具](https://github.com/ymzuiku/flutter_consumer/blob/master/README-CN.md)
+3. [null-cli----A command makes you more efficient](https://github.com/webfansplz/null-cli)
+4. [【全栈修炼】RESTful架构及实践 修炼宝典](https://segmentfault.com/a/1190000021112172)
+5. [New JavaScript Features Coming in ES2020 That You Can Use Now](https://levelup.gitconnected.com/new-features-of-javascript-that-we-can-use-soon-or-now-6199981bd2f)
+6. [6 best React component libraries by category](https://dev.to/areknawo/6-best-react-component-libraries-by-category-4peo)
+7. [Must Learn Top Programming Languages For Robotics In 2020](https://codersera.com/blog/top-programming-languages-for-robotics/)
+8. [Easier Node.js streams via async iteration](https://2ality.com/2019/11/nodejs-streams-async-iteration.html)
+
+## 第四十六周
 
 1. [Proton 4.0一个轻量又强大的js粒子动画库](https://a-jie.github.io/Proton/)
 2. [dbKoda-A modern open source database development and admin tool](https://www.dbkoda.com/)
