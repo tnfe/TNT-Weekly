@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第四十七周 :new:
+## 第四十八周 :new:
+
+1. [rax-快速构建多端应用](https://github.com/alibaba/rax)
+2. [Vant Weapp 1.0 正式版发布](https://juejin.im/post/5df0644fe51d4557f42b67ca)
+3. [我在真实项目中使用了 AST 大法！](https://juejin.im/post/5dedb3aff265da33e4334052)
+4. [Rax PWA - 快速升级 Web 体验](https://segmentfault.com/a/1190000021180046)
+5. [9 Extremely Powerful JavaScript Hacks](https://dev.to/razgandeanu/9-extremely-powerful-javascript-hacks-4g3p)
+6. [Attributes of object properties in JavaScript](https://2ality.com/2019/11/object-property-attributes.html)
+7. [A Recap of Frontend Development in 2019](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2019-1e7d07966d6c)
+8. [Sql Vs NoSql – Which Is Best For You?](https://codersera.com/blog/sql-vs-nosql-comparision/)
+
+## 第四十七周
 
 1. [litegraph.js-A graph node engine and editor](https://github.com/jagenjo/litegraph.js)
 2. [consumer-Flutter的一个更精简的状态管理工具](https://github.com/ymzuiku/flutter_consumer/blob/master/README-CN.md)
