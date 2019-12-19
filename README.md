@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第四十八周 :new:
+## 第四十九周:new:
+
+1. [深度挖掘Concent的effect，全面提升useEffect的开发体验](https://juejin.im/post/5deb43256fb9a0166316c3e9)
+2. [imageShrink-reduce image size of your project by 60% seamlessly](https://github.com/L-x-C/imageShrink)
+3. [深入浅出Serverless：优势、意义与应用](https://mp.weixin.qq.com/s/geT7x5RG4xhD-Ro1eZvrdg)
+4. [纯CSS实现简单骨骼动画](https://juejin.im/post/5deb49a251882512302daa92)
+5. [What you should learn to become a good front-end developer?](https://dev.to/duomly/how-to-become-a-front-end-developer-2935)
+6. [ECMAScript proposal: top-level `await`](https://2ality.com/2019/12/top-level-await.html)
+7. [A Guide to Building a PWA in Angular 8](https://levelup.gitconnected.com/a-guide-to-building-a-pwa-in-angular-acea27ae708d)
+8. [Why Learning ReactJs Makes Sense In 2020?](https://codersera.com/blog/why-learning-reactjs-makes-sense-in-2020/)
+
+## 第四十八周
 
 1. [rax-快速构建多端应用](https://github.com/alibaba/rax)
 2. [Vant Weapp 1.0 正式版发布](https://juejin.im/post/5df0644fe51d4557f42b67ca)
