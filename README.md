@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第四十九周:new:
+## 第五十周 :new:
+
+1. [微信小程序自动化构建方案](https://juejin.im/post/5dfb3c1551882512607443db)
+2. [BBO ——一款非常实用的JavaScript函数工具库。](https://github.com/tnfe/bbo)
+3. [Mpx 小程序框架技术揭秘](https://segmentfault.com/a/1190000021398658)
+4. [逐行剖析 Vue.js 源码](https://nlrx-wjc.github.io/Learn-Vue-Source-Code/)
+5. [Understanding Recursion, Tail Call and Trampoline Optimizations](https://marmelab.com/blog/2018/02/12/understanding-recursion.html)
+6. [Jest Tutorial for Beginners: Getting Started With Jest for JavaScript Testing](https://www.valentinog.com/blog/jest/#Jest_Tutorial_what_is_Jest)
+7. [A Closer Look at the Provider Package](https://medium.com/flutter-nyc/a-closer-look-at-the-provider-package-993922d3a5a5)
+8. [Offline GraphQL Queries with Redux Offline and Apollo](http://www.petecorey.com/blog/2017/07/24/offline-graphql-queries-with-redux-offline-and-apollo/)
+
+## 第四十九周
 
 1. [深度挖掘Concent的effect，全面提升useEffect的开发体验](https://juejin.im/post/5deb43256fb9a0166316c3e9)
 2. [imageShrink-reduce image size of your project by 60% seamlessly](https://github.com/L-x-C/imageShrink)
