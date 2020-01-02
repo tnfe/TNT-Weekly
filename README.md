@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第五十周 :new:
+## 第五十一周 :new:
+
+1. [RN 转小程序引擎 Alita 2.0 正式发布：基于 webpack 进行重构](https://mp.weixin.qq.com/s/ndr0rGmy456wUEaoOBR0_g)
+2. [《Functional Programming in JavaScrip》 翻译](https://github.com/hex-translate/natpagle)
+3. [手把手带你入门 AST 抽象语法树](https://juejin.im/post/5e0a245df265da33cf1aea91)
+4. [node多进程的创建与守护](https://mp.weixin.qq.com/s/2Mp6qYuIzcu1Ow6VeVPr6g)
+5. [Create Web Components with Vue.js](https://dev.to/aumayeung/create-web-components-with-vue-js-2bb0)
+6. [Random Seeds, Lodash, and ES6 Imports](http://www.petecorey.com/blog/2020/01/01/random-seeds-lodash-and-es6-imports/)
+7. [Rendering a React Application Across Multiple Containers](http://www.petecorey.com/blog/2019/10/14/rendering-a-react-application-across-multiple-containers/)
+8. [JavaScript regular expressions: `.lastIndex` and the flags `/g` and `/y`](https://2ality.com/2020/01/regexp-lastindex.html)
+
+## 第五十周
 
 1. [微信小程序自动化构建方案](https://juejin.im/post/5dfb3c1551882512607443db)
 2. [BBO ——一款非常实用的JavaScript函数工具库。](https://github.com/tnfe/bbo)
