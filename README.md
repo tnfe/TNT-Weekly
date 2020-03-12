@@ -42,7 +42,7 @@
 ## 第五十一周
 
 1. [RN 转小程序引擎 Alita 2.0 正式发布：基于 webpack 进行重构](https://mp.weixin.qq.com/s/ndr0rGmy456wUEaoOBR0_g)
-2. [《Functional Programming in JavaScrip》 翻译](https://github.com/hex-translate/natpagle)
+2. [《Functional Programming in JavaScript》 翻译](https://github.com/hex-translate/natpagle)
 3. [手把手带你入门 AST 抽象语法树](https://juejin.im/post/5e0a245df265da33cf1aea91)
 4. [node多进程的创建与守护](https://mp.weixin.qq.com/s/2Mp6qYuIzcu1Ow6VeVPr6g)
 5. [Create Web Components with Vue.js](https://dev.to/aumayeung/create-web-components-with-vue-js-2bb0)
