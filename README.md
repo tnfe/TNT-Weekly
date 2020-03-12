@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第五十一周 :new:
+## 第五十二期 :new:
+
+1. [Taro Next 发布预览版：同时支持 React / Vue / Nerv](https://juejin.im/post/5e4487b3e51d4527214ba6b1)
+2. [Ant Design 4.0正式发布](https://juejin.im/post/5e5e21aa6fb9a07cba0eed6e)
+3. [Umi Hooks - React Hooks Library.](https://github.com/umijs/hooks)
+4. [源码级别高度定制小程序vant弹窗组件](https://juejin.im/post/5e4e55266fb9a07cbf46af3a#heading-17)
+5. [Webpack 5 and Module Federation - A Microfrontend Revolution](https://dev.to/marais/webpack-5-and-module-federation-4j1i)
+6. [How to architect epic Angular app in less than 10 minutes!](https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656)
+7. [Class definitions in TypeScript](https://2ality.com/2020/03/class-definitions-typescript.html)
+8. [JavaScript private class fields and the TypeScript private modifier](https://www.valentinog.com/blog/private/)
+
+## 第五十一周
 
 1. [RN 转小程序引擎 Alita 2.0 正式发布：基于 webpack 进行重构](https://mp.weixin.qq.com/s/ndr0rGmy456wUEaoOBR0_g)
 2. [《Functional Programming in JavaScrip》 翻译](https://github.com/hex-translate/natpagle)
