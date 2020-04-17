@@ -31,7 +31,7 @@
 ## 第五十三期 :new:
 
 1. [Taro Next H5跨框架组件库实践](https://segmentfault.com/a/1190000022359427)
-2. [C2F 可以将css样式转换为flutter样式](https://github.com/tnfe/c2f)
+2. [C2F-convert css style to flutter style](https://github.com/tnfe/c2f)
 3. [CSS 书写模式已成为官方 Web 标准](https://www.infoq.cn/article/OSTsuE4VJQokXZsUffPq)
 4. [跨端开发框架深度横评之2020版](https://segmentfault.com/a/1190000022326482#item-4-5)
 5. [Routex v1.0.0: Modern Node Router](https://dev.to/cretezy/routex-v1-0-0-modern-node-router-gch)
