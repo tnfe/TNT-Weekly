@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第五十二期 :new:
+## 第五十三期 :new:
+
+1. [Taro Next H5跨框架组件库实践](https://segmentfault.com/a/1190000022359427)
+2. [C2F 可以将css样式转换为flutter样式](https://github.com/tnfe/c2f)
+3. [CSS 书写模式已成为官方 Web 标准](https://www.infoq.cn/article/OSTsuE4VJQokXZsUffPq)
+4. [跨端开发框架深度横评之2020版](https://segmentfault.com/a/1190000022326482#item-4-5)
+5. [Routex v1.0.0: Modern Node Router](https://dev.to/cretezy/routex-v1-0-0-modern-node-router-gch)
+6. [New Features in Create React App 3.3](https://medium.com/better-programming/new-features-of-create-react-app-3-3-649f85255e86)
+7. [Implement Google Sign-In(OAuth) in your Angular App in under 15 minutes 🚀](https://dev.to/angular/implement-google-sign-in-oauth-in-your-angular-app-in-under-15-minutes-1ebo)
+8. [What's new in ECMAScript 2020](https://www.strictmode.io/articles/whats-new-es2020/)
+
+## 第五十二期
 
 1. [Taro Next 发布预览版：同时支持 React / Vue / Nerv](https://juejin.im/post/5e4487b3e51d4527214ba6b1)
 2. [Ant Design 4.0正式发布](https://juejin.im/post/5e5e21aa6fb9a07cba0eed6e)
