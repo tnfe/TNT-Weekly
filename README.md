@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第五十三期 :new:
+## 第五十四期 :new:
+
+1. [轻量、可靠的小程序 UI 组件库](https://github.com/youzan/vant-weapp)
+2. [Vue2.x To Vue3.0](https://juejin.im/post/5e9d81b851882573866ba89c)
+3. [当浏览器全面禁用三方 Cookie](https://juejin.im/post/5e97124df265da47b27d97ff)
+4. [Chameleon 跨端框架源码剖析系列 (一)：框架概览](https://www.infoq.cn/article/UbC6SI8ZGIYygXQdhB6p)
+5. [Announcing TypeScript 3.9 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-3-9-beta/)
+6. [How the Vue Composition API Replaces Vue Mixins](https://css-tricks.com/how-the-vue-composition-api-replaces-vue-mixins/)
+7. [Typing functions in TypeScript](https://2ality.com/2020/04/typing-functions-typescript.html)
+8. [Add experimental react-refresh support](https://github.com/facebook/create-react-app/pull/8582)
+
+## 第五十三期 
 
 1. [Taro Next H5跨框架组件库实践](https://segmentfault.com/a/1190000022359427)
 2. [C2F-convert css style to flutter style](https://github.com/tnfe/c2f)
