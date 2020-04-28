@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第五十四期 :new:
+## 第五十五期 :new:
+
+1. [wwto：小程序跨端迁移解决方案——微信转其他小程序](https://github.com/wuba/wwto)
+2. [框架设计：RN 端的框架如何设计与落地](https://segmentfault.com/a/1190000022294766)
+3. [小程序跨端图表组件，开箱即用（基于Antv F2）](https://segmentfault.com/a/1190000022391763)
+4. [5个很棒的 React.js 库](https://juejin.im/post/5ea77286f265da7bed6b1d08)
+5. [Node.js version 14 available now](https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e)
+6. [Top New JavaScript UI Frameworks & Libraries for 2020](https://buttercms.com/blog/javascript-ui-frameworks-libraries-for-2020)
+7. [Bifrost-CORS](https://github.com/spurushottam13/bifrost-cors)
+8. [ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.](https://github.com/claudiodangelis/qrcp)
+
+## 第五十四期 
 
 1. [轻量、可靠的小程序 UI 组件库](https://github.com/youzan/vant-weapp)
 2. [Vue2.x To Vue3.0](https://juejin.im/post/5e9d81b851882573866ba89c)
