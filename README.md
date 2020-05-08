@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第五十五期 :new:
+## 第五十六期 :new:
+
+1. [一套组件化，可扩展，易扩展的微信小程序UI组件库](https://github.com/wux-weapp/wux-weapp)
+2. [Taro 2.2 全面插件化，支持拓展和定制个性化功能](https://juejin.im/post/5eaa2a356fb9a0436d419a72)
+3. [vue模块化按需编译，突破编译瓶颈](https://juejin.im/post/5ea59418518825738745d8fd)
+4. [移动 web 最佳实践](https://github.com/mcuking/mobile-web-best-practice)
+5. [Alpine.js: The JavaScript Framework That’s Used Like jQuery, Written Like Vue, and Inspired by TailwindCSS](https://css-tricks.com/alpine-js-the-javascript-framework-thats-used-like-jquery-written-like-vue-and-inspired-by-tailwindcss/)
+6. [React Flow - A Library for Rendering Interactive Graphs](https://webkid.io/blog/react-flow-node-based-graph-library/)
+7. [Comparing Next.js and After.js for SSR React apps](https://blog.logrocket.com/comparing-next-js-after-js/)
+8. [ A Better Way to Pass Data to your Angular Components](https://medium.com/swlh/a-better-way-to-pass-data-to-your-angular-components-e8b5ef6a642a)
+
+## 第五十五期 
 
 1. [wwto：小程序跨端迁移解决方案——微信转其他小程序](https://github.com/wuba/wwto)
 2. [框架设计：RN 端的框架如何设计与落地](https://segmentfault.com/a/1190000022294766)
