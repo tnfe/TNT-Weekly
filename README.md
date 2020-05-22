@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第五十七期 :new:
+## 第五十八期 :new:
+
+1. [🐣 We MobX-在微信小程序中加入 MobX](https://github.com/clancysong/we-mobx)
+2. [Deno 正式发布，彻底弄明白和 node 的区别](https://segmentfault.com/a/1190000022672883)
+3. [小程序组件化解决方案](https://github.com/uileader/touchwx)
+4. [小程序自动生成框架页面](https://github.com/jayZOU/skeleton)
+5. [Deno 1.0](https://deno.land/v1)
+6. [Deno 1.0: What you need to know](https://blog.logrocket.com/deno-1-0-what-you-need-to-know/)
+7. [Flutter vs React Native-Which to Choose in 2020?](https://codersera.com/blog/flutter-vs-react-native/)
+8. [Recoil - a New State Management Library for React](https://www.infoq.com/news/2020/05/recoil-react-state-management/)
+
+## 第五十七期
 
 1. [革命性小程序框架 Remax 发布 2.0](https://segmentfault.com/a/1190000022559678)
 2. [多端差异比较](https://juejin.im/post/5eb67488f265da7bba50a6dd)
