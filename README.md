@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第五十八期 :new:
+## 第五十九期 :new:
+
+1. [Westore-微信小程序解决方案-1KB javascript 覆盖状态管理，跨页通讯，插件开发和云数据库开发](https://github.com/Tencent/westore)
+2. [腾讯原生小程序框架 OMIX 2.0 发布](https://github.com/Tencent/omi/tree/master/packages/omix)
+3. [Taro 3.0 RC：React/Vue/Nerv 任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)
+4. [从零搭建 React 开发 H5 模板 ](https://juejin.im/post/5ecccb88e51d45787a17a82a)
+5. [Hegel, a New JavaScript Type Checker](https://www.infoq.com/news/2020/05/hegel-type-checking-javascript/)
+6. [Fabulous Enables Building Declarative Cross-Platforms UIs for iOS and Android in F#](https://www.infoq.com/news/2020/05/sharp-fabulous-mobile-apps/)
+7. [A powerful JavaScript library for interacting with the Discord API](https://github.com/discordjs/discord.js)
+8. [Unit Testing React components with Cypress](https://itnext.io/unit-testing-react-components-with-cypress-4d4cf8cd59a0)
+
+## 第五十八期
 
 1. [🐣 We MobX-在微信小程序中加入 MobX](https://github.com/clancysong/we-mobx)
 2. [Deno 正式发布，彻底弄明白和 node 的区别](https://segmentfault.com/a/1190000022672883)
