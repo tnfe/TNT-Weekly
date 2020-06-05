@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第五十九期 :new:
+## 第六十期 :new:
+
+1. [京东小程序 Taro 开发对比原生开发测评](https://juejin.im/post/5eb370715188256d703f4063)
+2. [专业的前端模板，用于构建快速，健壮和适应性强的 Web 应用程序或网站](https://github.com/h5bp/html5-boilerplate)
+3. [提高 10 倍打包速度的神奇工具：Snowpack 2.0 发布，再也不需要打包器！](https://mp.weixin.qq.com/s/7Z8U6rGVIpy1R406mNqD6g)
+4. [HTTP/3 来了 ! ](https://mp.weixin.qq.com/s/ePFFG9O_mP_UVll8SYAOnw)
+5. [</> htmx - high power tools for HTML](https://github.com/bigskysoftware/htmx)
+6. [A first look at records and tuples in JavaScript](https://2ality.com/2020/05/records-tuples-first-look.html)
+7. [A CLI tool for creating CSS Grid layouts](https://dev.to/saunved/a-cli-tool-for-creating-css-grid-layouts-2aj4)
+8. [Porting a React Frontend to TypeScript](https://www.sitepoint.com/react-with-typescript-best-practices/)
+
+## 第五十九期
 
 1. [Westore-微信小程序解决方案-1KB javascript 覆盖状态管理，跨页通讯，插件开发和云数据库开发](https://github.com/Tencent/westore)
 2. [腾讯原生小程序框架 OMIX 2.0 发布](https://github.com/Tencent/omi/tree/master/packages/omix)
