@@ -28,10 +28,21 @@
 
 ## :books: ​Weekly：
 
-## 第六十一期 :new:
+## 第六十二期 :new:
 
-1. [DoKit微信小程序研发助手SDK升级](https://juejin.im/post/5ede07b4518825430c3aca44)
-2. [RN和React路由详解及对比](https://segmentfault.com/a/1190000022801490)
+1. [kbone-ui 是一套能同时支持 小程序(kbone) 和 vue 框架开发的多端 UI 库](https://github.com/wechat-miniprogram/kbone-ui)
+2. [Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架](https://github.com/didi/mpx)
+3. [细聊 Concent & Recoil , 探索 react 数据流的新开发模式](https://juejin.im/post/5eda2a0ef265da76fa4b6c03)
+4. [向强大的 SVG 迈进](https://mp.weixin.qq.com/s/LnIxm61YhxDr5rAW2as_uw)
+5. [An extremely fast JavaScript bundler and minifier](https://github.com/evanw/esbuild)
+6. [Next generation Brave browser for macOS, Windows, Linux, Android.](https://github.com/brave/brave-browser)
+7. [ShowDoc is a tool greatly applicable for an IT team to share documents online](https://github.com/star7th/showdoc)
+8. [Atomic CSS-in-JS](https://sebastienlorber.com/atomic-css-in-js)
+
+## 第六十一期
+
+1. [DoKit 微信小程序研发助手 SDK 升级](https://juejin.im/post/5ede07b4518825430c3aca44)
+2. [RN 和 React 路由详解及对比](https://segmentfault.com/a/1190000022801490)
 3. [了不起的 tsconfig.json 指南](https://segmentfault.com/a/1190000022809326)
 4. [🦎 一套代码运行多端，一端所见即多端所见](https://github.com/didi/chameleon)
 5. [The top types any and unknown in TypeScript](https://2ality.com/2020/06/any-unknown-typescript.html)
@@ -39,7 +50,7 @@
 7. [TypeScript: narrowing types via type guards and assertion functions](https://2ality.com/2020/06/type-guards-assertion-functions-typescript.html)
 8. [TypeScript: validating external data](https://2ality.com/2020/06/validating-data-typescript.html)
 
-## 第六十期 
+## 第六十期
 
 1. [京东小程序 Taro 开发对比原生开发测评](https://juejin.im/post/5eb370715188256d703f4063)
 2. [专业的前端模板，用于构建快速，健壮和适应性强的 Web 应用程序或网站](https://github.com/h5bp/html5-boilerplate)
