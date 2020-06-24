@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第六十二期 :new:
+## 第六十三期 :new:
+
+1. [小程序 UI 框架 minui](https://meili.github.io/min/docs/minui/index.html#panel)
+2. [小程序开源框架选型](https://www.infoq.cn/article/87798qErszJEkXHdU1YM)
+3. [在 React 中进行事件驱动的状态管理](https://mp.weixin.qq.com/s/beruBXCUdxazJK50Kcr7GA)
+4. [5 个 JavaScript 的字符串处理库](https://mp.weixin.qq.com/s/1R3jRyH-y8hSVmCIVevKzw)
+5. [Dart Vs JavaScript](https://codersera.com/blog/dart-vs-javascript/)
+6. [Flutter and Desktop Apps](https://medium.com/flutter/flutter-and-desktop-3a0dd0f8353e)
+7. [Bootstrap 5 alpha!](https://blog.getbootstrap.com/2020/06/16/bootstrap-5-alpha/)
+8. [Computing with types in TypeScript](https://2ality.com/2020/06/computing-with-types.html)
+
+## 第六十二期
 
 1. [kbone-ui 是一套能同时支持 小程序(kbone) 和 vue 框架开发的多端 UI 库](https://github.com/wechat-miniprogram/kbone-ui)
 2. [Mpx，一款具有优秀开发体验和深度性能优化的增强型小程序开发框架](https://github.com/didi/mpx)
