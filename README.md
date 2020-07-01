@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第六十三期 :new:
+## 第六十四期 :new:
+
+1. [jQuery 写小程序？Taro 3 正式版发布：开放式跨端跨框架解决方案](https://juejin.im/post/5efbdb786fb9a07ea929c967)
+2. [💃 一款轻巧的渐进式微信小程序框架](https://github.com/tinajs/tina)
+3. [手把手教你写个小程序定时器管理库](https://mp.weixin.qq.com/s/Xp_qEBWDWJyXxV3LGvo29g)
+4. [苹果版小程序上线，如何以更低的门槛开发 App Clips ？](https://segmentfault.com/a/1190000023015948)
+5. [ECMAScript proposal: private static methods and accessors in classes](https://2ality.com/2020/06/private-static-methods-accessors-in-classes.html)
+6. [Announcing TypeScript 4.0 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/)
+7. [Crank, a New Front-End Framework with Baked-In Asynchronous Rendering](https://www.infoq.com/articles/crank-frontend-framework-asynchronous-rendering/)
+8. [The next-generation state manager for React.](https://github.com/umijs/hox)
+
+## 第六十三期 
 
 1. [小程序 UI 框架 minui](https://meili.github.io/min/docs/minui/index.html#panel)
 2. [小程序开源框架选型](https://www.infoq.cn/article/87798qErszJEkXHdU1YM)
