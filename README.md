@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第六十四期 :new:
+## 第六十五期 :new:
+
+1. [小程序零开发埋点，就是这么简单！](https://juejin.im/post/5f03ce876fb9a07e731a3be0)
+2. [App Clips 和微信小程序区别在哪？我们做了一次上手实操](https://mp.weixin.qq.com/s/HO-LIge0dPvUE7QpFskgLg)
+3. [用云开发 Cloudbase，实现小程序多图片内容安全监测](https://juejin.im/post/5efed6dff265da22c7572f80)
+4. [如何快捷转微信小程序为快应用](https://quickapp.lovejade.cn/how-to-transfer-wechat-miniprogram-to-quickapp/)
+5. [Flutter vs React Native vs Native: Deep Performance Comparison](https://medium.com/swlh/flutter-vs-react-native-vs-native-deep-performance-comparison-990b90c11433)
+6. [Causes of Memory Leaks in JavaScript and How to Avoid Them](https://www.ditdot.hr/en/causes-of-memory-leaks-in-javascript-and-how-to-avoid-them)
+7. [What's New In DevTools (Chrome 85)](https://developers.google.com/web/updates/2020/06/devtools)
+8. [4 Ground-breaking JavaScript features of the future](https://areknawo.com/4-ground-breaking-javascript-features-of-the-future/)
+
+## 第六十四期
 
 1. [jQuery 写小程序？Taro 3 正式版发布：开放式跨端跨框架解决方案](https://juejin.im/post/5efbdb786fb9a07ea929c967)
 2. [💃 一款轻巧的渐进式微信小程序框架](https://github.com/tinajs/tina)
@@ -39,7 +50,7 @@
 7. [Crank, a New Front-End Framework with Baked-In Asynchronous Rendering](https://www.infoq.com/articles/crank-frontend-framework-asynchronous-rendering/)
 8. [The next-generation state manager for React.](https://github.com/umijs/hox)
 
-## 第六十三期 
+## 第六十三期
 
 1. [小程序 UI 框架 minui](https://meili.github.io/min/docs/minui/index.html#panel)
 2. [小程序开源框架选型](https://www.infoq.cn/article/87798qErszJEkXHdU1YM)
