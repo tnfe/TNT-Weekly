@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第六十五期 :new:
+## 第六十六期 :new:
+
+1. [一套出色的微信小程序 UI 组件库](https://weapp.iviewui.com/)
+2. [Flutter 全平台制霸再进一步：实现 Linux 桌面应用支持](https://mp.weixin.qq.com/s/pKtczekR5kkWTX8A3P59xQ)
+3. [大前端项目代码重用，也许 lerna 是最好的选择](https://segmentfault.com/a/1190000023160081)
+4. [快速在你的 vue/react 应用中实现 ssr(服务端渲染)](https://juejin.im/post/5efc312ae51d4534aa4aae6c)
+5. [rxjs deep state management](https://github.com/loreanvictor/rxdeep/)
+6. [You Might Not Need Vuex with Vue 3](https://dev.to/blacksonic/you-might-not-need-vuex-with-vue-3-52e4)
+7. [Creating Tiny Desktop Apps With Tauri And Vue.js](https://www.smashingmagazine.com/2020/07/tiny-desktop-apps-tauri-vuejs/)
+8. [Introducing (Angular Reactive) Forms with Benefits 😉](https://netbasal.com/introducing-angular-reactive-forms-with-benefits-26e52f21489c)
+
+## 第六十五期
 
 1. [小程序零开发埋点，就是这么简单！](https://juejin.im/post/5f03ce876fb9a07e731a3be0)
 2. [App Clips 和微信小程序区别在哪？我们做了一次上手实操](https://mp.weixin.qq.com/s/HO-LIge0dPvUE7QpFskgLg)
