@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第六十六期 :new:
+## 第六十七期 :new:
+
+1. [🌈 简洁、易用、灵活的微信小程序组件库](https://github.com/TaleLin/lin-ui)
+2. [ES11 来了，不进来看看嘛](https://juejin.im/post/5f1558c2f265da22e425f68e?utm_source=gold_browser_extension)
+3. [微前端的现状和趋势](https://segmentfault.com/a/1190000023365666)
+4. [flutter 开发之 Dart[必读篇]💯](https://juejin.im/post/5f1c54dff265da22f6164a81)
+5. [Eliminating duplicate objects: three approaches](https://2ality.com/2020/07/eliminating-duplicate-objects.html)
+6. [It's time to lazy-load offscreen iframes!](https://web.dev/iframe-lazy-loading/)
+7. [Functional user interfaces with Moon.js](https://blog.logrocket.com/functional-uis-moon-js/)
+8. [7 Reasons React Native is Going to Be BIG in 2021](https://shift.infinite.red/7-reasons-react-native-is-going-to-be-big-in-2021-4b08c771788e)
+
+## 第六十六期
 
 1. [一套出色的微信小程序 UI 组件库](https://weapp.iviewui.com/)
 2. [Flutter 全平台制霸再进一步：实现 Linux 桌面应用支持](https://mp.weixin.qq.com/s/pKtczekR5kkWTX8A3P59xQ)
