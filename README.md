@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第六十七期 :new:
+## 第六十八期 :new:
+
+1. [This is a library of modifiers for three.js objects](https://github.com/drawcall/threejs-mesh-modifiers)
+2. [一套京东风格的轻量级移动端 Vue 组件库](http://nutui.jd.com/#/index)
+3. [实战丨如何制作一个完整的外卖微信小程序开发项目（已开源）](https://cloud.tencent.com/developer/article/1670518)
+4. [从设计到架构，探索前端的领域和意义](https://juejin.im/post/6854573220532748302#heading-0)
+5. [如何借助 Taro Next 横穿跨端业务线](https://mp.weixin.qq.com/s/cfHhsBw65XjJKHPQO6Z-PA)
+6. [Dough Package For Smooshy UI Flutter](https://medium.com/flutterdevs/dough-package-for-smooshy-ui-flutter-207d54aaf15e)
+7. [😈 Simple micro-front-end framework.](https://github.com/berialjs/berial)
+8. [Using ES Modules with Dynamic Imports to Implement Microfrontends](https://blog.bitsrc.io/using-es-modules-with-dynamic-imports-to-implement-micro-frontends-7c840a38890e)
+
+## 第六十七期
 
 1. [🌈 简洁、易用、灵活的微信小程序组件库](https://github.com/TaleLin/lin-ui)
 2. [ES11 来了，不进来看看嘛](https://juejin.im/post/5f1558c2f265da22e425f68e?utm_source=gold_browser_extension)
