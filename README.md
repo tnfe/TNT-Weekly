@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第六十八期 :new:
+## 第六十九期 :new:
+
+1. [Flutter 1.20 正式版前瞻、新更新发布](https://segmentfault.com/a/1190000023529078)
+2. [使用真正的 React 构建跨平台小程序](https://github.com/remaxjs/remax)
+3. [京喜前端自动化测试之路(小程序篇)](https://mp.weixin.qq.com/s/03LgU-20_PFjtiz6UfeUZA)
+4. [使用 react-docgen 自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/)
+5. [Announcing Flutter 1.20](https://medium.com/flutter/announcing-flutter-1-20-2aaf68c89c75)
+6. [React v17.0 Release Candidate: No New Features](https://reactjs.org/blog/2020/08/10/react-v17-rc.html)
+7. [Build Scalable React Apps by Sharing UIs and Hooks](https://blog.bitsrc.io/build-scalable-react-apps-by-sharing-uis-and-hooks-fa2491e48357)
+8. [Managing data from RxJS Observables in Angular](https://dev.to/yngvebn/managing-data-from-rxjs-observables-in-angular-51d)
+
+## 第六十八期
 
 1. [This is a library of modifiers for three.js objects](https://github.com/drawcall/threejs-mesh-modifiers)
 2. [一套京东风格的轻量级移动端 Vue 组件库](http://nutui.jd.com/#/index)
