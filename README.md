@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第六十九期 :new:
+## 第七十期 :new:
+
+1. [《awesome-state》—— collection of state management lib](https://github.com/tnfe/awesome-state)
+2. [Reactant: 一个渐进式 React 框架](https://juejin.im/post/6861390436175462414)
+3. [Flutter 核心原理与混合开发模式](https://juejin.im/post/6860421355767087118#heading-13)
+4. [TypeScript 4.0 RC 发布，带来诸多更新](https://mp.weixin.qq.com/s/6znDB2J0r16ERB2C7J7sSg)
+5. [A tiny (~400 B) & modern library for keybindings.](https://github.com/jamiebuilds/tinykeys)
+6. [ts-migrate: A Tool for Migrating to TypeScript at Scale](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc)
+7. [A Smashing Guide To The World Of Search Engine Optimization](https://www.smashingmagazine.com/smashing-guide-search-engine-optimization/)
+8. [Instant “SwiftUI” Flavoured Slack Apps](http://www.alwaysrightinstitute.com/swiftblocksui/)
+
+## 第六十九期
 
 1. [Flutter 1.20 正式版前瞻、新更新发布](https://segmentfault.com/a/1190000023529078)
 2. [使用真正的 React 构建跨平台小程序](https://github.com/remaxjs/remax)
