@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第七十期 :new:
+## 第七十一期 :new:
+
+1. [在 2020 年，谈小程序框架该如何选择](https://juejin.im/post/6850037283282747400)
+2. [Vue 新特性：CSS 中使用 JS 变量](https://mp.weixin.qq.com/s/3-zHorntbAV8PLIvuFdfrQ)
+3. [17 个实用的图像特效库](https://segmentfault.com/a/1190000023537704)
+4. [【走进小程序原理】揭秘组件同层渲染](https://segmentfault.com/a/1190000023699463)
+5. [How to Use Deno's Built-in Tools](https://www.sitepoint.com/deno-built-in-tools/)
+6. [How We Build Micro Frontends](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
+7. [Minimal React: getting started with the frontend library](https://2ality.com/2020/08/minimal-react.html)
+8. [Front-end Architecture: Stable and Volatile Dependencies](https://dmitripavlutin.com/frontend-architecture-stable-and-volatile-dependencies/)
+
+## 第七十期
 
 1. [《awesome-state》—— collection of state management lib](https://github.com/tnfe/awesome-state)
 2. [Reactant: 一个渐进式 React 框架](https://juejin.im/post/6861390436175462414)
