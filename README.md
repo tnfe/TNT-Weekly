@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第七十一期 :new:
+## 第七十二期 :new:
+
+1. [《awesome-made-by-chinese》—— A collection of amazing open source projects that were made and mainly contributed by Chinese developers.](https://github.com/JN-H/awesome-made-by-chinese)
+2. [基于 Webpack4.X，小程序工程化落地实践](https://segmentfault.com/a/1190000023845291)
+3. [一个可能让你的页面渲染速度提升数倍的 CSS 属性](https://mp.weixin.qq.com/s/IG9xt25Jj_KHkYnUNZsXdw)
+4. [Vue3 Compiler 优化细节，如何手写高性能渲染函数](https://zhuanlan.zhihu.com/p/150732926)
+5. [A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design](https://github.com/marmelab/react-admin)
+6. [A Complete Walkthrough of GraphQL APIs with React and FaunaDB](https://css-tricks.com/a-complete-walkthrough-of-graphql-apis-with-react-and-faunadb/)
+7. [Setup a Micro Frontend Architecture With Vue and single-spa](https://itnext.io/setup-a-micro-frontend-architecture-with-vue-and-single-spa-2c89528bf72f)
+8. [My thoughts on endless battle of React state management libraries (setState/useState vs Redux vs Mobx)](https://dev.to/mpodlasin/my-thoughts-on-endless-battle-of-react-state-management-libraries-setstate-usestate-vs-redux-vs-mobx-2kal)
+
+## 第七十一期
 
 1. [在 2020 年，谈小程序框架该如何选择](https://juejin.im/post/6850037283282747400)
 2. [Vue 新特性：CSS 中使用 JS 变量](https://mp.weixin.qq.com/s/3-zHorntbAV8PLIvuFdfrQ)
