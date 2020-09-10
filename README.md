@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第七十二期 :new:
+## 第七十三期 :new:
+
+1. [Flutter 状态管理之 Riverpod](https://segmentfault.com/a/1190000023872898)
+2. [【独家】React Native 版本升级指南](https://segmentfault.com/a/1190000023767752)
+3. [推荐一款强大的前端 CLI 命令行工具](https://juejin.im/post/6868086704960438280)
+4. [BetterScroll 2.0 发布：精益求精，与你同行](https://juejin.im/post/6868086607027650573)
+5. [Building Microservices with Deno, Reno, and PostgreSQL](https://www.sitepoint.com/building-microservices-with-deno-reno-postgresql/)
+6. [Recent Advances and Improvements to JavaScript Promises](https://blog.bitsrc.io/recent-advances-and-improvements-to-javascript-promises-561790897a5d)
+7. [State management for React, made simple.](https://github.com/ktripaldi/temperjs)
+8. [Typing React Context to avoid an undefined default value](https://medium.com/@rivoltafilippo/typing-react-context-to-avoid-an-undefined-default-value-2c7c5a7d5947)
+
+## 第七十二期
 
 1. [《awesome-made-by-chinese》—— A collection of amazing open source projects that were made and mainly contributed by Chinese developers.](https://github.com/JN-H/awesome-made-by-chinese)
 2. [基于 Webpack4.X，小程序工程化落地实践](https://segmentfault.com/a/1190000023845291)
