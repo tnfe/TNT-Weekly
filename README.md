@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第七十三期 :new:
+## 第七十四期 :new:
+
+1. [鸿蒙系统中的 JS 开发框架](https://segmentfault.com/a/1190000024469232)
+2. [逐行分析鸿蒙系统的 JavaScript 框架](https://segmentfault.com/a/1190000024469163)
+3. [使用 taro-deploy 自动化构建发布 taro 小程序](https://juejin.im/post/6872675384966512647)
+4. [微信开发之小程序登录相关的各类 ID](https://juejin.im/post/6870856346124681229)
+5. [How to Use AVIF: The New Next-Gen Image Compression Format](https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/)
+6. [🔩 A relentless key-value store for the browser.](https://github.com/gruns/ImmortalDB)
+7. [generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/Marak/faker.js)
+8. [An introduction to Wouter: A React Router alternative](https://blog.logrocket.com/an-introduction-to-wouter-a-react-router-alternative/)
+
+## 第七十三期
 
 1. [Flutter 状态管理之 Riverpod](https://segmentfault.com/a/1190000023872898)
 2. [【独家】React Native 版本升级指南](https://segmentfault.com/a/1190000023767752)
