@@ -28,7 +28,29 @@
 
 ## :books: ​Weekly：
 
-## 第七十三期 :new:
+## 第七十五期 :new:
+
+1. [Vant 3.0 Beta 版本发布 🔥](https://segmentfault.com/a/1190000024542189)
+2. [⏰ Moment.js 宣布停止开发，现在该用什么？](https://juejin.im/post/6873268471329898509)
+3. [尤大 3 天前发在 GitHub 上的 vue-lit 是啥？](https://juejin.im/post/6874383765070675976)
+4. [深受 Pandas 启发的 JavaScript 开源库 — Danfo.js 现已推出！](https://segmentfault.com/a/1190000024534592)
+5. [React Query — An Underrated State Management Tool](https://blog.bitsrc.io/react-query-an-underrated-state-management-tool-5618b7b8cb36)
+6. [Learn date-fns: A Lightweight JavaScript Date Library](https://www.sitepoint.com/date-fns-javascript-date-library/)
+7. [Hands-on Reactive Programming with RxJS](https://goodguydaniel.com/blog/hands-on-reactive-programming-rxjs)
+8. [Transforming styles with JS plugins](https://github.com/postcss/postcss)
+
+## 第七十四期
+
+1. [鸿蒙系统中的 JS 开发框架](https://segmentfault.com/a/1190000024469232)
+2. [逐行分析鸿蒙系统的 JavaScript 框架](https://segmentfault.com/a/1190000024469163)
+3. [使用 taro-deploy 自动化构建发布 taro 小程序](https://juejin.im/post/6872675384966512647)
+4. [React 全局状态管理器 redux, mobx, react-immut 等横向对比](https://www.tangshuang.net/7862.html)
+5. [How to Use AVIF: The New Next-Gen Image Compression Format](https://reachlightspeed.com/blog/using-the-new-high-performance-avif-image-format-on-the-web-today/)
+6. [🔩 A relentless key-value store for the browser.](https://github.com/gruns/ImmortalDB)
+7. [generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/Marak/faker.js)
+8. [An introduction to Wouter: A React Router alternative](https://blog.logrocket.com/an-introduction-to-wouter-a-react-router-alternative/)
+
+## 第七十三期
 
 1. [Flutter 状态管理之 Riverpod](https://segmentfault.com/a/1190000023872898)
 2. [【独家】React Native 版本升级指南](https://segmentfault.com/a/1190000023767752)
