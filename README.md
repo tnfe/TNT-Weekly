@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第七十四期 :new:
+## 第七十五期 :new:
+
+1. [Vant 3.0 Beta 版本发布 🔥](https://segmentfault.com/a/1190000024542189)
+2. [⏰ Moment.js 宣布停止开发，现在该用什么？](https://juejin.im/post/6873268471329898509)
+3. [尤大 3 天前发在 GitHub 上的 vue-lit 是啥？](https://juejin.im/post/6874383765070675976)
+4. [深受 Pandas 启发的 JavaScript 开源库 — Danfo.js 现已推出！](https://segmentfault.com/a/1190000024534592)
+5. [React Query — An Underrated State Management Tool](https://blog.bitsrc.io/react-query-an-underrated-state-management-tool-5618b7b8cb36)
+6. [Learn date-fns: A Lightweight JavaScript Date Library](https://www.sitepoint.com/date-fns-javascript-date-library/)
+7. [Hands-on Reactive Programming with RxJS](https://goodguydaniel.com/blog/hands-on-reactive-programming-rxjs)
+8. [Transforming styles with JS plugins](https://github.com/postcss/postcss)
+
+## 第七十四期
 
 1. [鸿蒙系统中的 JS 开发框架](https://segmentfault.com/a/1190000024469232)
 2. [逐行分析鸿蒙系统的 JavaScript 框架](https://segmentfault.com/a/1190000024469163)
