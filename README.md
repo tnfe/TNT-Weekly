@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第七十五期 :new:
+## 第七十六期 :new:
+
+1. [使用 Vue3 开发小程序？没错，现在就可以！](https://mp.weixin.qq.com/s/HnM-BQdmJYYMR6zPGSZcFg)
+2. [阔别两年，webpack 5 正式发布了！](https://juejin.im/post/6882663278712094727)
+3. [TypeScript 装饰器完全指南](https://juejin.im/post/6883011755434475534)
+4. [Node.js 微服务框架（Moleculer）](https://juejin.im/post/6882685336829296648)
+5. [Introducing the New JSX Transform](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
+6. [Understanding TypeScript Generics](https://www.smashingmagazine.com/2020/10/understanding-typescript-generics/)
+7. [12 Essential Tools for the Flutter Mobile App Developer](https://instabug.com/blog/12-essential-tools-for-the-flutter-mobile-app-developer/)
+8. [ECMAScript proposal: Method .item() for Arrays, Typed Arrays, and strings](https://2ality.com/2020/09/item-method.html)
+
+## 第七十五期
 
 1. [Vant 3.0 Beta 版本发布 🔥](https://segmentfault.com/a/1190000024542189)
 2. [⏰ Moment.js 宣布停止开发，现在该用什么？](https://juejin.im/post/6873268471329898509)
