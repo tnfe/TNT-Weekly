@@ -28,6 +28,17 @@
 
 ## :books: ​Weekly：
 
+## 第七十七期 :new:
+
+1. [微信小程序登录的前端设计与实现](https://huang-jerryc.com/2020/10/16/wxapp-login-design/)
+2. [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/OwYW9v4FooE2IK2AJQePpA)
+3. [77.9K Star 的 Axios 项目有哪些值得借鉴的地方](https://juejin.im/post/6885471967714115597)
+4. [如何精确统计页面停留时长](https://mp.weixin.qq.com/s/tAz9_WTo6f9wa_yR92FKig)
+5. [How to Create a Reddit Clone Using React and Firebase](https://www.sitepoint.com/reddit-clone-react-firebase/)
+6. [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](http://raganwald.com/2020/05/03/fractran.html)
+7. [Why React Hooks over HOCs](https://www.robinwieruch.de/react-hooks-higher-order-components)
+8. [cookieStore: Async Cookie API](https://davidwalsh.name/cookiestore)
+
 ## 第七十六期 :new:
 
 1. [使用 Vue3 开发小程序？没错，现在就可以！](https://mp.weixin.qq.com/s/HnM-BQdmJYYMR6zPGSZcFg)
