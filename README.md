@@ -30,7 +30,7 @@
 
 ## 第七十八期 :new:
 
-1. [一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
+1. [FFCreator----一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
 2. [可折叠Web可能会给我们带来的变化](https://mp.weixin.qq.com/s/Yc-JMy7uTl9_9ga0pR4T6A)
 3. [基于React+Topology构建在线绘图工具](https://juejin.im/post/6888473068876857357)
 4. [Next.js 10 正式发布：带来诸多新特性](https://mp.weixin.qq.com/s/-XZVrLqYLTDvNHvE6genVw)
