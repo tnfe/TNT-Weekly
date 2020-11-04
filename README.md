@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第七十七期 :new:
+## 第七十八期 :new:
+
+1. [一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
+2. [可折叠Web可能会给我们带来的变化](https://mp.weixin.qq.com/s/Yc-JMy7uTl9_9ga0pR4T6A)
+3. [基于React+Topology构建在线绘图工具](https://juejin.im/post/6888473068876857357)
+4. [Next.js 10 正式发布：带来诸多新特性](https://mp.weixin.qq.com/s/-XZVrLqYLTDvNHvE6genVw)
+5. [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+6. [Create React App Turns Four](https://dev.to/mikeesto/create-react-app-turns-four-3ace)
+7. [Top 10 React Hook libraries](https://dev.to/bornfightcompany/top-10-react-hook-libraries-4065)
+8. [Introduction to Blitz.js](https://blog.bitsrc.io/introduction-to-blitz-js-ff1e48ea5714)
+
+## 第七十七期
 
 1. [微信小程序登录的前端设计与实现](https://huang-jerryc.com/2020/10/16/wxapp-login-design/)
 2. [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/OwYW9v4FooE2IK2AJQePpA)
@@ -39,7 +50,7 @@
 7. [Why React Hooks over HOCs](https://www.robinwieruch.de/react-hooks-higher-order-components)
 8. [cookieStore: Async Cookie API](https://davidwalsh.name/cookiestore)
 
-## 第七十六期 :new:
+## 第七十六期
 
 1. [使用 Vue3 开发小程序？没错，现在就可以！](https://mp.weixin.qq.com/s/HnM-BQdmJYYMR6zPGSZcFg)
 2. [阔别两年，webpack 5 正式发布了！](https://juejin.im/post/6882663278712094727)
