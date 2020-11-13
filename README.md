@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第七十八期 :new:
+## 第七十九期 :new:
+
+1. [EMP - Micro Frontends solution](https://github.com/efoxTeam/emp)
+2. [FFCreator----一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
+3. [如何利用AOP+IOC思想解构前端项目开发](https://juejin.im/post/6888677412280729613)
+4. [前端工程师如何通过造轮子提高自己](https://mp.weixin.qq.com/s/Ugu-apM7jKx76euql_XM0g)
+5. [A Dive Into React And Three.js Using `react-three-fiber`](https://www.smashingmagazine.com/2020/11/threejs-react-three-fiber/)
+6. [Data Visualization With ApexCharts](https://www.smashingmagazine.com/2020/11/data-visualization-apexcharts/)
+7. [Brahmos-Supercharged JavaScript library to build user interfaces with modern React API and native templates.](https://github.com/brahmosjs/brahmos)
+8. [7 code smells in your React components](https://dev.to/awnton/7-code-smells-in-react-components-5f66)
+
+## 第七十八期
 
 1. [FFCreator----一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
 2. [可折叠Web可能会给我们带来的变化](https://mp.weixin.qq.com/s/Yc-JMy7uTl9_9ga0pR4T6A)
