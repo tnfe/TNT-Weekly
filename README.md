@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第七十九期 :new:
+## 第八十期 :new:
+
+1. [小程序框架原理之渲染流程及通信流程](https://juejin.cn/post/6896370758407159821)
+2. [Rax 小程序运行时方案解密与思考](https://juejin.cn/post/6890428926540283918)
+3. [postmate-A powerful, simple, promise-based `postMessage` iFrame communication library.](https://github.com/dollarshaveclub/postmate)
+4. [TypeScript 4.1 RC 版本发布：带来了令人兴奋的新特性](https://www.infoq.cn/article/kHLmigWZ3fCyEdLQcvkD)
+5. [Authenticating React Apps With Auth0](https://www.smashingmagazine.com/2020/11/authenticating-react-apps-auth0/)
+6. [Top 5 React state management libraries in late 2020](https://areknawo.com/top-5-react-state-management-libraries-in-late-2020/)
+7. [beautiful-react-diagrams----A tiny collection of lightweight React components for building diagrams with ease](https://github.com/beautifulinteractions/beautiful-react-diagrams)
+8. [Use CSS Variables instead of React Context](https://epicreact.dev/css-variables/)
+
+## 第七十九期
 
 1. [EMP - Micro Frontends solution](https://github.com/efoxTeam/emp)
 2. [FFCreator----一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
