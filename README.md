@@ -1,6 +1,6 @@
 # TNFE-Weekly
 
-![weekly-banner](https://raw.githubusercontent.com/Tnfe/TNFE-Weekly/master/assets/weekly-banner.png 'weekly-banner')
+![weekly-banner](https://raw.githubusercontent.com/Tnfe/TNFE-Weekly/master/assets/weekly-banner.png "weekly-banner")
 
 前端行业发展飞速，新技术如雨后春笋般快速出现，尤其是各种小程序陆续推出，相关的信息、文章也铺天盖地的遍布在各处，我们有时候会困惑，不知道哪些信息对于自己是有价值的，那么 TNFE 团队启动了这个周刊项目，为所有的前端开发人员整理出小程序相关以及其它 web 前端技术领域的精品内容。
 
@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第八十期 :new:
+## 第八十一期 :new:
+
+1. [极致追求，让小程序代码包立减 10% 的插件 weapp-css-modules](https://segmentfault.com/a/1190000038265556)
+2. [场景构造难，编译很耗时？看小程序业务如何提高效研发](https://mp.weixin.qq.com/s/xGQjTPcKCdhpA9f1Z7bhNg)
+3. [15 种微服务架构框架](https://segmentfault.com/a/1190000038313934)
+4. [Angular 11 正式发布：加入 webpack 5，升级至 TS 4.0，不再支持 IE 9 和 10](https://www.infoq.cn/article/oy7K6J6gPogUd4djAlcj)
+5. [Understanding React's useReducer Hook](https://ui.dev/usereducer/)
+6. [How to use SVG Icons as React Components](https://www.robinwieruch.de/react-svg-icon-components)
+7. [Ionic Vue: The UI library for Vue 3](https://dev.to/ionic/ionic-vue-the-ui-library-for-vue-3-7m5)
+8. [Simplifying your application state management with Recoil](https://www.webiny.com/blog/simplifying-your-application-state-management-with-Recoil)
+
+## 第八十期
 
 1. [小程序框架原理之渲染流程及通信流程](https://juejin.cn/post/6896370758407159821)
 2. [Rax 小程序运行时方案解密与思考](https://juejin.cn/post/6890428926540283918)
@@ -42,8 +53,8 @@
 ## 第七十九期
 
 1. [EMP - Micro Frontends solution](https://github.com/efoxTeam/emp)
-2. [FFCreator----一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
-3. [如何利用AOP+IOC思想解构前端项目开发](https://juejin.im/post/6888677412280729613)
+2. [FFCreator----一个基于 node.js 的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
+3. [如何利用 AOP+IOC 思想解构前端项目开发](https://juejin.im/post/6888677412280729613)
 4. [前端工程师如何通过造轮子提高自己](https://mp.weixin.qq.com/s/Ugu-apM7jKx76euql_XM0g)
 5. [A Dive Into React And Three.js Using `react-three-fiber`](https://www.smashingmagazine.com/2020/11/threejs-react-three-fiber/)
 6. [Data Visualization With ApexCharts](https://www.smashingmagazine.com/2020/11/data-visualization-apexcharts/)
@@ -52,9 +63,9 @@
 
 ## 第七十八期
 
-1. [FFCreator----一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
-2. [可折叠Web可能会给我们带来的变化](https://mp.weixin.qq.com/s/Yc-JMy7uTl9_9ga0pR4T6A)
-3. [基于React+Topology构建在线绘图工具](https://juejin.im/post/6888473068876857357)
+1. [FFCreator----一个基于 node.js 的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
+2. [可折叠 Web 可能会给我们带来的变化](https://mp.weixin.qq.com/s/Yc-JMy7uTl9_9ga0pR4T6A)
+3. [基于 React+Topology 构建在线绘图工具](https://juejin.im/post/6888473068876857357)
 4. [Next.js 10 正式发布：带来诸多新特性](https://mp.weixin.qq.com/s/-XZVrLqYLTDvNHvE6genVw)
 5. [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
 6. [Create React App Turns Four](https://dev.to/mikeesto/create-react-app-turns-four-3ace)
