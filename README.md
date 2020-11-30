@@ -28,7 +28,62 @@
 
 ## :books: ​Weekly：
 
-## 第七十五期 :new:
+## 第八十期 :new:
+
+1. [小程序框架原理之渲染流程及通信流程](https://juejin.cn/post/6896370758407159821)
+2. [Rax 小程序运行时方案解密与思考](https://juejin.cn/post/6890428926540283918)
+3. [postmate-A powerful, simple, promise-based `postMessage` iFrame communication library.](https://github.com/dollarshaveclub/postmate)
+4. [TypeScript 4.1 RC 版本发布：带来了令人兴奋的新特性](https://www.infoq.cn/article/kHLmigWZ3fCyEdLQcvkD)
+5. [Authenticating React Apps With Auth0](https://www.smashingmagazine.com/2020/11/authenticating-react-apps-auth0/)
+6. [Top 5 React state management libraries in late 2020](https://areknawo.com/top-5-react-state-management-libraries-in-late-2020/)
+7. [beautiful-react-diagrams----A tiny collection of lightweight React components for building diagrams with ease](https://github.com/beautifulinteractions/beautiful-react-diagrams)
+8. [Use CSS Variables instead of React Context](https://epicreact.dev/css-variables/)
+
+## 第七十九期
+
+1. [EMP - Micro Frontends solution](https://github.com/efoxTeam/emp)
+2. [FFCreator----一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
+3. [如何利用AOP+IOC思想解构前端项目开发](https://juejin.im/post/6888677412280729613)
+4. [前端工程师如何通过造轮子提高自己](https://mp.weixin.qq.com/s/Ugu-apM7jKx76euql_XM0g)
+5. [A Dive Into React And Three.js Using `react-three-fiber`](https://www.smashingmagazine.com/2020/11/threejs-react-three-fiber/)
+6. [Data Visualization With ApexCharts](https://www.smashingmagazine.com/2020/11/data-visualization-apexcharts/)
+7. [Brahmos-Supercharged JavaScript library to build user interfaces with modern React API and native templates.](https://github.com/brahmosjs/brahmos)
+8. [7 code smells in your React components](https://dev.to/awnton/7-code-smells-in-react-components-5f66)
+
+## 第七十八期
+
+1. [FFCreator----一个基于node.js的轻量、灵活的短视频加工库](https://github.com/tnfe/FFCreator)
+2. [可折叠Web可能会给我们带来的变化](https://mp.weixin.qq.com/s/Yc-JMy7uTl9_9ga0pR4T6A)
+3. [基于React+Topology构建在线绘图工具](https://juejin.im/post/6888473068876857357)
+4. [Next.js 10 正式发布：带来诸多新特性](https://mp.weixin.qq.com/s/-XZVrLqYLTDvNHvE6genVw)
+5. [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+6. [Create React App Turns Four](https://dev.to/mikeesto/create-react-app-turns-four-3ace)
+7. [Top 10 React Hook libraries](https://dev.to/bornfightcompany/top-10-react-hook-libraries-4065)
+8. [Introduction to Blitz.js](https://blog.bitsrc.io/introduction-to-blitz-js-ff1e48ea5714)
+
+## 第七十七期
+
+1. [微信小程序登录的前端设计与实现](https://huang-jerryc.com/2020/10/16/wxapp-login-design/)
+2. [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/OwYW9v4FooE2IK2AJQePpA)
+3. [77.9K Star 的 Axios 项目有哪些值得借鉴的地方](https://juejin.im/post/6885471967714115597)
+4. [如何精确统计页面停留时长](https://mp.weixin.qq.com/s/tAz9_WTo6f9wa_yR92FKig)
+5. [How to Create a Reddit Clone Using React and Firebase](https://www.sitepoint.com/reddit-clone-react-firebase/)
+6. [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](http://raganwald.com/2020/05/03/fractran.html)
+7. [Why React Hooks over HOCs](https://www.robinwieruch.de/react-hooks-higher-order-components)
+8. [cookieStore: Async Cookie API](https://davidwalsh.name/cookiestore)
+
+## 第七十六期
+
+1. [使用 Vue3 开发小程序？没错，现在就可以！](https://mp.weixin.qq.com/s/HnM-BQdmJYYMR6zPGSZcFg)
+2. [阔别两年，webpack 5 正式发布了！](https://juejin.im/post/6882663278712094727)
+3. [TypeScript 装饰器完全指南](https://juejin.im/post/6883011755434475534)
+4. [Node.js 微服务框架（Moleculer）](https://juejin.im/post/6882685336829296648)
+5. [Introducing the New JSX Transform](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
+6. [Understanding TypeScript Generics](https://www.smashingmagazine.com/2020/10/understanding-typescript-generics/)
+7. [12 Essential Tools for the Flutter Mobile App Developer](https://instabug.com/blog/12-essential-tools-for-the-flutter-mobile-app-developer/)
+8. [ECMAScript proposal: Method .item() for Arrays, Typed Arrays, and strings](https://2ality.com/2020/09/item-method.html)
+
+## 第七十五期
 
 1. [Vant 3.0 Beta 版本发布 🔥](https://segmentfault.com/a/1190000024542189)
 2. [⏰ Moment.js 宣布停止开发，现在该用什么？](https://juejin.im/post/6873268471329898509)
