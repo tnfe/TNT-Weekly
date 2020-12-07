@@ -28,8 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第八十一期 :new:
+## 第八十二期 :new:
 
+1. [ProComponents-Use Ant Design like a Pro!](https://procomponents.ant.design/)
+2. [🎉 Element UI for Vue 3.0 来了！](https://juejin.cn/post/6900733850540834830)
+3. [基于Vue的前端架构，我做了这15点](https://juejin.cn/post/6901466994478940168)
+4. [create-react-app 4.0.0的新功能](https://segmentfault.com/a/1190000038335229)
+5. [👩‍🚀 The tiny all-in-one development tool for modern web apps.](https://github.com/preactjs/wmr)
+6. [TALKR - DOCUMENTATION](https://www.npmjs.com/package/talkr)
+7. [Snowpack v3.0 Release Candidate](https://www.snowpack.dev/posts/2020-12-03-snowpack-3-release-candidate)
+8. [Add Office Functionality to Your Web App with OnlyOffice](https://www.sitepoint.com/add-office-functionality-to-your-web-app-with-onlyoffice/)
+
+## 第八十一期 
 1. [极致追求，让小程序代码包立减 10% 的插件 weapp-css-modules](https://segmentfault.com/a/1190000038265556)
 2. [场景构造难，编译很耗时？看小程序业务如何提高效研发](https://mp.weixin.qq.com/s/xGQjTPcKCdhpA9f1Z7bhNg)
 3. [15 种微服务架构框架](https://segmentfault.com/a/1190000038313934)
