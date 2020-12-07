@@ -1,6 +1,6 @@
 # TNFE-Weekly
 
-![weekly-banner](https://raw.githubusercontent.com/Tnfe/TNFE-Weekly/master/assets/weekly-banner.png "weekly-banner")
+![weekly-banner](https://raw.githubusercontent.com/Tnfe/TNFE-Weekly/master/assets/weekly-banner.jpg "weekly-banner")
 
 前端行业发展飞速，新技术如雨后春笋般快速出现，尤其是各种小程序陆续推出，相关的信息、文章也铺天盖地的遍布在各处，我们有时候会困惑，不知道哪些信息对于自己是有价值的，那么 TNFE 团队启动了这个周刊项目，为所有的前端开发人员整理出小程序相关以及其它 web 前端技术领域的精品内容。
 
@@ -16,13 +16,13 @@
 
 ## :steam_locomotive: ​ 团队博客
 
-[腾讯新闻前端团队-TNFE](https://segmentfault.com/blog/tnfe)
+[腾讯新闻前端团队-TNT](https://segmentfault.com/blog/tnfe)
 
 <br />
 
 ## :cat: 团队 GitHub
 
-[TNFE](https://github.com/Tnfe)
+[TNT](https://github.com/Tnfe)
 
 <br />
 
