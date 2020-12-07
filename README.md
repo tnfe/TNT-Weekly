@@ -1,4 +1,4 @@
-# TNFE-Weekly
+# TNT-Weekly
 
 ![weekly-banner](https://raw.githubusercontent.com/Tnfe/TNFE-Weekly/master/assets/weekly-banner.jpg "weekly-banner")
 
