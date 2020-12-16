@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第八十二期 :new:
+## 第八十三期 :new:
+
+1. [滴滴开源小桔棱镜：一款专注移动端操作行为的利器](https://juejin.cn/post/6904676606845911053)
+2. [多平台快速开发的UI框架](https://www.uviewui.com/)
+3. [获取小程序源码总结](https://segmentfault.com/a/1190000038444315)
+4. [Taro 3.1 beta 发布: 开放式架构新增 4 端支持](https://juejin.cn/post/6906291548535652359)
+5. [Deno 1.6 Release Notes](https://deno.land/posts/v1.6)
+6. [React useReducer with Middleware](https://www.robinwieruch.de/react-usereducer-middleware)
+7. [Create beautiful CLI commands in your NestJS Applications](https://github.com/squareboat/nest-console)
+8. [How to increase CSS-in-JS performance by 175x](https://dominictobias.medium.com/how-to-increase-css-in-js-performance-by-175x-f30ddeac6bce)
+
+## 第八十二期 
 
 1. [ProComponents-Use Ant Design like a Pro!](https://procomponents.ant.design/)
 2. [🎉 Element UI for Vue 3.0 来了！](https://juejin.cn/post/6900733850540834830)
