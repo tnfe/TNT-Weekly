@@ -28,7 +28,19 @@
 
 ## :books: ​Weekly：
 
-## 第八十三期 :new:
+## 第八十四期 :new:
+
+1. [2020年小程序开发-云开发技术总结](https://segmentfault.com/a/1190000038533783)
+2. [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959)
+3. [Vant 3.0 正式发布：全面拥抱 Vue 3](https://segmentfault.com/a/1190000038612513)
+4. [小程序可视化实时自动埋点设计](https://mp.weixin.qq.com/s/fSzOo6ZbXc8eJGh33IoLZw)
+5. [How To Optimize Progressive Web Apps: Going Beyond The Basics](https://www.smashingmagazine.com/2020/12/progressive-web-apps/)
+6. [Deploying a Serverless Jamstack Site with RedwoodJS, Fauna, and Vercel](https://css-tricks.com/deploying-a-serverless-jamstack-site-with-redwoodjs-fauna-and-vercel/)
+7. [Introducing Qui - A Vue.js Design System for Web](https://dev.to/cheesytimmy/introducing-qui-a-vue-js-design-system-for-web-5co3)
+8. [Visly — Build React components visually](https://visly.app/blogposts/visly--build-react-components-visually)
+
+
+## 第八十三期 
 
 1. [滴滴开源小桔棱镜：一款专注移动端操作行为的利器](https://juejin.cn/post/6904676606845911053)
 2. [多平台快速开发的UI框架](https://www.uviewui.com/)
