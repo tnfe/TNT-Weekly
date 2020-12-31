@@ -28,7 +28,19 @@
 
 ## :books: ​Weekly：
 
-## 第八十四期 :new:
+## 第八十五期 :new:
+
+1. [2020 年大前端技术趋势解读](https://cloud.tencent.com/developer/article/1764851)
+2. [4.2 万 Star！开发 Web 和移动端应用的全栈平台](https://mp.weixin.qq.com/s/qF_XvEh3UUpEmniJMmzgTQ)
+3. [从Weex到Web，性能逆势如何破局？](https://www.infoq.cn/article/RvUt1xVobBUaHSiTUfgT)
+4. [React Native 优先的多端统一化方案](https://www.infoq.cn/article/VpVHluUci1seBLkGCZjP)
+5. [What’s Coming To VueX?](https://www.smashingmagazine.com/2020/12/vuex-library/)
+6. [Integrating TypeScript with Svelte](https://css-tricks.com/integrating-typescript-with-svelte/)
+7. [Redux-Free State Management with Jotai](https://blog.bitsrc.io/redux-free-state-management-with-jotai-2c8f34a6a4a)
+8. [3 ways to deploy React apps to Netlify](https://blog.logrocket.com/3-ways-to-deploy-react-apps-to-netlify/)
+
+
+## 第八十四期 
 
 1. [2020年小程序开发-云开发技术总结](https://segmentfault.com/a/1190000038533783)
 2. [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959)
