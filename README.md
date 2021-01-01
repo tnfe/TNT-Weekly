@@ -30,8 +30,8 @@
 
 ## 第八十五期 :new:
 
-1. [2020 年大前端技术趋势解读](https://cloud.tencent.com/developer/article/1764851)
-2. [4.2 万 Star！开发 Web 和移动端应用的全栈平台](https://mp.weixin.qq.com/s/qF_XvEh3UUpEmniJMmzgTQ)
+1. [4.2 万 Star！开发 Web 和移动端应用的全栈平台](https://mp.weixin.qq.com/s/qF_XvEh3UUpEmniJMmzgTQ)
+2. [2020 年大前端技术趋势解读](https://cloud.tencent.com/developer/article/1764851)
 3. [从Weex到Web，性能逆势如何破局？](https://www.infoq.cn/article/RvUt1xVobBUaHSiTUfgT)
 4. [React Native 优先的多端统一化方案](https://www.infoq.cn/article/VpVHluUci1seBLkGCZjP)
 5. [What’s Coming To VueX?](https://www.smashingmagazine.com/2020/12/vuex-library/)
