@@ -39,7 +39,7 @@
 7. [Redux-Free State Management with Jotai](https://blog.bitsrc.io/redux-free-state-management-with-jotai-2c8f34a6a4a)
 8. [3 ways to deploy React apps to Netlify](https://blog.logrocket.com/3-ways-to-deploy-react-apps-to-netlify/)
 
-## 第八十四期 
+## 第八十四期
 
 1. [2020年小程序开发-云开发技术总结](https://segmentfault.com/a/1190000038533783)
 2. [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959)
