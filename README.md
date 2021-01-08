@@ -30,7 +30,7 @@
 
 ## 第八十六期 :new:
 
-1. [🐻 一款纯净小巧的状态管理器，使用react-hooks原生实现，自动连接module组织架构。🍋](https://github.com/tnfe/clean-state)
+1. [Clean-State----一款纯净小巧的状态管理器，使用react-hooks原生实现，自动连接module组织架构。🍋](https://github.com/tnfe/clean-state)
 2. [bbo：零依赖的高质量前端函数工具库](https://github.com/tnfe/bbo)
 3. [项目开发中到底能不能使用vite👀](https://juejin.cn/post/6913812233382264846)
 4. [滴滴DoKit For Flutter正式开源，功能及核心实现解读](https://www.infoq.cn/article/jklgriEmraXNZNIUUkKK) 
