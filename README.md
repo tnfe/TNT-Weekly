@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第八十五期 :new:
+## 第八十六期 :new:
+
+1. [🐻 一款纯净小巧的状态管理器，使用react-hooks原生实现，自动连接module组织架构。🍋](https://github.com/tnfe/clean-state)
+2. [bbo：零依赖的高质量前端函数工具库](https://github.com/tnfe/bbo)
+3. [项目开发中到底能不能使用vite👀](https://juejin.cn/post/6913812233382264846)
+4. [滴滴DoKit For Flutter正式开源，功能及核心实现解读](https://www.infoq.cn/article/jklgriEmraXNZNIUUkKK) 
+5. [Angular UI Kit and components library for awesome people](https://github.com/TinkoffCreditSystems/taiga-ui)
+6. [Exciting Features in NextJS V10](https://blog.bitsrc.io/exciting-features-in-nextjs-v10-a790edb752b6)
+7. [Add image annotation to your web apps.](https://github.com/ailon/markerjs2)
+8. [Future of state management in React with XState](https://dev.to/skona27/future-of-state-management-in-react-with-xstate-kg4)
+
+## 第八十五期 
 
 1. [2020 年大前端技术趋势解读](https://cloud.tencent.com/developer/article/1764851)
 2. [4.2 万 Star！开发 Web 和移动端应用的全栈平台](https://mp.weixin.qq.com/s/qF_XvEh3UUpEmniJMmzgTQ)
