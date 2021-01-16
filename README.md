@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第八十六期 :new:
+## 第八十七期 :new:
+
+1. [小程序下的地图还能这么玩，你知道吗？](https://segmentfault.com/a/1190000038757737)
+2. [小程序外链，实现桌面图标、短信和邮件外链跳转到小程序的工具](https://segmentfault.com/a/1190000038926664)
+3. [Facebook 重构：抛弃 Sass / Less ，迎接原子化 CSS 时代](https://juejin.cn/post/6917073600474415117)
+4. [为什么 Vue3 选择了 CSS 变量](https://juejin.cn/post/6916298446638940173) 
+5. [A type friendly web framework for node.js written by TypeScript](https://github.com/Lucifier129/farrow)
+6. [ECMAScript proposal: Import assertions](https://2ality.com/2021/01/import-assertions.html)
+7. [Getting Started With The GetX Package In Flutter Applications](https://www.smashingmagazine.com/2021/01/getx-package-flutter-applications/)
+8. [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+
+## 第八十六期 
 
 1. [Clean-State----一款纯净小巧的状态管理器，使用react-hooks原生实现，自动连接module组织架构。🍋](https://github.com/tnfe/clean-state)
 2. [bbo：零依赖的高质量前端函数工具库](https://github.com/tnfe/bbo)
