@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第八十七期 :new:
+## 第八十八期 :new:
+
+1. [浅谈移动端开发技术](https://mp.weixin.qq.com/s/yegI1oXndv9exhF0Uc-S3g)
+2. [从一个优质开源项目来看前端架构](https://mp.weixin.qq.com/s/dX2jUa6YovoTwaa69mddbQ)
+3. [可视化拖拽组件库一些技术要点原理分析](https://juejin.cn/post/6908502083075325959)
+4. [TypeScript 4.2 Beta 版本发布：带来诸多更新，营造更好的开发体验](https://mp.weixin.qq.com/s/4EYUIDlowBsrAnWBEjf9HA)
+5. [How to implement an exponential backoff retry strategy in Javascript](https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/)
+6. [new codebase, who dis? (How to Join a Team and Learn a Codebase)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html)
+7. [Tiny state manager](https://github.com/dmaevsky/tinyx)
+8. [🐰 Lightweight Emoji Picker for React Enthusiast](https://github.com/PandaSekh/lepre)
+
+## 第八十七期
 
 1. [小程序下的地图还能这么玩，你知道吗？](https://segmentfault.com/a/1190000038757737)
 2. [小程序外链，实现桌面图标、短信和邮件外链跳转到小程序的工具](https://segmentfault.com/a/1190000038926664)
