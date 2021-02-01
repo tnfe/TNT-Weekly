@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第八十八期 :new:
+## 第八十九期 :new:
+
+1. [如何开发一款 H5 小程序直播？](https://mp.weixin.qq.com/s/Xqsfe3YtbbsmklixDXW5dg)
+2. [Apache ECharts 5 震撼发布：五大模块，十五项新特性全面升级！](https://segmentfault.com/a/1190000039083444)
+3. [让 Flutter 在鸿蒙系统上跑起来](https://juejin.cn/post/6920862050952413197)
+4. [聊聊 observer-util 这个库，让你读懂响应式原理](https://juejin.cn/post/6921473823543918600)
+5. [Apache Superset is a Data Visualization and Data Exploration Platform](https://github.com/apache/superset)
+6. [🍃 JavaScript library for mobile-friendly interactive maps](https://github.com/Leaflet/Leaflet)
+7. [undefined vs. null revisited](https://2ality.com/2021/01/undefined-null-revisited.html)
+8. [How to Migrate an App From Webpack to Snowpack](https://primalskill.blog/how-to-migrate-an-app-from-webpack-to-snowpack)
+
+## 第八十八期 
 
 1. [浅谈移动端开发技术](https://mp.weixin.qq.com/s/yegI1oXndv9exhF0Uc-S3g)
 2. [从一个优质开源项目来看前端架构](https://mp.weixin.qq.com/s/dX2jUa6YovoTwaa69mddbQ)
