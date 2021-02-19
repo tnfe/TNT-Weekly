@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第八十九期 :new:
+## 第九十期 :new:
+
+1. [TransX——一个小巧玲珑的 vue 组件切换动画库](https://github.com/tnfe/transx)
+2. [备战2021：Vite2项目最佳实践](https://juejin.cn/post/6924912613750996999)
+3. [Vuex 4 正式发布：打包现在与 Vue 3 一致](https://mp.weixin.qq.com/s/UkGOyFUBqDiBUVV-NkAuUQ)
+4. [Oasis Engine is a web-first and mobile-first high-performance real-time development platform.](https://github.com/oasis-engine/engine)
+5. [Announcing Vite 2.0](https://dev.to/yyx990803/announcing-vite-2-0-2f0a)
+6. [Managing CSS Z-Index In Large Projects](https://www.smashingmagazine.com/2021/02/css-z-index-large-projects/)
+7. [How to Greatly Enhance fetch() with the Decorator Pattern](https://dmitripavlutin.com/enhance-fetch-with-decorator-pattern/)
+8. [Top 10 React Native Component Libraries to Use in 2021](https://blog.bitsrc.io/top-react-native-component-libraries-to-use-in-2021-cce60f81ae08)
+
+## 第八十九期 
 
 1. [如何开发一款 H5 小程序直播？](https://mp.weixin.qq.com/s/Xqsfe3YtbbsmklixDXW5dg)
 2. [Apache ECharts 5 震撼发布：五大模块，十五项新特性全面升级！](https://segmentfault.com/a/1190000039083444)
