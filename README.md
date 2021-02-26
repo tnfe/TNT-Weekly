@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九十期 :new:
+## 第九十一期 :new:
+
+1. [Apache ECharts (incubating) 的微信小程序版本](https://github.com/ecomfe/echarts-for-weixin)
+2. [从 RxJS 到 Flink：如何处理数据流？](https://segmentfault.com/a/1190000039248492)
+3. [从0到1开发可视化数据大屏（上）](https://juejin.cn/post/6931708519976534029#heading-0)
+4. [使用 mask 实现视频弹幕人物遮罩过滤](https://juejin.cn/post/6931168723021758478)
+5. [Create interactive videos in React](https://ractive-player.org/)
+6. [Announcing TypeScript 4.2](https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/)
+7. [Building a Tabs component](https://web.dev/building-a-tabs-component/)
+8. [The 5 best open-source form builders to add to your tech stack in 2021](https://dev.to/budibase/the-5-best-open-source-form-builders-to-add-to-your-arsenal-in-2021-1203)
+
+## 第九十期 
 
 1. [TransX——一个小巧玲珑的 vue 组件切换动画库](https://github.com/tnfe/transx)
 2. [备战2021：Vite2项目最佳实践](https://juejin.cn/post/6924912613750996999)
