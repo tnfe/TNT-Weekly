@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九十一期 :new:
+## 第九十二期 :new:
+
+1. [Flutter 2.0 发布 | 针对 Web，移动端和桌面端构建的下一代 Flutter](https://juejin.cn/post/6935520179262586917)
+2. [一款可以让大型iOS工程编译速度提升50%的工具](https://segmentfault.com/a/1190000039306496)
+3. [反直觉！浏览器到底是如何下载资源的](https://juejin.cn/post/6934516416326729735)
+4. [Vite和Webpack的核心差异](https://mp.weixin.qq.com/s/c6TKuZeH05PtetEWlKHz9A)
+5. [Announcing Dart 2.12](https://medium.com/dartlang/announcing-dart-2-12-499a6e689c87)
+6. [JavaScript Library to work against complex domain names, subdomains and URIs.](https://github.com/remusao/tldts)
+7. [Javascript Virtual Keyboard - Customizable, responsive and lightweight](https://github.com/hodgef/simple-keyboard)
+8. [Deno 1.8 Release Notes](https://deno.land/posts/v1.8)
+
+## 第九十一期 
 
 1. [Apache ECharts (incubating) 的微信小程序版本](https://github.com/ecomfe/echarts-for-weixin)
 2. [从 RxJS 到 Flink：如何处理数据流？](https://segmentfault.com/a/1190000039248492)
