@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九十三期 :new:
+## 第九十四期 :new:
+
+1. [use concent like a pro](https://github.com/tnfe/concent-pro)
+2. [Vue3.0 新特性以及使用经验总结](https://juejin.cn/post/6940454764421316644)
+3. [「react进阶」一文吃透React高阶组件(HOC)](https://juejin.cn/post/6940422320427106335)
+4. [Flexbox布局中不为人知的细节](https://juejin.cn/post/6940498706143641613)
+5. [Top Cross-Platform App Development Frameworks for 2021](https://www.aalpha.net/articles/cross-platform-app-development-frameworks/)
+6. [🎉 Lightweight zero-config JS Confetti library with no dependencies](https://github.com/loonywizard/js-confetti)
+7. [Lorem Ipsum... but for photos.](https://github.com/DMarby/picsum-photos)
+8. [A high-performance、high-extensibility、easy integration framework for Hybrid content page. Support most content page types of News App.](https://github.com/dequan1331/HybridPageKit)
+
+## 第九十三期 
 
 1. [下一代前端构建工具 ViteJS 中英双语字幕 ｜ 技术点评](https://juejin.cn/post/6937176680251424775)
 2. [2021年如何开发移动优先设计？](https://juejin.cn/post/6937603927680483335)
