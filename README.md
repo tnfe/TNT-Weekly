@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九十二期 :new:
+## 第九十三期 :new:
+
+1. [下一代前端构建工具 ViteJS 中英双语字幕 ｜ 技术点评](https://juejin.cn/post/6937176680251424775)
+2. [2021年如何开发移动优先设计？](https://juejin.cn/post/6937603927680483335)
+3. [奇思妙想 CSS 文字动画](https://juejin.cn/post/6937102296442470413#heading-25)
+4. [Vue 3.0 $emit 之后发生了什么](https://juejin.cn/post/6938176673292484615)
+5. [How to Map Mouse Position in CSS](https://css-tricks.com/how-to-map-mouse-position-in-css/)
+6. [Introducing Gatsby 3.0 – Faster in Every Way that Matters](https://www.gatsbyjs.com/blog/gatsby-v3/)
+7. [The Full-stack Framework in Deno.](https://github.com/alephjs/aleph.js)
+8. [A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.](https://github.com/GitSquared/edex-ui#screenshots)
+
+## 第九十二期 
 
 1. [Flutter 2.0 发布 | 针对 Web，移动端和桌面端构建的下一代 Flutter](https://juejin.cn/post/6935520179262586917)
 2. [一款可以让大型iOS工程编译速度提升50%的工具](https://segmentfault.com/a/1190000039306496)
