@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九十四期 :new:
+## 第九十五期 :new:
+
+1. [德莱问-前端技术博客](https://github.com/dravenww/blob)
+2. [仅使用CSS提高页面渲染速度](https://juejin.cn/post/6942661408181977118)
+3. [一个基于node.js的高速短视频加工库](https://github.com/tnfe/FFCreator)
+4. [极简Flutter状态管理库：consumer](https://juejin.cn/post/6942118356816232456)
+5. [What’s New In Flutter 2?](https://www.smashingmagazine.com/2021/03/flutter2-stable-mobile-web-desktop-development-native-speed-one-codebase/)
+6. [An experimental just-in-time compiler for Tailwind CSS ](https://github.com/tailwindlabs/tailwindcss-jit)
+7. [Yes, here’s the best CSS framework in 2021](https://itnext.io/yes-heres-the-best-css-framework-in-2021-2c9eb2ced678)
+8. [Atomos — A New Recoil Visualization Tool Powered by React Flow](https://github.com/oslabs-beta/atomos)
+
+## 第九十四期 
 
 1. [use concent like a pro](https://github.com/tnfe/concent-pro)
 2. [Vue3.0 新特性以及使用经验总结](https://juejin.cn/post/6940454764421316644)
