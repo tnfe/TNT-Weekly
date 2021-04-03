@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九十五期 :new:
+## 第九十六期 :new:
+
+1. [下一代的模板引擎：lit-html](https://juejin.cn/post/6946005329683415048)
+2. [腾讯位置服务Flutter业务实践——地图SDK Flutter插件实现(一)](https://segmentfault.com/a/1190000039763413?utm_source=sf-hot-article)
+3. [Blitz.js 全栈开发 (1.1)：基于 Next.js 的下一代 React 全栈框架](https://juejin.cn/post/6942741238114156574#heading-33)
+4. [CSS 实现优惠券的技巧](https://juejin.cn/post/6945023989555134494)
+5. [Announcing TypeScript 4.3 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-beta/)
+6. [👻 Primitive, flexible state management for React](https://github.com/pmndrs/jotai)
+7. [Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite](https://github.com/prisma/prisma)
+8. [A component that can arrange items according to the type of grids](https://github.com/naver/egjs-grid)
+
+## 第九十五期 
 
 1. [德莱问-前端技术博客](https://github.com/dravenww/blob)
 2. [仅使用CSS提高页面渲染速度](https://juejin.cn/post/6942661408181977118)
