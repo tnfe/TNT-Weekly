@@ -38,6 +38,7 @@
 6. [👻 Primitive, flexible state management for React](https://github.com/pmndrs/jotai)
 7. [Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite](https://github.com/prisma/prisma)
 8. [A component that can arrange items according to the type of grids](https://github.com/naver/egjs-grid)
+9. [In-app bug reporting tool for iOS apps](https://github.com/shakebugs/shake-ios)
 
 ## 第九十五期 
 
