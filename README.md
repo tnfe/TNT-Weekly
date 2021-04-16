@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九十七期 :new:
+## 第九十八期 :new:
+
+1. [基于 React 的渐进式研发框架](https://github.com/alibaba/ice)
+2. [CSS @property，让不可能变可能](https://juejin.cn/post/6951201528543707150)
+3. [VueConf 2021 抢先看，Evan You 和你聊聊 Vue 的未来](https://juejin.cn/post/6951558024540454925)
+4. [Flutter Boost3.0 初探](https://www.infoq.cn/article/oQMuU83ZpZppCZkIIZxu)
+5. [Open source CSS framework for data visualization.](https://github.com/ChartsCSS/charts.css)
+6. [NativeScript 8.0 Released](https://blog.nativescript.org/nativescript-8-announcement/#an-overview-of-all-the-new-things)
+7. [Deno 1.9 Release Notes](https://deno.com/blog/v1.9)
+8. [Comparing the New Generation of Build Tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
+
+## 第九十七期 
 
 1. [一键让webpack项目支持vite](https://github.com/tnfe/wp2vite)
 2. [Flutter Getx-一个轻量且强大的解决方案：高性能的状态管理、智能的依赖注入和便捷的路由管理](https://1467602180.github.io/flutter-getx-doc/)
