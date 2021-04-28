@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九十八期 :new:
+## 第九十九期 :new:
+
+1. [iconFont 在线预览](https://github.com/Momo707577045/iconfont-preview)
+2. [给小程序再减重 30% 的秘密​](https://www.wxapp-union.com/article-7015-1.html)
+3. [Vue3的Material Design移动组件库](https://github.com/haoziqaq/varlet)
+4. [Eva.js是专门用于创建交互式游戏项目的前端游戏引擎](https://github.com/eva-engine/eva.js)
+5. [Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅](https://github.com/styled-components/styled-components)
+6. [An utility-first CSS in JS library for rapid UI development.](https://github.com/forsigner/fower)
+7. [Lit is a simple library for building fast, lightweight web components.](https://github.com/lit/lit/)
+8. [Announcing new and simple state manager “Exome”](https://itnext.io/announcing-new-and-simple-state-manager-exome-78b5874325c1)
+
+## 第九十八期 
 
 1. [基于 React 的渐进式研发框架](https://github.com/alibaba/ice)
 2. [CSS @property，让不可能变可能](https://juejin.cn/post/6951201528543707150)
