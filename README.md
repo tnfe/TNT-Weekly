@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第九十九期 :new:
+## 第一百期 :new:
+
+1. [基于Flutter的高性能，符合Web标准的呈现引擎。](https://github.com/openkraken/kraken)
+2. [真正的<KeepAlive />用于React​](https://github.com/CJY0208/react-activation)
+3. [Flutter 集成uni-app](https://segmentfault.com/a/1190000039897883)
+4. [回顾 babel 6和7，来预测下 babel 8](https://juejin.cn/post/6956224866312060942)
+5. [Create blazing fast multithreaded Web Apps](https://github.com/neomjs/neo)
+6. [Cross browser window state management](https://itnext.io/cross-browser-window-state-management-77bf837b6574)
+7. [CSS :placeholder-shown](https://www.samanthaming.com/tidbits/88-css-placeholder-shown/)
+8. [Simple, lightweight, and blazing fast UI library 💧](https://github.com/HereIsKevin/fluid/)
+
+## 第九十九期 
 
 1. [iconFont 在线预览](https://github.com/Momo707577045/iconfont-preview)
 2. [给小程序再减重 30% 的秘密​](https://www.wxapp-union.com/article-7015-1.html)
