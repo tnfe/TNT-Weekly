@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百零一期 :new:
+## 第一百零二期 :new:
+
+1. [如何让10万条数据的小程序列表如丝般顺滑](https://juejin.cn/post/6966904317148299271#heading-15)
+2. [写给前端的跨平台方案、跨端引擎的本质​](https://juejin.cn/post/6966626823912308772#heading-5)
+3. [新时代创意布局](https://segmentfault.com/a/1190000040072323)
+4. [用div画条龙？](https://juejin.cn/post/6961297384491974686)
+5. [Lightweight fuzzy-search, in JavaScript](https://github.com/krisk/Fuse)
+6. [A declarative, efficient, and flexible JavaScript library for building user interfaces.](https://github.com/solidjs/solid)
+7. [⚛️ Hooks for fetching, caching and updating asynchronous data in React](https://github.com/tannerlinsley/react-query)
+8. [A customizable, modular, responsive, lightbox gallery plugin.](https://github.com/sachinchoolur/lightGallery)
+
+## 第一百零一期 
 
 1. [前端智能化看“低代码/无代码”](https://juejin.cn/post/6959794588898820127)
 2. [从0到1开发可视化数据大屏（下）​](https://juejin.cn/post/6959834710788800542)
