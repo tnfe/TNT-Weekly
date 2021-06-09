@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百零二期 :new:
+## 第一百零三期 :new:
+
+1. [不到30行代码实现一个酷炫H5全景](https://juejin.cn/post/6968263858309824526)
+2. [H5 项目如何适配暗黑模式​](https://mp.weixin.qq.com/s/WVqu_gmW9c5YLZPCGukWdg)
+3. [基于 IntersectionObserver 实现一个组件的曝光监控](https://mp.weixin.qq.com/s/1BiMlqaS0GC_3q4yL6IGbw)
+4. [CSS @property，让不可能变可能](https://www.cnblogs.com/coco1s/p/14661268.html)
+5. [A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.](https://github.com/adobe/react-spectrum)
+6. [A tool for writing better scripts](https://github.com/google/zx/#)
+7. [⚡️ Simple, Modular & Accessible UI Components for your React Applications](https://github.com/chakra-ui/chakra-ui)
+8. [</> htmx - high power tools for HTML](https://github.com/bigskysoftware/htmx)
+
+## 第一百零二期 
 
 1. [如何让10万条数据的小程序列表如丝般顺滑](https://juejin.cn/post/6966904317148299271#heading-15)
 2. [写给前端的跨平台方案、跨端引擎的本质​](https://juejin.cn/post/6966626823912308772#heading-5)
