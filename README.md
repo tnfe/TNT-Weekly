@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百零三期 :new:
+## 第一百零四期 :new:
+
+1. [🚀初次上手尝试开发鸿蒙OS上的Javascript应用（一）](https://juejin.cn/post/6971681119787810847)
+2. [Flutter 抖音点赞效果实现​](https://juejin.cn/post/6971554349528907784)
+3. [一起看 I/O | Flutter 2.2 更新详解](https://mp.weixin.qq.com/s/_btkqmzWMeZLlL4UdhtUhw)
+4. [一行可以让项目启动快 70% 以上的代码](https://mp.weixin.qq.com/s/eSf6P3D0L-og2VMmgScvqA)
+5. [React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience](https://github.com/mantinedev/mantine)
+6. [A desktop debugging platform for mobile developers.](https://github.com/facebook/flipper)
+7. [A tiny (152 bytes) state manager for React/Preact/Vue/Svelte with many atomic tree-shakable stores](https://github.com/ai/nanostores)
+8. [Quickly integrate face, hand, and/or pose tracking to your frontend projects in a snap ✨👌](https://github.com/midiblocks/handsfree)
+
+## 第一百零三期 
 
 1. [不到30行代码实现一个酷炫H5全景](https://juejin.cn/post/6968263858309824526)
 2. [H5 项目如何适配暗黑模式​](https://mp.weixin.qq.com/s/WVqu_gmW9c5YLZPCGukWdg)
