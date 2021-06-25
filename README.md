@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百零五期 :new:
+## 第一百零六期 :new:
+
+1. [从 Flutter 和前端角度出发，聊聊单线程模型下如何保证 UI 流畅性](https://segmentfault.com/a/1190000040206761)
+2. [Google的新前端框架Lit​](https://juejin.cn/post/6976557762377416718)
+3. [SVG基础及其动画应用浅析](https://juejin.cn/post/6976876179496124430)
+4. [如何让老项目的打包构建时间减少70%？](https://juejin.cn/post/6976431352912543758)
+5. [Custom Scrollbars In CSS](https://ishadeed.com/article/custom-scrollbars-css/)
+6. [Thinking Outside the Box with CSS Grid](https://frontend.horse/articles/thinking-outside-the-box-with-css-grid/)
+7. [jQuery Scratch Pad Plugin](https://github.com/websanova/wScratchPad)
+8. [A framework for the HTML programming language.](https://github.com/willmartindev/div.js)
+
+## 第一百零五期 
 
 1. [A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.](https://github.com/TuSimple/naive-ui)
 2. [三种前端实现VR全景看房的方案！​](https://juejin.cn/post/6973865268426571784)
