@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百零四期 :new:
+## 第一百零五期 :new:
+
+1. [A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.](https://github.com/TuSimple/naive-ui)
+2. [三种前端实现VR全景看房的方案！​](https://juejin.cn/post/6973865268426571784)
+3. [一次千万级流量的 618 电商 H5 活动页](https://juejin.cn/post/6973922659125952548#heading-0)
+4. [仅用CSS几步实现赛博朋克2077风格视觉效果](https://segmentfault.com/a/1190000040166704)
+5. [State management: Two-way bindings and enhanced binding formatters](https://itnext.io/state-management-two-way-bindings-and-enhanced-binding-formatters-f0e9419b7c6b)
+6. [React 18 Is Out! This Is What You Need to Know](https://dev.to/asayerio_techblog/react-18-is-out-this-is-what-you-need-to-know-4ii2)
+7. [Why using object spread with reduce probably a bad idea](https://prateeksurana.me/blog/why-using-object-spread-with-reduce-bad-idea/)
+8. [Next.js 11](https://nextjs.org/blog/next-11)
+
+## 第一百零四期 
 
 1. [🚀初次上手尝试开发鸿蒙OS上的Javascript应用（一）](https://juejin.cn/post/6971681119787810847)
 2. [Flutter 抖音点赞效果实现​](https://juejin.cn/post/6971554349528907784)
