@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百零六期 :new:
+## 第一百零七期 :new:
+
+1. [The simplest tool to parse/transform/generate code on ast](https://github.com/thx/gogocode)
+2. [文件上传，搞懂这8种场景就够了​](https://juejin.cn/post/6980142557066067982)
+3. [React 并发功能体验-前端的并发模式已经到来](https://segmentfault.com/a/1190000040272535)
+4. [2021年你可能不知道的 CSS 特性（下篇）](https://juejin.cn/post/6978647140910727176)
+5. [🐯 visx | visualization components](https://github.com/airbnb/visx)
+6. [Create a 3D CSS Printer that Actually Prints!](https://www.sitepoint.com/3d-css-printer/)
+7. [Face Detection on the Web with Face-api.js](https://www.sitepoint.com/face-api-js-face-detection/)
+8. [Redefined chart library built with React and D3](https://github.com/recharts/recharts)
+
+## 第一百零六期 
 
 1. [从 Flutter 和前端角度出发，聊聊单线程模型下如何保证 UI 流畅性](https://segmentfault.com/a/1190000040206761)
 2. [Google的新前端框架Lit​](https://juejin.cn/post/6976557762377416718)
