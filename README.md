@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百零七期 :new:
+## 第一百零八期 :new:
+
+1. [尤大大新活 petite-vue 尝鲜](https://juejin.cn/post/6983328034443132935)
+2. [NutUI 3.1 正式发布：开启多端开发之路​](https://juejin.cn/post/6983809762638970893)
+3. [鲜亮的高饱和色彩，专注视觉的小程序组件库](https://github.com/weilanwl/ColorUI)
+4. [小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片](https://github.com/Kujiale-Mobile/Painter)
+5. [TypeScript and native ESM on Node.js](https://2ality.com/2021/06/typescript-esm-nodejs.html)
+6. [A declarative, efficient, and flexible JavaScript library for building user interfaces.](https://github.com/solidjs/solid)
+7. [vanilla javascript input mask](https://github.com/uNmAnNeR/imaskjs)
+8. [A library to smooth out JavaScript logging.](https://github.com/AJStacy/Adze)
+
+## 第一百零七期 
 
 1. [The simplest tool to parse/transform/generate code on ast](https://github.com/thx/gogocode)
 2. [文件上传，搞懂这8种场景就够了​](https://juejin.cn/post/6980142557066067982)
