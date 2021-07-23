@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百零八期 :new:
+## 第一百零九期 :new:
+
+1. [Hummer-一套高性能高可用的跨端开发框架](https://github.com/didi/Hummer)
+2. [​OKee Mobile——基于 OKee Design 设计体系的移动端 Vue UI 组件库](https://github.com/oceanengine/okeedesign-mobile-vue)
+3. [拖拽竟然还能这样玩！](https://juejin.cn/post/6984587700951056414)
+4. [Pinia与Vuex的对比：Pinia是Vuex的良好替代品吗？](https://segmentfault.com/a/1190000040368602)
+5. [Easy-Peasy State Management Using React Easy Peasy](https://blog.openreplay.com/easy-peasy-state-management-using-react-easy-peasy)
+6. [🐻 Bear necessities for state management in React](https://github.com/pmndrs/zustand)
+7. [🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.](https://github.com/alan2207/bulletproof-react)
+8. [💯 Tiny (2.5KB minified) Vue Validate Composition](https://github.com/FrontLabsOfficial/vue-tiny-validate)
+
+## 第一百零八期 
 
 1. [尤大大新活 petite-vue 尝鲜](https://juejin.cn/post/6983328034443132935)
 2. [NutUI 3.1 正式发布：开启多端开发之路​](https://juejin.cn/post/6983809762638970893)
