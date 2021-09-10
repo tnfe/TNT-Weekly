@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百一十一期 :new:
+## 第一百一十二期 :new:
+
+1. [Obvious-轻量级渐进式微前端库](https://github.com/ObviousJs/obvious-core)
+2. [​30 个有用的 Node.js NPM 包](https://segmentfault.com/a/1190000040594181)
+3. [推荐 10 个很“哇塞”的Web“资源](https://juejin.cn/post/7003114103094902792)
+4. [巧用CSS filter，让你的网站更加酷炫！](https://juejin.cn/post/7002829486806794276)
+5. [🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥](https://github.com/antonioru/beautiful-react-hooks)
+6. [ES2022 feature: class static initialization blocks](https://2ality.com/2021/09/class-static-block.html)
+7. [Portable and lightweight cross-platform desktop application development framework](https://github.com/neutralinojs/neutralinojs)
+8. [Self-hostable , easy-to-use , lightweight and feature-rich torrent client written in Go . It comes with beautiful Web UI and Optional Multi-User Support . Run Locally or Host in Server . Open/Download/Stream Torrents in Browser Right Away!](https://github.com/varbhat/exatorrent)
+
+## 第一百一十一期 
 
 1. [Mdebug 基于React开发的新一代web调试工具](https://github.com/tnfe/mdebug)
 2. [​setup vs 5 react hooks 助你避开"沟"中陷阱](https://segmentfault.com/a/1190000040543670)
