@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百一十二期 :new:
+## 第一百一十三期 :new:
+
+1. [​amis-前端低代码框架，通过 JSON 配置就能生成各种页面](https://github.com/baidu/amis)
+2. [Flutter Fair 是为Flutter设计的，UI&模板动态化框架](https://github.com/wuba/fair)
+3. [最先进的 ssr 框架支持 React/Vue2/Vue3，实现了无服务器端渲染规范](https://github.com/ykfe/ssr)
+4. [从零到一实现企业级微前端框架](https://juejin.cn/post/7004661323124441102)
+5. [🐉 Material Component Framework for Vue](https://github.com/vuetifyjs/vuetify)
+6. [Style your components with confidence](https://stitches.dev/)
+7. [Full CSS support for JSX without compromises](https://github.com/vercel/styled-jsx)
+8. [Highly customizable notification snackbars (toasts) that can be stacked on top of each other](https://github.com/iamhosseindhv/notistack)
+
+## 第一百一十二期 
 
 1. [Obvious-轻量级渐进式微前端库](https://github.com/ObviousJs/obvious-core)
 2. [​30 个有用的 Node.js NPM 包](https://segmentfault.com/a/1190000040594181)
