@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百一十三期 :new:
+## 第一百一十四期 :new:
+
+1. [​Kraken-高性能 Web 渲染引擎，基于 Flutter 构建](https://openkraken.com/)
+2. [uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水](https://github.com/YanxinNet/uView)
+3. [Fect UI，🌸基于 Vue-next 构建的极简 UI 组件](https://github.com/fay-org/fect)
+4. [React 运行时优化方案的演进](https://juejin.cn/post/7010539227284766751#heading-32)
+5. [Cross Platform React Native UI Toolkit](https://reactnativeelements.com/)
+6. [Functional css for humans](https://github.com/tachyons-css/tachyons/)
+7. [2x times faster than chalk and use 5x less space in node_modules](https://github.com/ai/nanocolors)
+8. [A lightweight and modular front-end framework for developing fast and powerful web interfaces](https://getuikit.com/)
+
+## 第一百一十三期 
 
 1. [​amis-前端低代码框架，通过 JSON 配置就能生成各种页面](https://github.com/baidu/amis)
 2. [Flutter Fair 是为Flutter设计的，UI&模板动态化框架](https://github.com/wuba/fair)
