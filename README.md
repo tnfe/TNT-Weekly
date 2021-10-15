@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百一十四期 :new:
+## 第一百一十五期 :new:
+
+1. [​PIUI-基于uniapp的高质量UI开源组件库](https://piui.sadais.com/)
+2. [GitHub Copilot-Your AI pair programmer](https://copilot.github.com/)
+3. [前端监控 SDK 的一些技术要点原理分析](https://juejin.cn/post/7017974567943536671?utm_source=gold_browser_extension)
+4. [花式组件库](https://github.com/fancy-components/fancy-components)
+5. [The most beautiful and efficient way to develop HTML5 hybrid and mobile web apps.](https://onsen.io/)
+6. [🧱 A suite of React components .](https://github.com/rsuite/rsuite)
+7. [Elastic UI Framework 🙌](https://github.com/elastic/eui)
+8. [Stunning touch-friendly 3D parallax hover effects](https://github.com/nolimits4web/atropos/)
+
+## 第一百一十四期 
 
 1. [​Kraken-高性能 Web 渲染引擎，基于 Flutter 构建](https://openkraken.com/)
 2. [uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水](https://github.com/YanxinNet/uView)
