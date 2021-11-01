@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百一十五期 :new:
+## 第一百一十六期 :new:
+
+1. [Pinia-直观、类型安全且灵活的 Vue商店](https://github.com/posva/pinia)
+2. [教你用three.js写一个炫酷的3D登陆页面](https://juejin.cn/post/7020571868314730532)
+3. [重磅！微软发布 vscode.dev，把 VSCode 带入浏览器！](https://mp.weixin.qq.com/s/k7RWz_OB9xZfeBRljui0Vg)
+4. [An HTTP/1.1 client, written from scratch for Node.js](https://github.com/nodejs/undici)
+5. [A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.](https://github.com/ionic-team/ionic-framework)
+6. [A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀](https://github.com/nestjs/nest)
+7. [Quasar Framework - Build high-performance VueJS user interfaces in record time](https://github.com/quasarframework/quasar)
+8. [The Most Complete Angular UI Component Library](https://github.com/primefaces/primeng)
+
+## 第一百一十五期 
 
 1. [​PIUI-基于uniapp的高质量UI开源组件库](https://piui.sadais.com/)
 2. [GitHub Copilot-Your AI pair programmer](https://copilot.github.com/)
