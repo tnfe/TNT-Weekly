@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百一十六期 :new:
+## 第一百一十七期 :new:
+
+1. [semi-design-现代、全面、灵活的设计系统和 React UI 库](https://github.com/DouyinFE/semi-design)
+2. [arco-design-一个全面的 React UI 组件库](https://github.com/arco-design/arco-design)
+3. [一个小巧玲珑的 vue 组件切换动画库, 支持 20 几种动画切换方式](https://github.com/tnfe/transx)
+4. [Next.js 12 发布！迄今以来最大更新！](https://mp.weixin.qq.com/s/MxiXh2_uQuCsAFRbSV5Rtw)
+5. [The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.](https://github.com/rome/tools)
+6. [⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.](https://github.com/preactjs/preact)
+7. [Records & Tuples for React](https://sebastienlorber.com/records-and-tuples-for-react)
+8. [Take ownership of your commerce stack](https://github.com/medusajs/medusa)
+
+## 第一百一十六期 
 
 1. [Pinia-直观、类型安全且灵活的 Vue商店](https://github.com/posva/pinia)
 2. [教你用three.js写一个炫酷的3D登陆页面](https://juejin.cn/post/7020571868314730532)
