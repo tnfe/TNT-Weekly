@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百一十七期 :new:
+## 第一百一十八期 :new:
+
+1. [H5-Dooring-让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.](https://github.com/MrXujiang/h5-Dooring)
+2. [plain-design 是基于 plain-design-composition + typescript实现的一套React组件库](http://plain-pot.gitee.io/plain-design-doc/#home%2Fintroduce.entire)
+3. [尤雨溪推荐神器 ni，简单好用！源码揭秘！](https://juejin.cn/post/7023910122770399269#heading-15)
+4. [前端终极Mock工具fig-mock](https://juejin.cn/post/7028775321918783496)
+5. [Application-wide alternative for React.useState](https://github.com/finom/use-change)
+6. [Fine-grained atomic React state management library](https://github.com/quiiBz/particule)
+7. [Mobile code editor connected to Git. Runs on the web, open source, and free.](https://github.com/codeitcodes/codeit)
+8. [Render After Effects animations natively on Android and iOS, Web, and React Native](https://github.com/airbnb/lottie-android)
+
+## 第一百一十七期 
 
 1. [semi-design-现代、全面、灵活的设计系统和 React UI 库](https://github.com/DouyinFE/semi-design)
 2. [arco-design-一个全面的 React UI 组件库](https://github.com/arco-design/arco-design)
