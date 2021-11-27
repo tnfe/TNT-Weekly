@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百一十八期 :new:
+## 第一百一十九期 :new:
+
+1. [Modern.js-现代Web工程体系](https://modernjs.dev/)
+2. [Dashboard-一款超强的布局编排组件](https://juejin.cn/post/7031090017774600200)
+3. [拥抱开源，Vue Admin Work免费开源啦](https://juejin.cn/post/7030673884336619557)
+4. [Vue新玩具VueUse](https://juejin.cn/post/7029699344596992031)
+5. [Official Sentry SDKs for JavaScript](https://github.com/getsentry/sentry-javascript)
+6. [Announcing TypeScript 4.5](https://devblogs.microsoft.com/typescript/announcing-typescript-4-5/)
+7. [📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!](https://github.com/storybookjs/storybook/)
+8. [Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀](https://github.com/Budibase/budibase)
+
+## 第一百一十八期 
 
 1. [H5-Dooring-让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.](https://github.com/MrXujiang/h5-Dooring)
 2. [plain-design 是基于 plain-design-composition + typescript实现的一套React组件库](http://plain-pot.gitee.io/plain-design-doc/#home%2Fintroduce.entire)
