@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百一十九期 :new:
+## 第一百二十期 :new:
+
+1. [Next.js 强劲对手来了！💿 Remix 正式宣布开源](https://juejin.cn/post/7035952921208422436)
+2. [🦅一个可以将字符串转换为视图的 JS 库。](https://github.com/maomincoding/strve)
+3. [60+ 实用 React 工具库，助力你高效开发！](https://juejin.cn/post/7036162494573838367)
+4. [2022年前端未来发展趋势](https://juejin.cn/post/7036294322567774239#heading-24)
+5. [⚛️ Enterprise Client-Side Routing for React](https://github.com/tannerlinsley/react-location)
+6. [🍵 Tiny, easy and powerful React state management](https://github.com/teafuljs/teaful)
+7. [JavaScript positioning library for tooltips, popovers, dropdowns, and more](https://github.com/atomiks/floating-ui)
+8. [Immutable persistent data collections for Javascript which increase efficiency and simplicity.](https://github.com/immutable-js/immutable-js)
+
+## 第一百一十九期 
 
 1. [Modern.js-现代Web工程体系](https://modernjs.dev/)
 2. [Dashboard-一款超强的布局编排组件](https://juejin.cn/post/7031090017774600200)
