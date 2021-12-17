@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十期 :new:
+## 第一百二十一期 :new:
+
+1. [Flutter 2.8 release 发布，快来看看新特性吧](https://juejin.cn/post/7039527444017070093)
+2. [前端Mock工具——Mokia](https://github.com/varHarrie/mokia)
+3. [Flutter应用框架搭建(一)GetX集成及使用详解](https://juejin.cn/post/7039637076962181157)
+4. [推荐一些有趣实用的前端可视化工具库，助力可视化开发](https://juejin.cn/post/7039865326716059656)
+5. [🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more](https://github.com/floating-ui/floating-ui)
+6. [Tailwind CSS v3.0](https://tailwindcss.com/blog/tailwindcss-v3)
+7. [Recoil-A state management library for React](https://github.com/atomiks/floating-ui)
+8. [📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
+
+## 第一百二十期 
 
 1. [Next.js 强劲对手来了！💿 Remix 正式宣布开源](https://juejin.cn/post/7035952921208422436)
 2. [🦅一个可以将字符串转换为视图的 JS 库。](https://github.com/maomincoding/strve)
