@@ -28,7 +28,29 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十期 :new:
+## 第一百二十二期 :new:
+
+1. [Good++推荐一些Github上很赞的开源项目，帮你寻找有趣的灵魂！](https://github.com/DeformedSteel/good)
+2. [Hello @idux, 一个全新的 vue 3.x 组件库来了](https://juejin.cn/post/7042565546189488159)
+3. [低代码平台，H5商城可视化搭建平台](https://github.com/wangyuan389/mall-cook)
+4. [Fantastic-admin-一款开箱即用的 Vue 中后台管理系统框架](https://github.com/hooray/fantastic-admin)
+5. [Graceful mock-data and fixtures generation using TypeScript](https://github.com/Goldziher/interface-forge)
+6. [quick-lint-js finds bugs in JavaScript programs](https://github.com/quick-lint/quick-lint-js)
+7. [Introduction to Docker for Javascript Developers](https://dev.to/alexeagleson/docker-for-javascript-developers-41me)
+8. [Hello, ArtemisQL](https://medium.com/@helloartemisql/introducing-artemisql-2d39cf391437)
+
+## 第一百二十一期 
+
+1. [Flutter 2.8 release 发布，快来看看新特性吧](https://juejin.cn/post/7039527444017070093)
+2. [前端Mock工具——Mokia](https://github.com/varHarrie/mokia)
+3. [Flutter应用框架搭建(一)GetX集成及使用详解](https://juejin.cn/post/7039637076962181157)
+4. [推荐一些有趣实用的前端可视化工具库，助力可视化开发](https://juejin.cn/post/7039865326716059656)
+5. [🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more](https://github.com/floating-ui/floating-ui)
+6. [Tailwind CSS v3.0](https://tailwindcss.com/blog/tailwindcss-v3)
+7. [Recoil-A state management library for React](https://github.com/atomiks/floating-ui)
+8. [📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
+
+## 第一百二十期 
 
 1. [Next.js 强劲对手来了！💿 Remix 正式宣布开源](https://juejin.cn/post/7035952921208422436)
 2. [🦅一个可以将字符串转换为视图的 JS 库。](https://github.com/maomincoding/strve)
