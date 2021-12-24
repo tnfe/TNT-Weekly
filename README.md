@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十一期 :new:
+## 第一百二十二期 :new:
+
+1. [Good++推荐一些Github上很赞的开源项目，帮你寻找有趣的灵魂！](https://github.com/DeformedSteel/good)
+2. [Hello @idux, 一个全新的 vue 3.x 组件库来了](https://juejin.cn/post/7042565546189488159)
+3. [低代码平台，H5商城可视化搭建平台](https://github.com/wangyuan389/mall-cook)
+4. [Fantastic-admin-一款开箱即用的 Vue 中后台管理系统框架](https://github.com/hooray/fantastic-admin)
+5. [Graceful mock-data and fixtures generation using TypeScript](https://github.com/Goldziher/interface-forge)
+6. [quick-lint-js finds bugs in JavaScript programs](https://github.com/quick-lint/quick-lint-js)
+7. [Introduction to Docker for Javascript Developers](https://dev.to/alexeagleson/docker-for-javascript-developers-41me)
+8. [Hello, ArtemisQL](https://medium.com/@helloartemisql/introducing-artemisql-2d39cf391437)
+
+## 第一百二十一期 
 
 1. [Flutter 2.8 release 发布，快来看看新特性吧](https://juejin.cn/post/7039527444017070093)
 2. [前端Mock工具——Mokia](https://github.com/varHarrie/mokia)
