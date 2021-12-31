@@ -28,7 +28,19 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十二期 :new:
+## 第一百二十三期 :new:
+
+1. [Molecule-一个轻量级的 Web IDE UI 框架](https://github.com/DTStack/molecule)
+2. [如何搭积木式的快速开发H5页面?](https://juejin.cn/post/6904878119724056584)
+3. [前端 50 个优质 Web 在线资源~](https://juejin.cn/post/7030572979868139551)
+4. [血荐28个让你直呼哇塞的Canvas库](https://juejin.cn/post/7038267477121302542)
+5. [A Vite-native test framework. It's fast!](https://github.com/vitest-dev/vitest)
+6. [New in Node.js: node: protocol imports](https://2ality.com/2021/12/node-protocol-imports.html)
+7. [Migrating a MEAN AngularJS app to React, Next.js, and TypeScript](https://blog.isquaredsoftware.com/2021/12/codebase-conversion-mean-react-next-ts/)
+8. [Auto-Currying In TypeScript](https://v10i.dev/p/auto-currying-in-typescript)
+
+
+## 第一百二十二期 
 
 1. [Good++推荐一些Github上很赞的开源项目，帮你寻找有趣的灵魂！](https://github.com/DeformedSteel/good)
 2. [Hello @idux, 一个全新的 vue 3.x 组件库来了](https://juejin.cn/post/7042565546189488159)
