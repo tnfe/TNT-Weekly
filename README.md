@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十三期 :new:
+## 第一百二十四期 :new:
+
+1. [Bruno-基于一整套设计体系的 Flutter 组件库](https://github.com/LianjiaTech/bruno)
+2. [NutUI-React-京东风格的轻量级移动端 React 组件库](https://github.com/jdf2e/nutui-react)
+3. [tauri-构建更小、更快、更安全的桌面应用程序](https://github.com/tauri-apps/tauri)
+4. [mijin-Tailwind CSS UI 组件为 Vue.js / Nuxt.js 构建](https://github.com/lecoueyl/mijin)
+5. [Instant offline SQL-powered data visualisation in your browser](https://github.com/lana-k/sqliteviz)
+6. [All the Fake Data for All Your Real Needs](https://github.com/ngneat/falso)
+7. [A tiny, reactive JavaScript library for structured state and tabular data.](https://github.com/tinyplex/tinybase)
+8. [Publishing and consuming ECMAScript modules via packages – the big picture](https://2ality.com/2022/01/esm-specifiers.html)
+
+## 第一百二十三期 
 
 1. [Molecule-一个轻量级的 Web IDE UI 框架](https://github.com/DTStack/molecule)
 2. [如何搭积木式的快速开发H5页面?](https://juejin.cn/post/6904878119724056584)
