@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十四期 :new:
+## 第一百二十五期 :new:
+
+1. [《视搭》-一个视频可视化搭建项目](https://github.com/tnfe/shida)
+2. [A Three.js mesh morph modifier](https://github.com/drawcall/threejs-mesh-modifiers)
+3. [🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具](https://github.com/imcuttle/mometa)
+4. [Slidev-为开发者打造的演示文稿工具](https://github.com/slidevjs/slidev)
+5. [C2F can convert css style to Flutter code online.](https://github.com/drawcall/c2f)
+6. [structuredClone(): deeply copying objects in JavaScript](https://2ality.com/2022/01/structured-clone.html)
+7. [A collection of interactive UI components in pure CSS](https://github.com/zetareticoli/cssui)
+8. [ECMAScript proposal: grouping Arrays via .groupBy() and .groupByToMap()](https://2ality.com/2022/01/array-grouping.html)
+
+## 第一百二十四期 
 
 1. [Bruno-基于一整套设计体系的 Flutter 组件库](https://github.com/LianjiaTech/bruno)
 2. [NutUI-React-京东风格的轻量级移动端 React 组件库](https://github.com/jdf2e/nutui-react)
