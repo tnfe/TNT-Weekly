@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十五期 :new:
+## 第一百二十六期 :new:
+
+1. [nextui-🚀美丽、快速和现代的 React UI 库](https://github.com/nextui-org/nextui)
+2. [Fluent UI-用于构建 Web 应用程序的实用程序、React 组件和 Web 组件的集合](https://github.com/microsoft/fluentui)
+3. [Element Plus 正式版发布啦！🎉🎉 ](https://github.com/element-plus/element-plus)
+4. [【必须知道的JavaScript库】 - 解决95%问题的工具插件/库 - 1](https://segmentfault.com/a/1190000041405707)
+5. [The most popular library of interactive components built with Tailwind CSS](https://github.com/themesberg/flowbite)
+6. [Elegant and fully-featured Node.Js web framework based on TypeScript. 🚀.](https://github.com/FoalTS/foal)
+7. [Lit is a simple library for building fast, lightweight web components.](https://github.com/lit/lit/)
+8. [Setting up symbol-valued constants via proxies](https://2ality.com/2022/01/symbol-factory.html)
+
+## 第一百二十五期 
 
 1. [《视搭》-一个视频可视化搭建项目](https://github.com/tnfe/shida)
 2. [A Three.js mesh morph modifier](https://github.com/drawcall/threejs-mesh-modifiers)
