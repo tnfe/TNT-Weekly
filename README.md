@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十六期 :new:
+## 第一百二十七期 :new:
+
+1. [基于 Rust 的 Web 平台](https://github.com/swc-project/swc)
+2. [📖React 组件的文档生成器](https://github.com/umijs/dumi)
+3. [用DDD(领域驱动设计)和ADT(代数数据类型)提升代码质量](https://juejin.cn/post/7070861333377499144)
+4. [The all-in-one tool to supercharge your productivity ⌨️](https://github.com/alyssaxuu/omni)
+5. [A pipe operator for JavaScript: introduction and use cases](https://2ality.com/2022/01/pipe-operator.html)
+6. [Announcing TypeScript 4.6](https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/)
+7. [👽 Open source API development ecosystem](https://github.com/hoppscotch/hoppscotch)
+8. [New CSS Features In 2022](https://www.smashingmagazine.com/2022/03/new-css-features-2022/)
+
+## 第一百二十六期 
 
 1. [nextui-🚀美丽、快速和现代的 React UI 库](https://github.com/nextui-org/nextui)
 2. [Fluent UI-用于构建 Web 应用程序的实用程序、React 组件和 Web 组件的集合](https://github.com/microsoft/fluentui)
