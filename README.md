@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十七期 :new:
+## 第一百二十八期 :new:
+
+1. [LowCodeEngine-一套面向扩展设计的企业级低代码技术体系](https://github.com/alibaba/lowcode-engine)
+2. [Windi CSS-下一代实用程序优先的 CSS 框架](https://github.com/windicss/windicss)
+3. [阿里 & 蚂蚁自研 IDE 研发框架 OpenSumi 正式开源](https://segmentfault.com/a/1190000041527234)
+4. [Zerker-一个轻量级且功能强大的 Flutter 图形动画库](https://github.com/flutterkit/zerker)
+5. [🎥 Create videos programmatically in React](https://github.com/remotion-dev/remotion)
+6. [What are wrapper objects for primitive values?](https://2ality.com/2022/02/wrapper-objects.html)
+7. [A Proposal For Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
+8. [ReScript on Deno: Declarative Command Line Tools](https://practicalrescript.com/rescript-on-deno-declarative-command-line-tools/)
+
+## 第一百二十七期 
 
 1. [基于 Rust 的 Web 平台](https://github.com/swc-project/swc)
 2. [📖React 组件的文档生成器](https://github.com/umijs/dumi)
