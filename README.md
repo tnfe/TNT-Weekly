@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十八期 :new:
+## 第一百二十九期 :new:
+
+1. [TDesign-A starter-kit for TDesign React UI components](https://github.com/Tencent/tdesign-react-starter)
+2. [Yao 一个用于创建 Web 服务和仪表板的低代码引擎](https://github.com/YaoApp/yao)
+3. [CodeEdit App-适用于macOS提升您的代码编辑体验](https://github.com/CodeEditApp/CodeEdit)
+4. [跨端跨框架的原生 UI 组件库](https://github.com/yued-fe/lulu)
+5. [How do primitive values get their properties?](https://2ality.com/2022/03/properties-of-primitives.html)
+6. [Full-sized drag & drop event calendar](https://github.com/fullcalendar/fullcalendar)
+7. [Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams](https://github.com/wbkd/react-flow)
+8. [A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
+
+## 第一百二十八期 
 
 1. [LowCodeEngine-一套面向扩展设计的企业级低代码技术体系](https://github.com/alibaba/lowcode-engine)
 2. [Windi CSS-下一代实用程序优先的 CSS 框架](https://github.com/windicss/windicss)
