@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十九期 :new:
+## 第一百三十期 :new:
+
+1. [Vitest-由 Vite 提供支持的极速单元测试框架](https://github.com/vitest-dev/docs-cn)
+2. [React DevUI- 一个基于 React 18 的组件库](https://juejin.cn/post/7079174136710299655)
+3. [Flutter好用的轮子推荐05：一个顶N个！界面开发提速大杀器Getwidget 🚀（一）](https://juejin.cn/post/7078606984739553317)
+4. [Flutter好用的轮子推荐05：一个顶N个！界面开发提速大杀器Getwidget 🚀（二）](https://juejin.cn/post/7079838044873818149)
+5. [𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use](https://github.com/mdbootstrap/Tailwind-Elements)
+6. [Interactive plug and play charting library for Svelte](https://github.com/oslabs-beta/svend3r)
+7. [Minimalistic JavaScript MV library for building user interfaces.](https://github.com/8tentaculos/rasti)
+8. [Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.](https://github.com/qber-soft/Ave-Nodejs)
+
+## 第一百二十九期 
 
 1. [TDesign-A starter-kit for TDesign React UI components](https://github.com/Tencent/tdesign-react-starter)
 2. [Yao 一个用于创建 Web 服务和仪表板的低代码引擎](https://github.com/YaoApp/yao)
