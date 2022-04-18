@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百三十期 :new:
+## 第一百三十一期 :new:
+
+1. [一套基于Taro框架开发的多端React UI组件库](https://github.com/jd-antelope/tard)
+2. [electron-vite | 新一代electron开发构建工具](https://juejin.cn/post/7084126780390375461)
+3. [阿里低代码引擎 lowcode-engine 使用详解 - 开发自定义组件并集成](https://juejin.cn/post/7086051199060803592)
+4. [打造轻量级 WebIDE，看这一篇文章就够啦](https://juejin.cn/post/7085224136980561927)
+5. [The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.](https://github.com/aurelia/framework)
+6. [FortuneSheet is an online spreadsheet component library that provides out-of-the-box features just like Excel](https://github.com/ruilisi/fortune-sheet)
+7. [The next-generation, DevOps-free cloud development framework.](https://github.com/stacktape/stacktape)
+8. [JavaScript naming conflicts: How existing code can force proposed features to be renamed](https://2ality.com/2022/03/naming-conflicts.html)
+
+## 第一百三十期 
 
 1. [Vitest-由 Vite 提供支持的极速单元测试框架](https://github.com/vitest-dev/docs-cn)
 2. [React DevUI- 一个基于 React 18 的组件库](https://juejin.cn/post/7079174136710299655)
