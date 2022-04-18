@@ -28,7 +28,29 @@
 
 ## :books: ​Weekly：
 
-## 第一百二十九期 :new:
+## 第一百三十一期 :new:
+
+1. [一套基于Taro框架开发的多端React UI组件库](https://github.com/jd-antelope/tard)
+2. [electron-vite | 新一代electron开发构建工具](https://juejin.cn/post/7084126780390375461)
+3. [阿里低代码引擎 lowcode-engine 使用详解 - 开发自定义组件并集成](https://juejin.cn/post/7086051199060803592)
+4. [打造轻量级 WebIDE，看这一篇文章就够啦](https://juejin.cn/post/7085224136980561927)
+5. [The Aurelia 1 framework entry point, bringing together all the required sub-modules of Aurelia.](https://github.com/aurelia/framework)
+6. [FortuneSheet is an online spreadsheet component library that provides out-of-the-box features just like Excel](https://github.com/ruilisi/fortune-sheet)
+7. [The next-generation, DevOps-free cloud development framework.](https://github.com/stacktape/stacktape)
+8. [JavaScript naming conflicts: How existing code can force proposed features to be renamed](https://2ality.com/2022/03/naming-conflicts.html)
+
+## 第一百三十期 
+
+1. [Vitest-由 Vite 提供支持的极速单元测试框架](https://github.com/vitest-dev/docs-cn)
+2. [React DevUI- 一个基于 React 18 的组件库](https://juejin.cn/post/7079174136710299655)
+3. [Flutter好用的轮子推荐05：一个顶N个！界面开发提速大杀器Getwidget 🚀（一）](https://juejin.cn/post/7078606984739553317)
+4. [Flutter好用的轮子推荐05：一个顶N个！界面开发提速大杀器Getwidget 🚀（二）](https://juejin.cn/post/7079838044873818149)
+5. [𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use](https://github.com/mdbootstrap/Tailwind-Elements)
+6. [Interactive plug and play charting library for Svelte](https://github.com/oslabs-beta/svend3r)
+7. [Minimalistic JavaScript MV library for building user interfaces.](https://github.com/8tentaculos/rasti)
+8. [Nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.](https://github.com/qber-soft/Ave-Nodejs)
+
+## 第一百二十九期 
 
 1. [TDesign-A starter-kit for TDesign React UI components](https://github.com/Tencent/tdesign-react-starter)
 2. [Yao 一个用于创建 Web 服务和仪表板的低代码引擎](https://github.com/YaoApp/yao)
