@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百三十一期 :new:
+## 第一百三十二期 :new:
+
+1. [Oasis Engine-一个网络优先和移动优先的高性能实时开发平台](https://github.com/oasis-engine/engine)
+2. [微信小程序开源项目：【专注时钟】（v1.2.1）；时间规划、效率工具类](https://github.com/realyao/WXminiprogram-Focus-clock)
+3. [一个可以让你用 Tailwind 或 Windi CSS 开发微信小程序的 Webpack 插件](https://github.com/dcasia/wechat-mini-program-tailwind)
+4. [2022 年值得推荐的 React 库](https://juejin.cn/post/7085558184252801061#heading-20)
+5. [Volta: JS Toolchains as Code. ⚡](https://github.com/volta-cli/volta)
+6. [State of frontend 2022](https://tsh.io/state-of-frontend/)
+7. [Utility types for functional TypeScript](https://github.com/swan-io/boxed)
+8. [Finite state machines for building accessible design systems and UI components.](https://github.com/chakra-ui/zag)
+
+## 第一百三十一期 
 
 1. [一套基于Taro框架开发的多端React UI组件库](https://github.com/jd-antelope/tard)
 2. [electron-vite | 新一代electron开发构建工具](https://juejin.cn/post/7084126780390375461)
