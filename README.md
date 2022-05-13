@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百三十二期 :new:
+## 第一百三十三期 :new:
+
+1. [Antv/S2 基于Canvas的高性能多维分析表格](https://github.com/antvis/S2)
+2. [Flutter 状态管理框架 Provider 和 Get 分析](https://juejin.cn/post/7094520232575762446)
+3. [TDesign 适配桌面端的组件库，适合在 vue 3.x 技术栈项目中使用](https://github.com/Tencent/tdesign-vue-next)
+4. [Google IO 2022——CSS 状态](https://juejin.cn/post/7096665972957773860)
+5. [Introducing Flutter 3](https://medium.com/flutter/introducing-flutter-3-5eb69151622f)
+6. [ShadowRealms – an ECMAScript proposal for a better eval()](https://2ality.com/2022/04/shadow-realms.html)
+7. [The Complete Modern React Developer 2022](https://andrewbaisden.hashnode.dev/the-complete-modern-react-developer-2022)
+8. [16 useful TypeScript and JavaScript shorthands to know](https://blog.logrocket.com/16-useful-typescript-javascript-shorthands-know/)
+
+## 第一百三十二期 
 
 1. [Oasis Engine-一个网络优先和移动优先的高性能实时开发平台](https://github.com/oasis-engine/engine)
 2. [微信小程序开源项目：【专注时钟】（v1.2.1）；时间规划、效率工具类](https://github.com/realyao/WXminiprogram-Focus-clock)
