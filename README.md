@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百三十三期 :new:
+## 第一百三十四期 :new:
+
+1. [PowerImage——一个充分利用原生图片库能力、高扩展性的flutter图片库。](https://github.com/alibaba/power_image/blob/main/README_CN.md)
+2. [对antd的table进行扩展，支持配置展示列](https://github.com/tnfe/manage-table)
+3. [一个基于 Arco Design 的 Vue.js 3 UI 库](https://github.com/arco-design/arco-design-vue)
+4. [使用 Flutter 设计精美的原生 Windows 应用](https://github.com/bdlukaa/fluent_ui)
+5. [Processing Arrays non-destructively: for-of vs. .reduce() vs. .flatMap()](https://2ality.com/2022/05/processing-arrays-non-destructively.html)
+6. [Layouts RFC](https://nextjs.org/blog/layouts-rfc)
+7. [What is new in Angular 14?](https://nevzatopcu.medium.com/what-is-new-in-angular-14-d31edf91fd3e)
+8. [A Out of the Box 🎁 Browser Extension Template with support for React, Typescript, Preact](https://github.com/Debdut/browser-extension)
+
+## 第一百三十三期 
 
 1. [Antv/S2 基于Canvas的高性能多维分析表格](https://github.com/antvis/S2)
 2. [Flutter 状态管理框架 Provider 和 Get 分析](https://juejin.cn/post/7094520232575762446)
