@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百三十四期 :new:
+## 第一百三十五期 :new:
+
+1. [vite + vue3 + ts 开箱即用现代开发模板](https://github.com/dishait/tov-template)
+2. [Vue 无虚拟 DOM 模式即将到来](https://juejin.cn/post/7109676524550553630)
+3. [React新文档：不要滥用Ref哦～](https://juejin.cn/post/7109650186061742094)
+4. [理解了状态管理，就理解了前端开发的核心​](https://mp.weixin.qq.com/s/xbCXiVMaqVTKCQhSdaZbsQ)
+5. [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+6. [Using web streams on Node.js](https://2ality.com/2022/06/web-streams-nodejs.html)
+7. [Using Ultra, the new React web framework](https://blog.logrocket.com/using-ultra-new-react-web-framework/)
+8. [Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB](https://github.com/payloadcms/payload)
+
+## 第一百三十四期 
 
 1. [PowerImage——一个充分利用原生图片库能力、高扩展性的flutter图片库。](https://github.com/alibaba/power_image/blob/main/README_CN.md)
 2. [对antd的table进行扩展，支持配置展示列](https://github.com/tnfe/manage-table)
