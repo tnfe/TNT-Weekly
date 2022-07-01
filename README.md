@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百三十五期 :new:
+## 第一百三十六期 :new:
+
+1. [Vue DevUI，一个基于 Vue3 和 DevUI 设计的 UI 组件](https://github.com/DevCloudFE/vue-devui)
+2. [Spring Cloud Tencent 是腾讯开源的一站式微服务解决方案](https://github.com/Tencent/spring-cloud-tencent)
+3. [ViewUIPlus 一个基于Vue.js 3的企业级UI组件库和前端解决方案](https://github.com/view-design/ViewUIPlus)
+4. [Vite & Vue 支持的静态站点生成器​](https://github.com/vuejs/vitepress)
+5. [Smart, Fast and Extensible Build System](https://github.com/nrwl/nx)
+6. [Fast, easy and reliable testing for anything that runs in a browser.](https://github.com/cypress-io/cypress)
+7. [Create beautiful applications using Go](https://github.com/wailsapp/wails)
+8. [ES2022 Features!](https://h3manth.com/ES2022/)
+
+## 第一百三十五期 
 
 1. [vite + vue3 + ts 开箱即用现代开发模板](https://github.com/dishait/tov-template)
 2. [Vue 无虚拟 DOM 模式即将到来](https://juejin.cn/post/7109676524550553630)
