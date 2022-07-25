@@ -28,7 +28,29 @@
 
 ## :books: ​Weekly：
 
-## 第一百三十五期 :new:
+## 第一百三十七期 :new:
+
+1. [ES2022新规发布，8个实用新功能](https://juejin.cn/post/7119309621453389855)
+2. [为什么 React 的 Diff 算法不采用 Vue 的双端对比算法？](https://juejin.cn/post/7116141318853623839)
+3. [如何实现移动端事件引擎](https://juejin.cn/post/7114231206903808030)
+4. [Vue 2.7 正式发布，代号为 Naruto​](https://juejin.cn/post/7115361618774622216)
+5. [Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.](https://github.com/oven-sh/bun)
+6. [A pure Kotlin UI framework for the Web (and Desktop).](https://github.com/nacular/doodle)
+7. [Executing shell commands from Node.js](https://2ality.com/2022/07/nodejs-child-process.html)
+8. [Build Your Own Wordle For Numbers: Numble](https://www.sitepoint.com/wordle-for-numbers-numble/)
+
+## 第一百三十六期 
+
+1. [Vue DevUI，一个基于 Vue3 和 DevUI 设计的 UI 组件](https://github.com/DevCloudFE/vue-devui)
+2. [Spring Cloud Tencent 是腾讯开源的一站式微服务解决方案](https://github.com/Tencent/spring-cloud-tencent)
+3. [ViewUIPlus 一个基于Vue.js 3的企业级UI组件库和前端解决方案](https://github.com/view-design/ViewUIPlus)
+4. [Vite & Vue 支持的静态站点生成器​](https://github.com/vuejs/vitepress)
+5. [Smart, Fast and Extensible Build System](https://github.com/nrwl/nx)
+6. [Fast, easy and reliable testing for anything that runs in a browser.](https://github.com/cypress-io/cypress)
+7. [Create beautiful applications using Go](https://github.com/wailsapp/wails)
+8. [ES2022 Features!](https://h3manth.com/ES2022/)
+
+## 第一百三十五期 
 
 1. [vite + vue3 + ts 开箱即用现代开发模板](https://github.com/dishait/tov-template)
 2. [Vue 无虚拟 DOM 模式即将到来](https://juejin.cn/post/7109676524550553630)
