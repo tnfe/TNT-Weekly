@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百三十七期 :new:
+## 第一百三十八期 :new:
+
+1. [Concis-一套轻量级React UI组件库](https://github.com/fengxinhhh/Concis)
+2. [Bruno-一套企业级移动端 Flutter 组件库](https://github.com/LianjiaTech/bruno)
+3. [Formily-统一前端表单解决方案](https://github.com/alibaba/formily)
+4. [《2022 Web 前端生态趋势》​](https://juejin.cn/post/7123126028838862862#heading-25)
+5. [🚀 Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
+6. [🏝 The joyful site generator](https://github.com/ElMassimo/iles)
+7. [Node.js: creating ESM-based shell scripts for Unix and Windows](https://2ality.com/2022/07/nodejs-esm-shell-scripts.html)
+8. [Simple State Management in JavaScript with Nanny State](https://www.sitepoint.com/simple-state-management-nanny-state/)
+
+## 第一百三十七期 
 
 1. [ES2022新规发布，8个实用新功能](https://juejin.cn/post/7119309621453389855)
 2. [为什么 React 的 Diff 算法不采用 Vue 的双端对比算法？](https://juejin.cn/post/7116141318853623839)
