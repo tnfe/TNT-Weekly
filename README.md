@@ -28,7 +28,18 @@
 
 ## :books: ​Weekly：
 
-## 第一百三十八期 :new:
+## 第一百三十九期 :new:
+
+1. [InkPaint-一个轻量级node.js canvas图形渲染框架](https://github.com/drawcall/inkpaint)
+2. [daymanage-基于umi3开发的日程管理系统，包括新建日程 日程列表， 打通微信， 定时推送日程](https://github.com/xlei1123/daymanage)
+3. [mouse-ui-集成了项目中一些常用但不常见的reactui组件](https://github.com/xlei1123/mouse-ui)
+4. [awesome-fe-team-收录国内各大知名前端团队的blog，欢迎补充👏​](https://github.com/xlei1123/awesome-fe-team)
+5. [Virtual DOM into the future!](https://github.com/aidenybai/million)
+6. [Build faster websites with Astro's next-gen island architecture 🏝✨](https://github.com/withastro/astro)
+7. [Why Async/Await Is More Than Just Syntactic Sugar](https://www.zhenghao.io/posts/await-vs-promise)
+8. [Parsing command line arguments with util.parseArgs() in Node.js](https://2ality.com/2022/08/node-util-parseargs.html)
+
+## 第一百三十八期 
 
 1. [Concis-一套轻量级React UI组件库](https://github.com/fengxinhhh/Concis)
 2. [Bruno-一套企业级移动端 Flutter 组件库](https://github.com/LianjiaTech/bruno)
