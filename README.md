@@ -28,6 +28,17 @@
 
 ## :books: ​Weekly：
 
+## 第一百四十期 :new:
+
+1. [Fatcher-Send fetch request gracefully in browsers and nodeJS](https://github.com/fatcherjs/fatcher)
+2. [js-sdsl——一个参考 C++ STL 实现的 JavaScript 标准数据结构库](https://github.com/js-sdsl/js-sdsl/blob/main/README.zh-CN.md)
+3. [网页在线webrtc-p2p文件传输](https://github.com/iamtsm/tl-rtc-file)
+4. [tlops-基于openresty的API网关](https://github.com/iamtsm/tl-ops-manage)
+5. [TypeScript vs JavaScript: Which One You Should Use, and Why](https://www.sitepoint.com/typescript-vs-javascript/)
+6. [Managing a full-stack, multipackage monorepo using pnpm](https://blog.logrocket.com/managing-full-stack-monorepo-pnpm/)
+7. [The Top 12 Node.js Frameworks on GitHub️](https://andrewbaisden.hashnode.dev/the-top-12-nodejs-frameworks-on-github)
+8. [TypeScript: Generics](https://www.robinwieruch.de/typescript-generics/)
+
 ## 第一百三十九期 :new:
 
 1. [InkPaint-一个轻量级node.js canvas图形渲染框架](https://github.com/drawcall/inkpaint)
