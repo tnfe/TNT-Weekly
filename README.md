@@ -28,6 +28,17 @@
 
 ## :books: ​Weekly：
 
+## 第一百四十一期 :new:
+
+1. [Web frameworks we are most excited for in 2024](https://dev.to/wasp/web-frameworks-we-are-most-excited-for-in-2024-4d15)
+2. [What is Server Side Rendering (SSR) and Static Site Generation (SSG)](https://dev.to/this-is-learning/what-is-server-side-rendering-ssr-and-static-site-generation-ssg-308o)
+3. [炫酷的量子纠缠效果：multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
+4. [程序员的便签：heynote](https://github.com/heyman/heynote)
+5. [狼叔的2023总结](https://juejin.cn/post/7317872507322433573)
+6. [How to create a good README.md file](https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2)
+7. [Exploring CSS where it doesnot make sense](https://dev.to/samuel-braun/exploring-css-where-it-doesnt-make-sense-417k)
+8. [Slots, Slots, Slots, Everybody!](https://dev.to/abbeyperini/slots-slots-slots-everybody-4p5i)
+
 ## 第一百四十期 :new:
 
 1. [Fatcher-Send fetch request gracefully in browsers and nodeJS](https://github.com/fatcherjs/fatcher)
