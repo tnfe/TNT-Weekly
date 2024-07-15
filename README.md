@@ -28,6 +28,17 @@
 
 ## :books: ​Weekly：
 
+## 第一百四十二期 :new:
+
+1. [The Top 12 Open-Source No-Code Tools](https://dev.to/nocobase/the-top-12-open-source-no-code-tools-with-the-most-github-stars-4aac)
+2. [Node.js is Not Single-Threaded](https://dev.to/evgenytk/nodejs-is-not-single-threaded-29o1)
+3. [一个使用行业流行AI LLM生成短视频的轻量nodejs项目](https://github.com/drawcall/FFAIVideo)
+4. [基于Canvas的在线设计工具，具备海报设计和图片编辑功能](https://github.com/tnfe/TNT-Weekly/issues/138)
+5. [一款致力于从自动化到智能化的企业级问卷系统](https://github.com/tnfe/TNT-Weekly/issues/141)
+6. [让构建现代化 SaaS 应用变得简单、高效](https://github.com/tnfe/TNT-Weekly/issues/137)
+7. [一款基于 AI 的「浏览器翻译插件」](https://github.com/tnfe/TNT-Weekly/issues/133)
+8. [Top 5 Must-Read Books for Software Architects](https://dev.to/tectrain_academy/top-5-must-read-books-for-software-architects-46en)
+
 ## 第一百四十一期 :new:
 
 1. [Web frameworks we are most excited for in 2024](https://dev.to/wasp/web-frameworks-we-are-most-excited-for-in-2024-4d15)
