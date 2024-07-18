@@ -1,8 +1,10 @@
 name: gh-pages
 on:
   push:
+    branches:
+      - master
     paths:
-      - '**.md'  
+      - 'README.md'  
   workflow_dispatch:
         
 jobs:
