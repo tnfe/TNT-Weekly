@@ -1,0 +1,26 @@
+name: gh-pages
+on:
+  push:
+    paths:
+      - '**.md'  
+  workflow_dispatch:
+        
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: 'https://registry.npmjs.org'
+
+      - run: npx markdown-to-html-cli -y 
+
+      - uses: JamesIves/github-pages-deploy-action@3.6.2
+        with:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            BRANCH: gh-pages
+            FOLDER: "."
+            CLEAN: false
