@@ -28,6 +28,17 @@
 
 ## :books: ​Weekly：
 
+## 第一百四十三期 :new:
+
+1. [京东开源AI项目-给定一段音频或图片，让你的宠物动起来](https://github.com/jdh-algo/JoyVASA)
+2. [JoyHallo: Digital human model for Mandarin](https://github.com/jdh-algo/JoyHallo)
+3. [一款开源的一站式 API 开发者门户](https://github.com/tnfe/TNT-Weekly/issues/154)
+4. [Easy React Animation with GSAP](https://dev.to/greyboyle/easy-react-animation-with-gsap-1bnp)
+5. [Fideo一款简单易用的直播录制软件](https://github.com/tnfe/TNT-Weekly/issues/148)
+6. [基于Vue3开发的在线图片编辑器](https://github.com/tnfe/TNT-Weekly/issues/150)
+7. [一个基于Nextron(NextJS+Electron)的桌面端实时聊天工具](https://github.com/tnfe/TNT-Weekly/issues/153)
+8. [A simple and lightweight node.js server-side GIF maker](https://github.com/drawcall/gifcreator)
+
 ## 第一百四十二期 :new:
 
 1. [The Top 12 Open-Source No-Code Tools](https://dev.to/nocobase/the-top-12-open-source-no-code-tools-with-the-most-github-stars-4aac)
