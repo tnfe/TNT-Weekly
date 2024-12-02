@@ -10,7 +10,7 @@
 
 ## :clap: 欢迎参与 ​
 
-若您有意参与并贡献您的智慧，请将您发掘到的有价值信息、精彩文章等，通过我们的[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)板块提交给我们。在提交时，请别忘了附上您的推荐理由，这将帮助我们更快地识别并处理您的宝贵内容。此外，我们也热忱欢迎您就任何建议或意见在[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)区域发表看法。值得一提的是，我们的[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)区域同样是一个绝佳的宣传平台，期待您的精彩发声。
+若您有意参与并贡献您的智慧，请将您发掘到的有价值信息、精彩文章等，通过我们的[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)板块提交给我们。在提交时，请别忘了附上您的推荐理由，这将帮助我们更快地识别并处理您的宝贵内容。此外，我们也热忱欢迎您就任何建议或意见在[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)区域发表看法。值得一提的是，[Issues](https://github.com/Tnfe/TNFE-Weekly/issues)板块不仅是一个交流的平台，更是一个自带流量的宣传舞台，期待您的精彩发声能吸引更多关注。
 
 <br />
 
