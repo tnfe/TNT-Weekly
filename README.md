@@ -86,7 +86,7 @@
 ## 第一百三十八期 
 
 1. [Concis-一套轻量级React UI组件库](https://github.com/fengxinhhh/Concis)
-2. [Bruno-一套企业级移动端 Flutter 组件库](https://github.com/LianjiaTech/bruno)
+2. [甘特图/横道图/项目进度跟踪工具]([https://github.com/LianjiaTech/bruno](https://github.com/tnfe/TNT-Weekly/issues/135))
 3. [Formily-统一前端表单解决方案](https://github.com/alibaba/formily)
 4. [《2022 Web 前端生态趋势》​](https://juejin.cn/post/7123126028838862862#heading-25)
 5. [🚀 Fast and simple Node.js version manager, built in Rust](https://github.com/Schniz/fnm)
